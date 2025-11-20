@@ -1,0 +1,150 @@
+[{
+  "originIndex": 1,
+  "destinationIndex": 3,
+  "status": {},
+  "distanceMeters": 1486,
+  "duration": "373s",
+  "staticDuration": "373s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 0,
+  "destinationIndex": 1,
+  "status": {},
+  "distanceMeters": 2172,
+  "duration": "525s",
+  "staticDuration": "525s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 0,
+  "destinationIndex": 2,
+  "status": {},
+  "distanceMeters": 2527,
+  "duration": "625s",
+  "staticDuration": "625s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 2,
+  "destinationIndex": 1,
+  "status": {},
+  "distanceMeters": 2068,
+  "duration": "498s",
+  "staticDuration": "498s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 2,
+  "destinationIndex": 2,
+  "status": {},
+  "distanceMeters": 6529,
+  "duration": "697s",
+  "staticDuration": "697s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 1,
+  "destinationIndex": 1,
+  "status": {},
+  "distanceMeters": 2325,
+  "duration": "523s",
+  "staticDuration": "523s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 2,
+  "destinationIndex": 3,
+  "status": {},
+  "distanceMeters": 2069,
+  "duration": "433s",
+  "staticDuration": "433s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 1,
+  "destinationIndex": 2,
+  "status": {},
+  "distanceMeters": 1748,
+  "duration": "384s",
+  "staticDuration": "384s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 0,
+  "destinationIndex": 3,
+  "status": {},
+  "distanceMeters": 1410,
+  "duration": "308s",
+  "staticDuration": "308s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 2,
+  "destinationIndex": 4,
+  "status": {},
+  "distanceMeters": 3037,
+  "duration": "495s",
+  "staticDuration": "495s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 1,
+  "destinationIndex": 0,
+  "status": {},
+  "distanceMeters": 3252,
+  "duration": "587s",
+  "staticDuration": "587s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 1,
+  "destinationIndex": 4,
+  "status": {},
+  "distanceMeters": 4117,
+  "duration": "824s",
+  "staticDuration": "824s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 0,
+  "destinationIndex": 0,
+  "status": {},
+  "distanceMeters": 3092,
+  "duration": "535s",
+  "staticDuration": "535s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 0,
+  "destinationIndex": 4,
+  "status": {},
+  "distanceMeters": 3083,
+  "duration": "632s",
+  "staticDuration": "632s",
+  "condition": "ROUTE_EXISTS"
+}
+,
+{
+  "originIndex": 2,
+  "destinationIndex": 0,
+  "status": {},
+  "distanceMeters": 3751,
+  "duration": "659s",
+  "staticDuration": "659s",
+  "condition": "ROUTE_EXISTS"
+}
+]

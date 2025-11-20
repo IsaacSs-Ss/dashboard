@@ -1,0 +1,6 @@
+{"engine": "google", "batch_size": 625, "rows_cum": 625, "origins_in_batch": 1, "dest_unique_in_batch": 625}
+{"engine": "google", "batch_size": 466, "rows_cum": 1091, "origins_in_batch": 1, "dest_unique_in_batch": 466}
+{"engine": "google", "batch_size": 625, "rows_cum": 1716, "origins_in_batch": 1, "dest_unique_in_batch": 625}
+{"engine": "google", "batch_size": 466, "rows_cum": 2182, "origins_in_batch": 1, "dest_unique_in_batch": 466}
+{"engine": "google", "batch_size": 625, "rows_cum": 2807, "origins_in_batch": 1, "dest_unique_in_batch": 625}
+{"engine": "google", "batch_size": 304, "rows_cum": 3111, "origins_in_batch": 1, "dest_unique_in_batch": 466}

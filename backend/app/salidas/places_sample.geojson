@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJCf5VG5WJzYUR0TgtzGkjc6M",
+        "name": "Soriana Mercado Toluca Centro",
+        "address": "Av. Benito Juárez Garcia Sur 231, Centro, 50090 Toluca de Lerdo, Méx.",
+        "types": "supermarket,pharmacy,grocery_store,food_store,health,atm,finance,store,food,point_of_interest,establishment",
+        "rating": 3.9,
+        "user_ratings_total": 7113,
+        "phone": "55 7921 0680",
+        "website": "https://www.soriana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65379329999999,
+          19.286542900000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJ48ubVZWJzYURAsNEP_zP2zQ",
+        "name": "Super Kompras ® | Centro",
+        "address": "C. Mariano Matamoros 104, Centro, 50000 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 1059,
+        "phone": "722 214 2911",
+        "website": "http://www.superkompras.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6567997,
+          19.289464199999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJNYvjXMCJzYURsF1tpahQcl4",
+        "name": "Waldo's",
+        "address": "Av. Miguel Hidalgo 200-Poniente, Centro, 50000 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 1007,
+        "phone": "722 213 8256",
+        "website": "https://www.waldos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65853639999999,
+          19.289927499999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJq398C-uJzYURK-7vrSc_b-A",
+        "name": "Garis Independencia",
+        "address": "Av. Independencia 304, Barrio de Sta Clara, 50000 Toluca de Lerdo, Méx.",
+        "types": "supermarket,candy_store,confectionery,grocery_store,food_store,atm,finance,store,food,point_of_interest,establishment",
+        "rating": 4,
+        "user_ratings_total": 4886,
+        "phone": "722 276 1178",
+        "website": "http://www.garis.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65235,
+          19.2919998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJh7X3spqJzYURKQr0PwuDbYw",
+        "name": "Super Kompras Tollocan",
+        "address": "Av. Paseo Tollocan Ote. 312, Valle Verde y Terminal, 50140 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,atm,finance,store,food,point_of_interest,establishment",
+        "rating": 4,
+        "user_ratings_total": 837,
+        "phone": "722 212 8411",
+        "website": "http://www.superkompras.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6454399,
+          19.276516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJC700CP-JzYURhOkYGyfzj7w",
+        "name": "Chedraui Alfredo del Mazo",
+        "address": "Via Alfredo del Mazo 705, Barrio de Tlacopa, 50100 Toluca de Lerdo, Méx.",
+        "types": "supermarket,liquor_store,grocery_store,food_store,atm,finance,store,food,point_of_interest,establishment",
+        "rating": 3.9,
+        "user_ratings_total": 6699,
+        "phone": "55 5563 2222",
+        "website": "http://www.chedraui.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.63574539999999,
+          19.3103884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJK74gTiCKzYUR5KOz3rammrU",
+        "name": "Soriana Híper Patio Toluca",
+        "address": "Av. Miguel Hidalgo 1337, Reforma y FFCC Nacionales, 50010 Toluca de Lerdo, Méx.",
+        "types": "supermarket,pharmacy,grocery_store,food_store,health,atm,finance,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 4351,
+        "phone": "444 819 5685",
+        "website": "https://www.soriana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6329807,
+          19.2871107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJ0YLHT5iJzYUR5hjsa-1BUPo",
+        "name": "Bodega Aurrera Express Toluca Universidad",
+        "address": "Av. Benito Juárez Garcia Sur 1110, Universidad, 50121 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 3.9,
+        "user_ratings_total": 739,
+        "phone": "722 212 3871",
+        "website": "https://www.bodegaaurrera.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6541895,
+          19.274791099999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJ5XTPPOuJzYURVEDwpZ4Pf6w",
+        "name": "Súper Naturista",
+        "address": "Ignacio López Rayon 100-Local 5 y 6, 5 de Mayo, 50010 Toluca de Lerdo, Méx.",
+        "types": "supermarket,asian_grocery_store,grocery_store,food_store,health,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 207,
+        "phone": "722 167 0306",
+        "website": "http://www.supernaturista.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65303499999999,
+          19.2900062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJq3dXtTmJzYURCxHvMGnNWrw",
+        "name": "Super Kompras ® | Pino Suárez",
+        "address": "Pino Suárez Sur #1909 Colonia Magdalena Metepec, Manzana 020, La Magdalena, 50190 Toluca de Lerdo, Méx.",
+        "types": "supermarket,convenience_store,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.3,
+        "user_ratings_total": 119,
+        "phone": "722 239 4773",
+        "website": "https://www.superkompras.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.63854459999999,
+          19.2682335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJB034a6mJzYUReEL3y36VWoo",
+        "name": "Super Kompras| Seminario",
+        "address": "C. Laguna del Volcán 702, El Seminario Primera Secc, 50170 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4,
+        "user_ratings_total": 387,
+        "phone": "722 280 3288",
+        "website": "http://www.superkompras.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6728467,
+          19.2672301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJU0C0X_KJzYUR_zLe8tcqlqQ",
+        "name": "Garis Lerdo",
+        "address": "Av. Independencia 913, Barrio de Sta Clara, 50070 Toluca de Lerdo, Méx.",
+        "types": "supermarket,liquor_store,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 4212,
+        "phone": "722 213 6957",
+        "website": "http://www.garis.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6436767,
+          19.2929019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJNTgon6iJzYURIategXXjj4M",
+        "name": "Tiendas 3B",
+        "address": "Av. Miguel Hidalgo 412, Barrio de la Merced, 50080 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.4,
+        "user_ratings_total": 50,
+        "phone": null,
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6595156,
+          19.290302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJi9pVG8CJzYURcl0x75XDvGQ",
+        "name": "Plaza Acrópolis ®| Toluca",
+        "address": "C. Mariano Matamoros SUR 104, Centro, 50000 Toluca de Lerdo, Méx.",
+        "types": "shopping_mall,gift_shop,supermarket,department_store,clothing_store,furniture_store,home_improvement_store,home_goods_store,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.1,
+        "user_ratings_total": 3432,
+        "phone": "722 457 3689",
+        "website": "https://acropolis.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.656567,
+          19.289172399999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJo1n-S4yJzYURo_-EuBiKeDE",
+        "name": "Waldo's",
+        "address": "Blvd. Isidro Fabela No. 600, San Sebastián, 50150 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4,
+        "user_ratings_total": 653,
+        "phone": "722 226 1459",
+        "website": "http://www.waldos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6420409,
+          19.2851399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJG69jbY-JzYURyNaBEJN4AyI",
+        "name": "Súper Naturista",
+        "address": "Central Camionera, Blvd. Isidro Fabela 808, Altamirano, 50130 Toluca de Lerdo, Méx.",
+        "types": "supermarket,asian_grocery_store,grocery_store,food_store,health,store,food,point_of_interest,establishment",
+        "rating": 4.1,
+        "user_ratings_total": 44,
+        "phone": "722 212 2276",
+        "website": "http://www.supernaturista.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.64181289999999,
+          19.2799846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJF7Jg5eqJzYURuCRJ74jEZwM",
+        "name": "Farmacias Benavides",
+        "address": "Av. Primero de Mayo 101-B, Barrio de Sta Clara, 50000 Toluca de Lerdo, Méx.",
+        "types": "pharmacy,supermarket,government_office,grocery_store,food_store,doctor,health,store,consultant,food,point_of_interest,establishment",
+        "rating": 3.9,
+        "user_ratings_total": 30,
+        "phone": "81 8126 0000",
+        "website": "https://www.benavides.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6542611,
+          19.2908389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJjZIJwY-JzYURH6DdH8dSyXs",
+        "name": "Garis Altamirano",
+        "address": "Calle Gral. Venustiano Carranza 20 Pte. 731 Oriente, Altamirano, 50130 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 4.2,
+        "user_ratings_total": 1627,
+        "phone": "722 276 1100",
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6442368,
+          19.27996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJg32e43KJzYUR_fCvxvXXHbc",
+        "name": "D'LA COLONIA",
+        "address": "Calle Francisco Murguía 16 Ote. 301-A, Cuauhtémoc, 50130 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone": "722 705 3087",
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65171409999999,
+          19.2810921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_id": "ChIJGbexepWJzYURbQiSOWFVP8g",
+        "name": "Súper Ofertas",
+        "address": "Ignacio Allende 224-B, Centro, 50000 Toluca de Lerdo, Méx.",
+        "types": "supermarket,grocery_store,food_store,store,food,point_of_interest,establishment",
+        "rating": 3.3,
+        "user_ratings_total": 4,
+        "phone": "722 505 4008",
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65549399999999,
+          19.2865498
+        ]
+      }
+    }
+  ]
+}

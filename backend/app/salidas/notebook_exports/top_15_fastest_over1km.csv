@@ -1,0 +1,16 @@
+origin_name,dest_name,cat,distance_m,duration_min,speed_kmh
+O3_ZonaSur,Templo Shaolin De Mexico Suc Toluca,school,1022,3.216666666666667,19.063212435233158
+O3_ZonaSur,Instituto De Desarrollo De Competencias Educativas,school,1035,3.383333333333333,18.354679802955665
+O1_Conjunto,Centro De Formacion Virtud Marcial Y Deporte Tae Kwondo,school,1234,3.466666666666667,21.357692307692307
+O3_ZonaSur,Dirección de Aprendizaje de Lenguas,school,1106,3.6,18.433333333333334
+O1_Conjunto,Preparatoria Itaht,school,1303,3.633333333333333,21.517431192660553
+O1_Conjunto,Farmacias del Ahorro,pharma,1009,3.716666666666667,16.28878923766816
+O2_Centro,Instituto Brima,school,1019,3.733333333333333,16.376785714285717
+O3_ZonaSur,"CEAJA ""QFB Yolanda Senties de Ballesteros"" Turno Vespertino",school,1107,3.733333333333333,17.79107142857143
+O3_ZonaSur,Unidad de Apoyo a la Educación Básica y Normal,school,1241,3.916666666666667,19.011063829787233
+O3_ZonaSur,Secundaria Lic Benito Juarez,school,1099,3.933333333333333,16.76440677966102
+O1_Conjunto,Instituto Superior Concordia,school,1134,3.95,17.2253164556962
+O2_Centro,Instituto Universitario Johann Friedrich Herbart,school,1029,3.983333333333333,15.499581589958158
+O2_Centro,Niot Robotica Y Tecnologica,school,1052,3.983333333333333,15.846025104602512
+O3_ZonaSur,Vigotsky´s Kids,school,1110,4.0,16.650000000000002
+O2_Centro,Academia De Belleza Reflejos,school,1175,4.016666666666667,17.551867219917014

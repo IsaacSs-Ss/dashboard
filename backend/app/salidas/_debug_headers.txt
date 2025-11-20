@@ -1,0 +1,11 @@
+Content-Type: application/json; charset=UTF-8
+Vary: Origin, X-Origin, Referer
+Content-Encoding: gzip
+Date: Sat, 30 Aug 2025 02:26:09 GMT
+Server: scaffolding on HTTPServer2
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Server-Timing: l2gfet4t7; dur=32
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked

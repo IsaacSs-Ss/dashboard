@@ -1,0 +1,16 @@
+origin_name,dest_name,cat,distance_m,duration_min,speed_kmh
+O1_Conjunto,Super Texas,super,11698,28.38333333333333,24.728596594245452
+O3_ZonaSur,Farmacia,pharma,10643,26.43333333333333,24.158133669609086
+O3_ZonaSur,Farmacia GI,pharma,10605,26.4,24.102272727272727
+O2_Centro,Grupo Médico Los Angeles,hospital,8752,26.28333333333333,19.979201014584657
+O2_Centro,Compañia Transportista De Toluca,bus,8628,26.08333333333333,19.847156549520772
+O2_Centro,La Botica Moderna,pharma,8967,26.08333333333333,20.62696485623004
+O1_Conjunto,Grupo Médico Los Angeles,hospital,8907,25.91666666666667,20.62070739549839
+O1_Conjunto,Compañia Transportista De Toluca,bus,8783,25.71666666666667,20.49176928062216
+O2_Centro,Farmacia,pharma,12469,25.06666666666667,29.846010638297866
+O2_Centro,Farmacias Similares,pharma,12184,24.88333333333333,29.37870060281313
+O2_Centro,Tiendas Tres B,super,9529,24.63333333333333,23.21001353179973
+O1_Conjunto,Farmacias Similares,pharma,12443,24.56666666666667,30.389959294436903
+O2_Centro,Super Texas,super,10919,24.35,26.90513347022587
+O3_ZonaSur,Grupo Médico Los Angeles,hospital,8810,24.2,21.842975206611573
+O2_Centro,Redfields De Mexico,pharma,10572,24.16666666666667,26.247724137931026

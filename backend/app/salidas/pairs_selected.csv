@@ -1,0 +1,1542 @@
+origin_index,origin_name,o_lat,o_lon,dest_name,d_lat,d_lon,cat,cat_key,cat_val,km_straight
+0,O1_Conjunto,19.287,-99.655,Súper Compras,19.2894882,-99.6568576,super,shop,supermarket,0.3384658748965784
+0,O1_Conjunto,19.287,-99.655,super (OSM),19.2925124,-99.6543379,super,shop,supermarket,0.6168772533620971
+0,O1_Conjunto,19.287,-99.655,La Estrella,19.2923025,-99.6531097,super,shop,supermarket,0.6220936656226516
+0,O1_Conjunto,19.287,-99.655,Prak tis,19.2902688,-99.6610022,super,shop,supermarket,0.7272896241495659
+0,O1_Conjunto,19.287,-99.655,Bodega Aurrera Express,19.2921475,-99.6633593,super,shop,supermarket,1.0475313933834967
+0,O1_Conjunto,19.287,-99.655,Sanborns,19.2785176,-99.6595698,super,shop,supermarket,1.0581460125252626
+0,O1_Conjunto,19.287,-99.655,Super kompras Micro Lerdo,19.2919658,-99.6640843,super,shop,supermarket,1.1017737780340005
+0,O1_Conjunto,19.287,-99.655,Super Kompras,19.2962844,-99.6472148,super,shop,supermarket,1.3165873147165925
+0,O1_Conjunto,19.287,-99.655,Garis,19.2756449,-99.6696896,super,shop,supermarket,1.9928236721967978
+0,O1_Conjunto,19.287,-99.655,El Primo2,19.2749442,-99.669521,super,shop,supermarket,2.0297603288414434
+0,O1_Conjunto,19.287,-99.655,Super Kompras,19.2838533,-99.67452,super,shop,supermarket,2.0783902211497605
+0,O1_Conjunto,19.287,-99.655,Price Shoes,19.2850908,-99.6352395,super,shop,supermarket,2.084796832114901
+0,O1_Conjunto,19.287,-99.655,Tiendas 3B,19.293487,-99.6739194,super,shop,supermarket,2.112590061981225
+0,O1_Conjunto,19.287,-99.655,Oxxo,19.26987,-99.642021,super,shop,supermarket,2.3417792872886993
+0,O1_Conjunto,19.287,-99.655,super (OSM),19.2692464,-99.6427101,super,shop,supermarket,2.3581929017442578
+0,O1_Conjunto,19.287,-99.655,Coppel,19.2632865,-99.6450995,super,shop,supermarket,2.834203215824596
+0,O1_Conjunto,19.287,-99.655,Plaza Puerto Madero,19.3036791,-99.6283173,super,shop,supermarket,3.3587861441592564
+0,O1_Conjunto,19.287,-99.655,Tienda San Miguel,19.2606786,-99.6783738,super,shop,supermarket,3.819063686395171
+0,O1_Conjunto,19.287,-99.655,Canasta Básica,19.2687638,-99.6905532,super,shop,supermarket,4.247021687181201
+0,O1_Conjunto,19.287,-99.655,Supercito Chedraui,19.2682708,-99.6919533,super,shop,supermarket,4.402377921563142
+0,O1_Conjunto,19.287,-99.655,Modelorama,19.3030403,-99.6947154,super,shop,supermarket,4.533678328657678
+0,O1_Conjunto,19.287,-99.655,Soriana,19.2666635,-99.6046317,super,shop,supermarket,5.750015328280722
+0,O1_Conjunto,19.287,-99.655,"Super ""Don Pablito""",19.2646134,-99.5987766,super,shop,supermarket,6.4048163577114074
+0,O1_Conjunto,19.287,-99.655,Mini Super Palkaminio,19.2474616,-99.6103632,super,shop,supermarket,6.425089962385163
+0,O1_Conjunto,19.287,-99.655,Bodega Aurrera,19.2703679,-99.588793,super,shop,supermarket,7.1909445982880555
+0,O1_Conjunto,19.287,-99.655,Supersito,19.2977232,-99.7236625,super,shop,supermarket,7.304163409984799
+0,O1_Conjunto,19.287,-99.655,Mercado Mario Ramón,19.2600282,-99.5897858,super,shop,supermarket,7.473267536232545
+0,O1_Conjunto,19.287,-99.655,Super Texas,19.3232011,-99.7183035,super,shop,supermarket,7.767640043104879
+0,O1_Conjunto,19.287,-99.655,Sucursal Pstoluca,19.2899905,-99.6530074,pharma,amenity,pharmacy,0.39282369091701524
+0,O1_Conjunto,19.287,-99.655,Benavides,19.2909051,-99.6542409,pharma,amenity,pharmacy,0.4414755157592134
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2903265,-99.6584578,pharma,amenity,pharmacy,0.5181891940665808
+0,O1_Conjunto,19.287,-99.655,Equilibrio Farmacéutico Toluca,19.2902037,-99.6512234,pharma,amenity,pharmacy,0.5329255823631447
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2917294,-99.6528484,pharma,amenity,pharmacy,0.5723183564979607
+0,O1_Conjunto,19.287,-99.655,Farmacia y droguería Toluca,19.2921873,-99.6556065,pharma,amenity,pharmacy,0.5803031112784413
+0,O1_Conjunto,19.287,-99.655,Farmacia Dermatologica,19.2901216,-99.6597842,pharma,amenity,pharmacy,0.6104132016339148
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.292305,-99.6532438,pharma,amenity,pharmacy,0.6180146539879106
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2927675,-99.6528947,pharma,amenity,pharmacy,0.6783132083315159
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2877732,-99.6626912,pharma,amenity,pharmacy,0.8117876079414226
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2889339,-99.6474517,pharma,amenity,pharmacy,0.8208876856250859
+0,O1_Conjunto,19.287,-99.655,Distribuidora y comercializadora opciones farmacéuticas,19.2900428,-99.6468155,pharma,amenity,pharmacy,0.9232226433525336
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2791459,-99.6590222,pharma,amenity,pharmacy,0.9700166993717704
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2956477,-99.650796,pharma,amenity,pharmacy,1.0579736468206729
+0,O1_Conjunto,19.287,-99.655,San Pablo Farmacia,19.2782301,-99.6592617,pharma,amenity,pharmacy,1.0728590366190525
+0,O1_Conjunto,19.287,-99.655,Toluca 11,19.2931894,-99.663062,pharma,amenity,pharmacy,1.0906822037682546
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2919984,-99.6639747,pharma,amenity,pharmacy,1.0936726625537507
+0,O1_Conjunto,19.287,-99.655,La Barata de México,19.2934713,-99.6638507,pharma,amenity,pharmacy,1.17500819152419
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.2958702,-99.6485768,pharma,amenity,pharmacy,1.1946850076938043
+0,O1_Conjunto,19.287,-99.655,San Judas Tadeo,19.2930039,-99.6659952,pharma,amenity,pharmacy,1.3331706829613752
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.287045,-99.6418226,pharma,amenity,pharmacy,1.3830325148032478
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2901489,-99.6420324,pharma,amenity,pharmacy,1.4053099943125464
+0,O1_Conjunto,19.287,-99.655,Farmacias Toluca,19.2911449,-99.6677164,pharma,amenity,pharmacy,1.4119629927662294
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2936035,-99.6418083,pharma,amenity,pharmacy,1.5671603513446275
+0,O1_Conjunto,19.287,-99.655,Farmacia Benavides,19.2892654,-99.670149,pharma,amenity,pharmacy,1.6097715740055425
+0,O1_Conjunto,19.287,-99.655,Sucursal Pstoluca2,19.278818,-99.6417421,pharma,amenity,pharmacy,1.6625350375766152
+0,O1_Conjunto,19.287,-99.655,Farmacia Veterinaria La Granja,19.2747022,-99.6438372,pharma,amenity,pharmacy,1.8007324000924552
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2875006,-99.6725824,pharma,amenity,pharmacy,1.846183496833837
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.279959,-99.6710405,pharma,amenity,pharmacy,1.8566970956684186
+0,O1_Conjunto,19.287,-99.655,Farmaplus,19.3034364,-99.6499771,pharma,amenity,pharmacy,1.90214845012061
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2700728,-99.6603456,pharma,amenity,pharmacy,1.964064541662064
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.2820708,-99.6733801,pharma,amenity,pharmacy,2.005451279259128
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2750355,-99.6698966,pharma,amenity,pharmacy,2.052932235744018
+0,O1_Conjunto,19.287,-99.655,Comercializadora De Materiales Y Servicios Para Laboratorio,19.2778825,-99.6378221,pharma,amenity,pharmacy,2.0684377100161253
+0,O1_Conjunto,19.287,-99.655,Farmacia Homeopatica Homeonam,19.2888483,-99.6748283,pharma,amenity,pharmacy,2.091175761793023
+0,O1_Conjunto,19.287,-99.655,Lora,19.306056,-99.6525059,pharma,amenity,pharmacy,2.1350363411480173
+0,O1_Conjunto,19.287,-99.655,Farmacia Cruz,19.306452,-99.6539414,pharma,amenity,pharmacy,2.165815036839085
+0,O1_Conjunto,19.287,-99.655,Farmamigo Toluca 1 F205,19.2678737,-99.6503844,pharma,amenity,pharmacy,2.1812270945922094
+0,O1_Conjunto,19.287,-99.655,Farmaco Darovi del Carmen,19.2892049,-99.6787301,pharma,amenity,pharmacy,2.502595723801417
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2875803,-99.6830917,pharma,amenity,pharmacy,2.949043070518331
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2882608,-99.6851788,pharma,amenity,pharmacy,3.1704811474006926
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.3023823,-99.6277854,pharma,amenity,pharmacy,3.3291428187482066
+0,O1_Conjunto,19.287,-99.655,Medical Health,19.3139708,-99.63908670000001,pharma,amenity,pharmacy,3.4326518602257976
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.3139065,-99.6386988,pharma,amenity,pharmacy,3.446431744728245
+0,O1_Conjunto,19.287,-99.655,ISSSTE,19.3098067,-99.6325157,pharma,amenity,pharmacy,3.4639898790623063
+0,O1_Conjunto,19.287,-99.655,Farmacias del Ahorro,19.2885996,-99.6892495,pharma,amenity,pharmacy,3.5990096688103628
+0,O1_Conjunto,19.287,-99.655,Tienda de Insumos para la Salud Thannax,19.3184374,-99.6366521,pharma,amenity,pharmacy,3.9909073785631213
+0,O1_Conjunto,19.287,-99.655,Farmamigo,19.2562747,-99.6764814,pharma,amenity,pharmacy,4.093466102013443
+0,O1_Conjunto,19.287,-99.655,Farmacia Angeles,19.2707832,-99.690175,pharma,amenity,pharmacy,4.108783023170778
+0,O1_Conjunto,19.287,-99.655,Farmacia Pro + Salud,19.2718946,-99.6916258,pharma,amenity,pharmacy,4.19513391725797
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalupana,19.2688784,-99.6909403,pharma,amenity,pharmacy,4.2767455289024445
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2988257,-99.6941589,pharma,amenity,pharmacy,4.314985793059881
+0,O1_Conjunto,19.287,-99.655,Cemot,19.2678362,-99.6915179,pharma,amenity,pharmacy,4.3854502644467095
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2682655,-99.6922142,pharma,amenity,pharmacy,4.426800459628711
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.2888518,-99.6973794,pharma,amenity,pharmacy,4.452635120861263
+0,O1_Conjunto,19.287,-99.655,Farmacia Veterinaria Amatepec Sa,19.2826109,-99.6122168,pharma,amenity,pharmacy,4.516781755258161
+0,O1_Conjunto,19.287,-99.655,Farmacia Similares,19.3049768,-99.6160107,pharma,amenity,pharmacy,4.554019012182328
+0,O1_Conjunto,19.287,-99.655,Farmacia Hospital Regional,19.3217264,-99.6291102,pharma,amenity,pharmacy,4.72146714132005
+0,O1_Conjunto,19.287,-99.655,Labcare Diagnostika,19.295126,-99.6101315,pharma,amenity,pharmacy,4.794926459095993
+0,O1_Conjunto,19.287,-99.655,Roche,19.3317443,-99.6631363,pharma,amenity,pharmacy,5.048070131470797
+0,O1_Conjunto,19.287,-99.655,Benavides,19.2754047,-99.6060699,pharma,amenity,pharmacy,5.294978873101101
+0,O1_Conjunto,19.287,-99.655,Especializadas,19.257549,-99.6148747,pharma,amenity,pharmacy,5.335046906585493
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.2571422,-99.6956054,pharma,amenity,pharmacy,5.402601422610579
+0,O1_Conjunto,19.287,-99.655,Distribuidora De Medicamentos Equilibrio Farmacéutico,19.2569241,-99.69589619999999,pharma,amenity,pharmacy,5.441586792899948
+0,O1_Conjunto,19.287,-99.655,Farmacia Guadalajara,19.2756468,-99.6039311,pharma,amenity,pharmacy,5.506739411631372
+0,O1_Conjunto,19.287,-99.655,pharma (OSM),19.2806719,-99.6025601,pharma,amenity,pharmacy,5.5486921744903
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.2979064,-99.71025,pharma,amenity,pharmacy,5.923989028488687
+0,O1_Conjunto,19.287,-99.655,Farmacia 75,19.2605559,-99.7107706,pharma,amenity,pharmacy,6.550846714728153
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.3077268,-99.5965176,pharma,amenity,pharmacy,6.55604060720963
+0,O1_Conjunto,19.287,-99.655,La Botica Moderna,19.2518348,-99.6042302,pharma,amenity,pharmacy,6.609739328118295
+0,O1_Conjunto,19.287,-99.655,Redfields De Mexico,19.2500905,-99.7089231,pharma,amenity,pharmacy,6.991473688693313
+0,O1_Conjunto,19.287,-99.655,Farmacia Tollocan,19.2876021,-99.5844665,pharma,amenity,pharmacy,7.403077100407667
+0,O1_Conjunto,19.287,-99.655,Farmacia Santa Cruz 1,19.3543213,-99.657124,pharma,amenity,pharmacy,7.4891041742023505
+0,O1_Conjunto,19.287,-99.655,Phicsa,19.3051031,-99.5856767,pharma,amenity,pharmacy,7.548713052517685
+0,O1_Conjunto,19.287,-99.655,Farmacias Similares,19.3569797,-99.6572178,pharma,amenity,pharmacy,7.784866769019257
+0,O1_Conjunto,19.287,-99.655,Venta De Medicamento,19.2957979,-99.5795591,pharma,amenity,pharmacy,7.977835585607907
+0,O1_Conjunto,19.287,-99.655,Grupo Médico Los Angeles,19.2237978,-99.6643947,hospital,healthcare,hospital,7.096623419737553
+0,O1_Conjunto,19.287,-99.655,Bodega Del Museo De Historia Universitario José María Morelos y Pavón,19.2863794,-99.6543267,school,amenity,school,0.09877095242934734
+0,O1_Conjunto,19.287,-99.655,Academia De Belleza Reflejos,19.2880306,-99.6548665,school,amenity,school,0.11545086738205243
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No 0970 Gral Jose Vicente Villada,19.2852638,-99.6541272,school,amenity,school,0.21368727547212643
+0,O1_Conjunto,19.287,-99.655,Escuela De Gobierno Y Administracion Publica Mexiquense,19.2849752,-99.6557288,school,amenity,school,0.23778620664462735
+0,O1_Conjunto,19.287,-99.655,Centro De Estudios Tecnologicos Del Estado De Mexico,19.2893398,-99.6550141,school,amenity,school,0.26017809793313257
+0,O1_Conjunto,19.287,-99.655,Escuela de Estilismo Oscar De Leon,19.2893423,-99.6549741,school,amenity,school,0.26046606149751317
+0,O1_Conjunto,19.287,-99.655,Grupo Isima,19.2865062,-99.6576689,school,amenity,school,0.2854435706159838
+0,O1_Conjunto,19.287,-99.655,Centro de idiomas y Computación,19.2896107,-99.6550302,school,amenity,school,0.29031389800826646
+0,O1_Conjunto,19.287,-99.655,Centro de Actividades Culturales Uaem,19.2863414,-99.6520152,school,amenity,school,0.32171398487447284
+0,O1_Conjunto,19.287,-99.655,"Instituto Superior de Estudios Prospectivos ""ISEP""",19.2839244,-99.6557963,school,amenity,school,0.3520551693106251
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria General Nocturna Tierra y Libertad,19.2893069,-99.6526949,school,amenity,school,0.3526039145602249
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Tecnica No 2 Tierra Y Libertad,19.2893501,-99.6526907,school,amenity,school,0.3564133379176591
+0,O1_Conjunto,19.287,-99.655,Instituto Brima,19.2893398,-99.6577375,school,amenity,school,0.3876048890540673
+0,O1_Conjunto,19.287,-99.655,Instituto Universitario Johann Friedrich Herbart,19.2859347,-99.6585663,school,amenity,school,0.39259632726733606
+0,O1_Conjunto,19.287,-99.655,Escuelas Profesionales de Computación Epc,19.2905198,-99.655626,school,amenity,school,0.39686009164720215
+0,O1_Conjunto,19.287,-99.655,Unidad de Apoyo a la educación Básica y Normal,19.2880744,-99.6513744,school,amenity,school,0.3988340531026699
+0,O1_Conjunto,19.287,-99.655,Colegio Panamericano Estudios Tecnicos,19.2904113,-99.6533852,school,amenity,school,0.41545876992617514
+0,O1_Conjunto,19.287,-99.655,Escuela Montessori,19.2833549,-99.6561402,school,amenity,school,0.42261389865220755
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Mariana R De Lazarin Turno Vespertino 15epr4762e,19.2862906,-99.6510115,school,amenity,school,0.4259780640124352
+0,O1_Conjunto,19.287,-99.655,Instituto de Computo e Inglés,19.2903529,-99.6569859,school,amenity,school,0.427130437884612
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Mariana R De Lazarin Turno Matutino 15epr00620f,19.2862866,-99.6509526,school,amenity,school,0.4321359141046905
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para La Atencion De Jovenes Y Adultos Margarita Maza De Juarez,19.2862874,-99.6509023,school,amenity,school,0.4373103584957373
+0,O1_Conjunto,19.287,-99.655,"Subdirección de educación para la atención de jovenes y adultos actividad de cocina, reposteria y decorado Mariana Rodriguez R. de Lazarin",19.2863567,-99.6508531,school,amenity,school,0.44107449408207755
+0,O1_Conjunto,19.287,-99.655,Centro de Estudios para la Calidad Educativa y la Investigación Científica,19.2889085,-99.6586861,school,amenity,school,0.4412520979770942
+0,O1_Conjunto,19.287,-99.655,Dirección de Aprendizaje de Lenguas,19.2840286,-99.6520948,school,amenity,school,0.44960072985629723
+0,O1_Conjunto,19.287,-99.655,Colegio Integral De Bachillerato E Informática,19.2880953,-99.6508597,school,amenity,school,0.45128557397463664
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria 585 Licenciado Juan Fernandez Albarran,19.2879268,-99.6593061,school,amenity,school,0.4635429352170609
+0,O1_Conjunto,19.287,-99.655,Vigotsky´s Kids,19.2833672,-99.6526356,school,amenity,school,0.4740847854600488
+0,O1_Conjunto,19.287,-99.655,Escuela de Enfermería y Salud  Iepetac  Toluca,19.2913601,-99.6556268,school,amenity,school,0.4892637246853733
+0,O1_Conjunto,19.287,-99.655,Instituto De Desarrollo Infantil Isima,19.2863555,-99.6503091,school,amenity,school,0.4975192442973793
+0,O1_Conjunto,19.287,-99.655,"CEAJA ""QFB Yolanda Senties de Ballesteros"" Turno Vespertino",19.2825927,-99.6534165,school,amenity,school,0.5174838524313765
+0,O1_Conjunto,19.287,-99.655,Unidad de Apoyo a la Educación Básica y Normal,19.2875788,-99.6500988,school,amenity,school,0.5184112488207723
+0,O1_Conjunto,19.287,-99.655,Academia De Estilistas Profesionales Lupita,19.2903679,-99.6586001,school,amenity,school,0.5319865701090387
+0,O1_Conjunto,19.287,-99.655,Templo Shaolin De Mexico Suc Toluca,19.2855199,-99.6501515,school,amenity,school,0.5348251857273273
+0,O1_Conjunto,19.287,-99.655,Instituto Al Servicio Educativo Superior,19.2830626,-99.6584254,school,amenity,school,0.5665121870943759
+0,O1_Conjunto,19.287,-99.655,Dirección de Identidad Universitaria,19.2922061,-99.6552996,school,amenity,school,0.5797452476238533
+0,O1_Conjunto,19.287,-99.655,Colegio Vilaseca De Toluca,19.2874639,-99.6605645,school,amenity,school,0.5862905182893118
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No. 549 Gral. Lázaro Cárdenas Vespertino,19.2904806,-99.6507871,school,amenity,school,0.5876147785706757
+0,O1_Conjunto,19.287,-99.655,Liceo Pedro De Gante,19.2868639,-99.6492,school,amenity,school,0.6089227794550338
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Federalizada Ignacio Ramírez 15des0012x,19.281488,-99.6540129,school,amenity,school,0.6216009034750021
+0,O1_Conjunto,19.287,-99.655,Instituto Kambes,19.2881135,-99.6491016,school,amenity,school,0.6313203317069768
+0,O1_Conjunto,19.287,-99.655,"Instituto Tecnico, Administrativo y Humanistico de Toluca",19.291636,-99.658528,school,amenity,school,0.6346984949187993
+0,O1_Conjunto,19.287,-99.655,Instituto Cultural Nicolás Guillen,19.2876993,-99.6488848,school,amenity,school,0.64650787208546
+0,O1_Conjunto,19.287,-99.655,Centro de Estudios Superiores Olimpo,19.2875839,-99.6487496,school,amenity,school,0.6592098109680902
+0,O1_Conjunto,19.287,-99.655,Instituto Nacional Para La Educacion De Adultos,19.2907876,-99.6600129,school,amenity,school,0.6739276200732464
+0,O1_Conjunto,19.287,-99.655,Colegio de bachilleres COBAEM,19.289965,-99.6607033,school,amenity,school,0.6833706152270529
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Basica Para Adultos Heroes Del 47,19.2808836,-99.6539686,school,amenity,school,0.6886738469308515
+0,O1_Conjunto,19.287,-99.655,Alianza Francesa de Toluca,19.2916512,-99.6593783,school,amenity,school,0.6918373467372892
+0,O1_Conjunto,19.287,-99.655,Centro Escolar Justo Sierra Mendez,19.2883196,-99.6614631,school,amenity,school,0.6940157268222749
+0,O1_Conjunto,19.287,-99.655,Urawa Karate Do,19.2808077,-99.656199,school,amenity,school,0.6999576136548299
+0,O1_Conjunto,19.287,-99.655,Didactik School,19.2811445,-99.6522204,school,amenity,school,0.7134728715013755
+0,O1_Conjunto,19.287,-99.655,Instituto Universitario Brima,19.2923031,-99.6505997,school,amenity,school,0.7489993257604639
+0,O1_Conjunto,19.287,-99.655,Red de Inovación Y Aprendizaje,19.293441,-99.6528775,school,amenity,school,0.7500494767088027
+0,O1_Conjunto,19.287,-99.655,Colegio De Entelechia,19.2883769,-99.6478203,school,amenity,school,0.7689332415548978
+0,O1_Conjunto,19.287,-99.655,Universidad Terranova,19.2800631,-99.6563188,school,amenity,school,0.7836689426574343
+0,O1_Conjunto,19.287,-99.655,Instituto Superior Concordia,19.2925441,-99.6503572,school,amenity,school,0.7857973956793647
+0,O1_Conjunto,19.287,-99.655,Instituto Al Servicio Educativo Superior,19.2936005,-99.657838,school,amenity,school,0.7920783186295254
+0,O1_Conjunto,19.287,-99.655,Defensoría de los Derechos  de la UAEM,19.2803784,-99.6578307,school,amenity,school,0.793970307653478
+0,O1_Conjunto,19.287,-99.655,Colegio Mexiquense,19.2919113,-99.660647,school,amenity,school,0.8059111342919381
+0,O1_Conjunto,19.287,-99.655,school (OSM),19.2813925,-99.6601625,school,amenity,school,0.8260567285517848
+0,O1_Conjunto,19.287,-99.655,Instituto Pedagogico y de Estudio Superior Toluca,19.2793621,-99.6554784,school,amenity,school,0.8507787072284659
+0,O1_Conjunto,19.287,-99.655,Extension de la Escuela Primaria Eudoxia Calderón,19.2909398,-99.6480212,school,amenity,school,0.8534610577970946
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria María Remedios Colón,19.2924486,-99.6609212,school,amenity,school,0.8679030126585234
+0,O1_Conjunto,19.287,-99.655,Escuela Tecnica del DIFEM,19.2945423,-99.6577173,school,amenity,school,0.8858276303738327
+0,O1_Conjunto,19.287,-99.655,Centro de Educación Para La Atencion de Jóvenes y Adultos Lic Ma Eugenia San Martin de Camacho,19.2946827,-99.6578183,school,amenity,school,0.9040346870516079
+0,O1_Conjunto,19.287,-99.655,Secundaria Oficial 7 Estado De México,19.2864457,-99.6463292,school,amenity,school,0.912123375071942
+0,O1_Conjunto,19.287,-99.655,Licenciado Adolfo Lopez Mateos Escuela Preparatoria 1,19.2792618,-99.6579856,school,amenity,school,0.9157321870136305
+0,O1_Conjunto,19.287,-99.655,Eurek Club De Tareas,19.2826091,-99.6627038,school,amenity,school,0.944536164667541
+0,O1_Conjunto,19.287,-99.655,Centro de Estudios e Investigación en Desarrollo Sustentable Cedes Uaemex,19.2785202,-99.6561746,school,amenity,school,0.9509359676334005
+0,O1_Conjunto,19.287,-99.655,Planet English,19.2792396,-99.6589392,school,amenity,school,0.956850596397774
+0,O1_Conjunto,19.287,-99.655,Esc. Sec.Of. No.0007 Estado de México,19.2859018,-99.6459022,school,amenity,school,0.9626324320484232
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Adolfo Ruiz Cortines Turno Vespertino,19.2956207,-99.6559297,school,amenity,school,0.9635312879727839
+0,O1_Conjunto,19.287,-99.655,Centro De Maestros Adolfo Ruiz Cortines Toluca 1,19.2956384,-99.6557607,school,amenity,school,0.9638583835886112
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Para Jovenes Y Adultos Licenciado Adolfo Ruiz Cortines,19.2956359,-99.6558304,school,amenity,school,0.964214996756811
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Adolfo Ruiz Cortines,19.2956536,-99.6558948,school,amenity,school,0.9668082093423447
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo,19.2908821,-99.6467224,school,amenity,school,0.9700930431917393
+0,O1_Conjunto,19.287,-99.655,Talk Ingles y Punto,19.292033,-99.6473672,school,amenity,school,0.9772073388397692
+0,O1_Conjunto,19.287,-99.655,Escuela Telesecundaria No. 0325 Cuauhtémoc,19.2953249,-99.6517589,school,amenity,school,0.9862066401256118
+0,O1_Conjunto,19.287,-99.655,Club Acuático,19.2802055,-99.6611495,school,amenity,school,0.9936701224211932
+0,O1_Conjunto,19.287,-99.655,Yoga Solar,19.2907297,-99.6637268,school,amenity,school,1.0054232419108016
+0,O1_Conjunto,19.287,-99.655,Escuela Judicial del Estado de Méxic,19.2929833,-99.6472213,school,amenity,school,1.0531559468116702
+0,O1_Conjunto,19.287,-99.655,Centro Cultural Y Educativo Liseo De Las Artes,19.2909996,-99.6458872,school,amenity,school,1.054760265638904
+0,O1_Conjunto,19.287,-99.655,Instituto Universitario Autonomo De Ciencias,19.2935271,-99.6477006,school,amenity,school,1.055294876562862
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria No 971,19.2922316,-99.6464762,school,amenity,school,1.0671016536264006
+0,O1_Conjunto,19.287,-99.655,Unidad Deportiva De La Primaria Eudoxia Calderon,19.2909868,-99.6456935,school,amenity,school,1.0726393986869964
+0,O1_Conjunto,19.287,-99.655,Paideia Colón,19.2782448,-99.6596426,school,amenity,school,1.0886705306854787
+0,O1_Conjunto,19.287,-99.655,D4 Reality,19.2865932,-99.6653836,school,amenity,school,1.0907422789529648
+0,O1_Conjunto,19.287,-99.655,"Escuela Primaria Profra Eudoxia Calderon Gomez, Anexa A La Normal De Profesores Turno Matutino",19.2909612,-99.6454583,school,amenity,school,1.0940158913099896
+0,O1_Conjunto,19.287,-99.655,Berlitz Escuela de Idiomas,19.2798185,-99.6622808,school,amenity,school,1.1052728642626493
+0,O1_Conjunto,19.287,-99.655,Centro De Formacion Virtud Marcial Y Deporte Tae Kwondo,19.2881239,-99.6444644,school,amenity,school,1.1127915687381043
+0,O1_Conjunto,19.287,-99.655,Preparatoria Estado De México,19.2837423,-99.6652637,school,amenity,school,1.1365036405823012
+0,O1_Conjunto,19.287,-99.655,Escuela Española de Dibujo y Pintura clasica,19.2890786,-99.6657248,school,amenity,school,1.149090683266311
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Isidro Fabela Turno Matutino,19.2768001,-99.6531241,school,amenity,school,1.1511400164049808
+0,O1_Conjunto,19.287,-99.655,Yoga Natural,19.2851481,-99.6658081,school,amenity,school,1.1529011593333909
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo Aprende,19.2938753,-99.6632409,school,amenity,school,1.15434320418306
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Isidro Fabela Turno Vespertino,19.2767141,-99.6530095,school,amenity,school,1.1626640306523703
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo Valdéz Ponce,19.2796633,-99.6629133,school,amenity,school,1.164196631152097
+0,O1_Conjunto,19.287,-99.655,Edu-Vita After School,19.2910336,-99.6446207,school,amenity,school,1.1780591760648016
+0,O1_Conjunto,19.287,-99.655,Preparatoria Itaht,19.2882208,-99.6438088,school,amenity,school,1.1823774925502133
+0,O1_Conjunto,19.287,-99.655,Colegio Cepavat,19.2934913,-99.6641054,school,amenity,school,1.1975915814680036
+0,O1_Conjunto,19.287,-99.655,Niot Robotica Y Tecnologica,19.2924275,-99.6649288,school,amenity,school,1.2041999438975486
+0,O1_Conjunto,19.287,-99.655,COBAEM,19.296003,-99.6616472,school,amenity,school,1.2201918242000362
+0,O1_Conjunto,19.287,-99.655,Lic. Juan Fernandez,19.2895391,-99.6663264,school,amenity,school,1.2218125116569776
+0,O1_Conjunto,19.287,-99.655,Secundaria Lic Benito Juarez,19.2771369,-99.6498654,school,amenity,school,1.221981119353464
+0,O1_Conjunto,19.287,-99.655,Colegio Comenius,19.2770954,-99.6600702,school,amenity,school,1.2231686230989334
+0,O1_Conjunto,19.287,-99.655,Escuela Preparatoria Oficial Núm. 169,19.2779562,-99.6482658,school,amenity,school,1.2291665126749562
+0,O1_Conjunto,19.287,-99.655,Cepavat,19.2937505,-99.6642827,school,amenity,school,1.22986700813025
+0,O1_Conjunto,19.287,-99.655,Cbt 5 Vespertino,19.2778671,-99.6482617,school,amenity,school,1.2375312633365818
+0,O1_Conjunto,19.287,-99.655,Liceo Pedro De Gante,19.2802839,-99.6455522,school,amenity,school,1.2413656137994409
+0,O1_Conjunto,19.287,-99.655,IBIM Instituto Bicentenario Inglés de México,19.2770083,-99.6603899,school,amenity,school,1.2467587260346682
+0,O1_Conjunto,19.287,-99.655,Cbt 5 Contador Publico Alberto Mena Flores,19.2777658,-99.6482551,school,amenity,school,1.247184478106559
+0,O1_Conjunto,19.287,-99.655,Departamento De Desarrollo Del Recurso Humano,19.2758238,-99.6565389,school,amenity,school,1.253189198836352
+0,O1_Conjunto,19.287,-99.655,Instituto De Desarrollo De Competencias Educativas,19.283204,-99.6436496,school,amenity,school,1.2638542591716686
+0,O1_Conjunto,19.287,-99.655,Academia Profesional de Musica Medrano,19.2819008,-99.6658609,school,amenity,school,1.2731461005337932
+0,O1_Conjunto,19.287,-99.655,Centro Universitario Liceo Mexiquense,19.2912993,-99.6663097,school,amenity,school,1.2796387316897195
+0,O1_Conjunto,19.287,-99.655,Centro Educativo Gabriela Mistral De Toluca,19.2923552,-99.6441079,school,amenity,school,1.288947162821631
+0,O1_Conjunto,19.287,-99.655,Secundaria No. 9 León Gúzman Vespertino,19.2768437,-99.6487228,school,amenity,school,1.307460484552819
+0,O1_Conjunto,19.287,-99.655,Nuestro Ser,19.2787119,-99.6641324,school,amenity,school,1.3296896426649347
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Ford Numero 42,19.2981374,-99.6596283,school,amenity,school,1.330276777007421
+0,O1_Conjunto,19.287,-99.655,Preparatoria Oficial Anexa A La Normal No 3 Toluca,19.2768822,-99.6479946,school,amenity,school,1.3440065147747458
+0,O1_Conjunto,19.287,-99.655,Escuela Emiliano Zapata,19.2976587,-99.6489032,school,amenity,school,1.3468887377292826
+0,O1_Conjunto,19.287,-99.655,Preparatoria Toluca,19.2771393,-99.6631241,school,amenity,school,1.388990447130645
+0,O1_Conjunto,19.287,-99.655,Escuela Preparatoria Oficial Numero 116,19.2854063,-99.6682398,school,amenity,school,1.4008337567322058
+0,O1_Conjunto,19.287,-99.655,Faro De Vida Instituto De Armonía Y Formación Humana,19.277146899999998,-99.6464861,school,amenity,school,1.4138198094873442
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Gustavo Diaz Ordaz,19.2829979,-99.667844,school,amenity,school,1.4196024902225186
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Horacio Zuñiga Turno Vespertino,19.2785604,-99.665257,school,amenity,school,1.428151258729793
+0,O1_Conjunto,19.287,-99.655,Escuela Del Deporte Profesor Javier Garcia Moreno R,19.2849069,-99.6684261,school,amenity,school,1.4282260651004064
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Horacio Zuñiga Turno Matutino,19.2784711,-99.6651886,school,amenity,school,1.4293168091910278
+0,O1_Conjunto,19.287,-99.655,Centro Educativo Decroly,19.2749266,-99.6498866,school,amenity,school,1.445803403216486
+0,O1_Conjunto,19.287,-99.655,Escuela de Adultos Margarita Maza de Juárez Matutino,19.2937492,-99.6430424,school,amenity,school,1.4622505795066199
+0,O1_Conjunto,19.287,-99.655,"Escuela De Adultos Margarita Maza De Juarez, Vespertino",19.2937828,-99.643043,school,amenity,school,1.464117525773766
+0,O1_Conjunto,19.287,-99.655,Colegio Isbelino,19.2940638,-99.6431758,school,amenity,school,1.4686589084707216
+0,O1_Conjunto,19.287,-99.655,Escuela Agra Montessory,19.2894459,-99.668792,school,amenity,school,1.472846252038571
+0,O1_Conjunto,19.287,-99.655,Unidad Pedagogica De Educacion Basica Licenciad0 Miguel Aleman,19.2921471,-99.6419708,school,amenity,school,1.4823889889618498
+0,O1_Conjunto,19.287,-99.655,Carlos Hank Gonzalez,19.2851641,-99.6689939,school,amenity,school,1.482846342854758
+0,O1_Conjunto,19.287,-99.655,Rivendell College,19.2738376,-99.65259,school,amenity,school,1.4852896867052179
+0,O1_Conjunto,19.287,-99.655,Secundaria Instituto Bicentenario,19.2906834,-99.6686908,school,amenity,school,1.494124391541348
+0,O1_Conjunto,19.287,-99.655,Tae Kawon Do,19.2787558,-99.6436826,school,amenity,school,1.5004412459357144
+0,O1_Conjunto,19.287,-99.655,Instituto Nova,19.2792145,-99.6433138,school,amenity,school,1.5012872365538485
+0,O1_Conjunto,19.287,-99.655,Universidad Internacional de Profesiones (unipro) Escuela Internacional de Turismo EIT Campus Toluca,19.2760154,-99.6466684,school,amenity,school,1.5021937782980213
+0,O1_Conjunto,19.287,-99.655,Instituto De Computacion Y Estudios Técnicos,19.2779211,-99.6443891,school,amenity,school,1.5031468311800387
+0,O1_Conjunto,19.287,-99.655,Colegio Miguel Alcobierre,19.2906296,-99.6411877,school,amenity,school,1.5047764827412693
+0,O1_Conjunto,19.287,-99.655,Colegio mexiquense de educación técnica,19.2797784,-99.6428584,school,amenity,school,1.5062404763128419
+0,O1_Conjunto,19.287,-99.655,Colegio Dalton,19.2796084,-99.6429562,school,amenity,school,1.507787054156343
+0,O1_Conjunto,19.287,-99.655,Estilistas Lilia,19.2800492,-99.6426522,school,amenity,school,1.508950558275396
+0,O1_Conjunto,19.287,-99.655,Darshana Center,19.2832692,-99.6689535,school,amenity,school,1.5221181689224088
+0,O1_Conjunto,19.287,-99.655,Escuela primaria Heriberto Enríquez,19.2946912,-99.6671459,school,amenity,school,1.5350409513214822
+0,O1_Conjunto,19.287,-99.655,Centro De Atención Múltiple No2 Profe José Guadarrama Alvarado,19.2842942,-99.6693487,school,amenity,school,1.5357298024910424
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Multiple Prof Jose Guadarrama Alvarado,19.2843828,-99.6693729,school,amenity,school,1.5363235586352142
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para La Atencion De Jovenes Y Adultos Matutino 15eba0878a,19.2741771,-99.6495451,school,amenity,school,1.536496846892617
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Flor De Maria Reyes De Molina,19.2945569,-99.66731,school,amenity,school,1.541180465842383
+0,O1_Conjunto,19.287,-99.655,Centro Educativo Arellano,19.2898107,-99.6406169,school,amenity,school,1.5415679482557483
+0,O1_Conjunto,19.287,-99.655,Linguatec,19.2737169,-99.6595468,school,amenity,school,1.5521959415500841
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Particular No 382 Jose Ma De Yermo Y Pares,19.2928757,-99.6415599,school,amenity,school,1.5545323548708327
+0,O1_Conjunto,19.287,-99.655,Academia De Belleza,19.2789086,-99.6428504,school,amenity,school,1.56063866575961
+0,O1_Conjunto,19.287,-99.655,Instituto Carl Rogers Toluca,19.2813329,-99.6686817,school,amenity,school,1.5681588572950624
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Tolotzin,19.272858,-99.652372,school,amenity,school,1.5965268473704755
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profesor Heriberto Enriquez,19.2951281,-99.6675914,school,amenity,school,1.6009966946950105
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profesor Heriberto Henriquez,19.2952367,-99.6675803,school,amenity,school,1.6068869646761328
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Num14 Primero De Mayo,19.300122,-99.6615669,school,amenity,school,1.6136801752487973
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Flor De Maria Reyes De Molina Cct 15epr0669y,19.294931599999998,-99.667927,school,amenity,school,1.6181795323015329
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo” Turno Vespertino 15ees0388I,19.2793634,-99.6681538,school,amenity,school,1.6208195111755512
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo”  Turno Matutino 15ees0138c,19.2792621,-99.668157,school,amenity,school,1.6270344743912244
+0,O1_Conjunto,19.287,-99.655,Instituto Pedagogico De Toluca,19.2875587,-99.6705018,school,amenity,school,1.6281621044480963
+0,O1_Conjunto,19.287,-99.655,Acuatica Infantil,19.2726089,-99.6518079,school,amenity,school,1.634914863337531
+0,O1_Conjunto,19.287,-99.655,Aquatic Infantil,19.2724864,-99.6518453,school,amenity,school,1.6474561025846595
+0,O1_Conjunto,19.287,-99.655,"Facultad de Química, UAEMéx",19.2727099,-99.6596781,school,amenity,school,1.6631196801381076
+0,O1_Conjunto,19.287,-99.655,Lumiére Escuela de Fotografia,19.2894307,-99.6712448,school,amenity,school,1.7262381775609947
+0,O1_Conjunto,19.287,-99.655,Instituto Gastronomico Chatelain,19.294157,-99.6696835,school,amenity,school,1.734417299301257
+0,O1_Conjunto,19.287,-99.655,KiddyBot,19.2780796,-99.6686039,school,amenity,school,1.738550459940513
+0,O1_Conjunto,19.287,-99.655,Cam 17,19.301192,-99.6479765,school,amenity,school,1.7417429280571723
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Anexa a la Normal,19.2968067,-99.6420586,school,amenity,school,1.7417914316175382
+0,O1_Conjunto,19.287,-99.655,Escuela Normal Núm. 1 de Toluca,19.2972143,-99.6423161,school,amenity,school,1.7498719501076851
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial 597 Anexa A La Normal No1 De Toluca,19.2971004,-99.6421605,school,amenity,school,1.7541916209497774
+0,O1_Conjunto,19.287,-99.655,Instituto Ispet,19.2714751,-99.6581063,school,amenity,school,1.7568085294837317
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Mtro. Protasio I. Gómez,19.2908828,-99.6387568,school,amenity,school,1.758594278502198
+0,O1_Conjunto,19.287,-99.655,Instituto De Capacitacion Sacks,19.2746121,-99.644225,school,amenity,school,1.782250865016292
+0,O1_Conjunto,19.287,-99.655,Instituto Highlanders Preescolar,19.2746934,-99.6660538,school,amenity,school,1.7940561268555817
+0,O1_Conjunto,19.287,-99.655,Centro de atención múltiple 17,19.3013582,-99.6470044,school,amenity,school,1.8036486218091052
+0,O1_Conjunto,19.287,-99.655,Colegio Alma Mater,19.2758566,-99.6675168,school,amenity,school,1.8058915017572676
+0,O1_Conjunto,19.287,-99.655,Mavil Limpieza,19.2848334,-99.6379267,school,amenity,school,1.808048960961728
+0,O1_Conjunto,19.287,-99.655,Cuauhtemoc,19.2722538,-99.647358,school,amenity,school,1.8253720260770312
+0,O1_Conjunto,19.287,-99.655,Colegio Imath,19.3020228,-99.6477114,school,amenity,school,1.8372691818799831
+0,O1_Conjunto,19.287,-99.655,Episteme Escuela Humanistica Y De Derecho,19.3023651,-99.6476912,school,amenity,school,1.8728095004081775
+0,O1_Conjunto,19.287,-99.655,Escuelas De Educación Primaria Del Sector Público,19.2709321,-99.6606024,school,amenity,school,1.8809461956938651
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profesor Fernando Aguilar Vilchis,19.270827099999998,-99.6606034,school,amenity,school,1.8920726644922647
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No 10 Angel Maria Garibay Kintana,19.2941447,-99.6714792,school,amenity,school,1.9032630209191936
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Aguntín Melgar,19.302447,-99.6470575,school,amenity,school,1.909205988893792
+0,O1_Conjunto,19.287,-99.655,Centro de educación Especial Richi I.A. P.,19.2885375,-99.6731487,school,amenity,school,1.9124305230143568
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria No.10 Ángel Ma. Garibay Kintana,19.2943607,-99.6716337,school,amenity,school,1.928081218175969
+0,O1_Conjunto,19.287,-99.655,Instituto Supremo De Taekwondo,19.2992925,-99.6420362,school,amenity,school,1.9285809102480633
+0,O1_Conjunto,19.287,-99.655,Colegio Cibeles Cct15ptr3417u,19.2971126,-99.6700893,school,amenity,school,1.9422506416744814
+0,O1_Conjunto,19.287,-99.655,Pueridomus Colegio Activo,19.2809186,-99.6723847,school,amenity,school,1.9459070741246771
+0,O1_Conjunto,19.287,-99.655,Colegio Cibeles Cct15pes1067l,19.2971323,-99.6701519,school,amenity,school,1.948876695076197
+0,O1_Conjunto,19.287,-99.655,Pueri Domus Colegio Activo,19.2807226,-99.6725133,school,amenity,school,1.9662009981612856
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Margarita Maza De Juárez,19.281322,-99.6372142,school,amenity,school,1.9706068225313855
+0,O1_Conjunto,19.287,-99.655,Highlandenrs,19.2784746,-99.6715863,school,amenity,school,1.982225524210596
+0,O1_Conjunto,19.287,-99.655,Jardin de Niños del Poder Legislativo,19.2886948,-99.673852,school,amenity,school,1.9875410676332033
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Margarita Maza de Juárez,19.2807148,-99.6372247,school,amenity,school,1.9922364316428296
+0,O1_Conjunto,19.287,-99.655,Secundaria hidalgo,19.297694,-99.67025,school,amenity,school,1.9938910420558782
+0,O1_Conjunto,19.287,-99.655,Estacionamiento Hidalgo,19.2981294,-99.6703385,school,amenity,school,2.030491753403596
+0,O1_Conjunto,19.287,-99.655,Telebachillerato comunitario Núm 477 del parque Toluca,19.2686053,-99.6542962,school,amenity,school,2.0467308319204447
+0,O1_Conjunto,19.287,-99.655,Colegio Primaria Jacques Deloers,19.2907525,-99.6741365,school,amenity,school,2.0513189215326393
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Cuauhtemoc Cct15epr1457b,19.2957802,-99.6722104,school,amenity,school,2.053228570630896
+0,O1_Conjunto,19.287,-99.655,Artes Marciales Chinas,19.2719861,-99.6428791,school,amenity,school,2.0989558785547877
+0,O1_Conjunto,19.287,-99.655,Preparatoria Abierta Tecnologico De Estudios,19.2781116,-99.6726509,school,amenity,school,2.099738777271928
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Dr Gustavo Baz Prada 15epr1425j,19.2831878,-99.674807,school,amenity,school,2.1216304649091815
+0,O1_Conjunto,19.287,-99.655,Escuela Dr Gustavo Baz Prada,19.2832638,-99.6749157,school,amenity,school,2.131146321006099
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo Aprom,19.2838233,-99.6349744,school,amenity,school,2.131267450795418
+0,O1_Conjunto,19.287,-99.655,Grupo Escolar Simon Bolivar,19.2685387,-99.6605296,school,amenity,school,2.133271999691457
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo Iadsa,19.2733313,-99.669363,school,amenity,school,2.1407202716605007
+0,O1_Conjunto,19.287,-99.655,Cecovam,19.2725352,-99.6415002,school,amenity,school,2.143516378266565
+0,O1_Conjunto,19.287,-99.655,Escuela De Educacion Para Adultos,19.273986,-99.670427,school,amenity,school,2.171602549326803
+0,O1_Conjunto,19.287,-99.655,Usaer 86,19.3043577,-99.6448248,school,amenity,school,2.205809185201544
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Prof. Noe Perez,19.2751459,-99.6718636,school,amenity,school,2.206858121462751
+0,O1_Conjunto,19.287,-99.655,"Escuela secundaria oficial Dr, Gustavo Baz Prada N° 868",19.2670357,-99.6535789,school,amenity,school,2.2249343291232866
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Noe Perez Pioquinta,19.2746161,-99.6717829,school,amenity,school,2.2358655154248344
+0,O1_Conjunto,19.287,-99.655,Centro Olistico Vipassana,19.2675399,-99.6490583,school,amenity,school,2.251941455265108
+0,O1_Conjunto,19.287,-99.655,Masaru Educacion Acuatica,19.2732454,-99.6391658,school,amenity,school,2.258588633597603
+0,O1_Conjunto,19.287,-99.655,Ciberbots Escuela De Robotica,19.2932815,-99.6754758,school,amenity,school,2.259641073918779
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No 575 José Maria Velazco,19.3049663,-99.6448041,school,amenity,school,2.266284332484939
+0,O1_Conjunto,19.287,-99.655,Colegio Montesori Nemi,19.2891046,-99.676911,school,amenity,school,2.3115137991555197
+0,O1_Conjunto,19.287,-99.655,Theboxrx,19.2889559,-99.6769466,school,amenity,school,2.313619194121619
+0,O1_Conjunto,19.287,-99.655,Escuela de Karate,19.2775056,-99.6747457,school,amenity,school,2.325861468190799
+0,O1_Conjunto,19.287,-99.655,Tae Kwon Do Chew Kuan,19.2810358,-99.6336807,school,amenity,school,2.3338023365678735
+0,O1_Conjunto,19.287,-99.655,Instituto Superior Metropolitano,19.268724,-99.6435469,school,amenity,school,2.3611265850986722
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Cam 61,19.2670866,-99.6629345,school,amenity,school,2.365704894798529
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Multiple Cam No 6,19.267127,-99.6631072,school,amenity,school,2.3679540105199135
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Multiple Cam 5,19.266969,-99.6627838,school,amenity,school,2.372455512692881
+0,O1_Conjunto,19.287,-99.655,Centro Holístico Clases De Yoga,19.2789395,-99.6760932,school,amenity,school,2.388424386973719
+0,O1_Conjunto,19.287,-99.655,Preparatoria Instituto Simón Bolívar,19.2925018,-99.6329793,school,amenity,school,2.3907259530441096
+0,O1_Conjunto,19.287,-99.655,Instituto secundaria y educacion subprofesional,19.306449399999998,-99.6448316,school,amenity,school,2.411633680905709
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Federal Cuauhtemoc,19.3048717,-99.6415964,school,amenity,school,2.434728310703337
+0,O1_Conjunto,19.287,-99.655,Instituto Livigston,19.2727821,-99.6371998,school,amenity,school,2.4474325177294167
+0,O1_Conjunto,19.287,-99.655,Plantel Nezahualcoyotl De La Escuela Preparatoria,19.2813766,-99.632346,school,amenity,school,2.458520625926228
+0,O1_Conjunto,19.287,-99.655,Escuela de Natacion Acuarela,19.2981396,-99.6346808,school,amenity,school,2.4661524772453602
+0,O1_Conjunto,19.287,-99.655,Unidad De Servicio De Apoyo A Escuela Regular N 23,19.2949455,-99.632878,school,amenity,school,2.4841600550671727
+0,O1_Conjunto,19.287,-99.655,Escuela Preparatoria Oficial No 244 Turno Vespertino,19.2718206,-99.6723729,school,amenity,school,2.4847251744490024
+0,O1_Conjunto,19.287,-99.655,Escuela Preparatoria Oficial No 244 Turno Matutino,19.2718681,-99.6724279,school,amenity,school,2.4853857124522327
+0,O1_Conjunto,19.287,-99.655,Primaria Miguel Hidalgo y Costilla,19.2979393,-99.6342672,school,amenity,school,2.4928402608539972
+0,O1_Conjunto,19.287,-99.655,Colegio Inglés del Estado de México,19.2645406,-99.6566686,school,amenity,school,2.503504966840428
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Licenciado Benito Juárez Cct 15DPR1423M,19.2661146,-99.6455685,school,amenity,school,2.5245377241325784
+0,O1_Conjunto,19.287,-99.655,First College Primaria,19.2646332,-99.6596695,school,amenity,school,2.5349073595948943
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Leyes De Reforma Turno Matutino,19.2676777,-99.6416536,school,amenity,school,2.564877033015582
+0,O1_Conjunto,19.287,-99.655,Licenciado Francisco Javier Raxiona Turno Vespertino,19.2701586,-99.6719846,school,amenity,school,2.585523607921124
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Oficial 15 De Septiembre,19.2693269,-99.6388507,school,amenity,school,2.5951824271328663
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Licenciado Francisco Javier Gaxiola Turno Matutino,19.2701008,-99.6720604,school,amenity,school,2.595664803744389
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Josefa Ortiz De Dominguez,19.3085935,-99.6456017,school,amenity,school,2.5957775520804676
+0,O1_Conjunto,19.287,-99.655,Telesecundaria,19.2637182,-99.6603635,school,amenity,school,2.6493216103768225
+0,O1_Conjunto,19.287,-99.655,Secundaria 12,19.2998979,-99.6332419,school,amenity,school,2.6965371959990176
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Heroes De La Independencia,19.2994593,-99.6329546,school,amenity,school,2.6967443976313534
+0,O1_Conjunto,19.287,-99.655,Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734818,-99.6335908,school,amenity,school,2.7034861645044828
+0,O1_Conjunto,19.287,-99.655,Fut 7 Millan,19.2800088,-99.6303146,school,amenity,school,2.7050047225312066
+0,O1_Conjunto,19.287,-99.655,Secundaria Oficial Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734407,-99.6335795,school,amenity,school,2.7070150329517753
+0,O1_Conjunto,19.287,-99.655,Adansonia Instituto De Educacion Inicial,19.2676387,-99.6393583,school,amenity,school,2.7074450845715314
+0,O1_Conjunto,19.287,-99.655,Secundaria Oficial Numero 03 Heroes De Chapultepec,19.2731112,-99.633662,school,amenity,school,2.7204603139182417
+0,O1_Conjunto,19.287,-99.655,Escuela Emedyva,19.2863935,-99.6809563,school,amenity,school,2.725062721105045
+0,O1_Conjunto,19.287,-99.655,EMEDYVA,19.2864055,-99.6809866,school,amenity,school,2.728209109300683
+0,O1_Conjunto,19.287,-99.655,Instituto Simon Bolivar Secundaria,19.2994448,-99.632257,school,amenity,school,2.7590050392133967
+0,O1_Conjunto,19.287,-99.655,Escuela Para Los Adultos Epla Juan Escutia,19.2677562,-99.6720122,school,amenity,school,2.7869681729032547
+0,O1_Conjunto,19.287,-99.655,Instituto Simon Bolivar,19.3006958,-99.6323784,school,amenity,school,2.8205925037088657
+0,O1_Conjunto,19.287,-99.655,Instituto Simon Bolivar,19.3007875,-99.6323825,school,amenity,school,2.825748877134128
+0,O1_Conjunto,19.287,-99.655,Instituto De Tae Tae Kwon Daehan Mexico,19.2616629,-99.6594118,school,amenity,school,2.8551596727669395
+0,O1_Conjunto,19.287,-99.655,Integral Education Coordination Center,19.2834815,-99.6823856,school,amenity,school,2.900770147981974
+0,O1_Conjunto,19.287,-99.655,Instituto Nacional Tae Kwon Do,19.2841208,-99.6274488,school,amenity,school,2.9093090536502877
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Coronel Filiberto Gomez Diaz,19.3103966,-99.64241,school,amenity,school,2.917878288792096
+0,O1_Conjunto,19.287,-99.655,Owijarim Taekwondo Mexico,19.2865879,-99.6828121,school,amenity,school,2.919360405971421
+0,O1_Conjunto,19.287,-99.655,Instituto Educativo David Paul Ausubel,19.2682639,-99.6745392,school,amenity,school,2.923409832555166
+0,O1_Conjunto,19.287,-99.655,Escuela De Futbol Toros Fc,19.2611563,-99.6493532,school,amenity,school,2.9341745852013057
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Multiple 44 Toluca,19.312408,-99.6466468,school,amenity,school,2.95812013909264
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Minerva Cct 1sdpro330q,19.3093259,-99.6706899,school,amenity,school,2.978969604899845
+0,O1_Conjunto,19.287,-99.655,school (OSM),19.3095115,-99.6705115,school,amenity,school,2.9859409877713334
+0,O1_Conjunto,19.287,-99.655,Primaria Carmen Serdan,19.2833296,-99.6834585,school,amenity,school,3.0146276807665022
+0,O1_Conjunto,19.287,-99.655,Secundaria Numero 006 Jose Maria Gonzalez Arratia,19.2659003,-99.673073,school,amenity,school,3.0171202652229563
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Adolfo Lopez Mateos,19.269457,-99.6327285,school,amenity,school,3.04460767952117
+0,O1_Conjunto,19.287,-99.655,Casa Pura Capoeria,19.263905,-99.6391296,school,amenity,school,3.0609960441861297
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Alonso Gomez De Orozco S,19.3138923,-99.6479098,school,amenity,school,3.081473853461147
+0,O1_Conjunto,19.287,-99.655,Leipzig Academia de Música,19.3065534,-99.6341734,school,amenity,school,3.082959276080672
+0,O1_Conjunto,19.287,-99.655,Usaer Numero 3,19.3139292,-99.6478801,school,amenity,school,3.0862088136387276
+0,O1_Conjunto,19.287,-99.655,Colegio Niños De Mexico,19.3017628,-99.6300064,school,amenity,school,3.094374431055039
+0,O1_Conjunto,19.287,-99.655,Colegio Niños De Mexico,19.302299,-99.6300129,school,amenity,school,3.1258365800834236
+0,O1_Conjunto,19.287,-99.655,Uaem Plantel Doctor Ángel Ma Garibay Kintana,19.2608514,-99.6440528,school,amenity,school,3.126403212080303
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Miguel Hidalgo Y Costilla,19.3151352,-99.656564,school,amenity,school,3.1327941406999167
+0,O1_Conjunto,19.287,-99.655,Centro de educación para la atención de jovenes y adultos Isidro Fabela,19.3151048,-99.6576047,school,amenity,school,3.137043272408941
+0,O1_Conjunto,19.287,-99.655,Colegio Springfield,19.3147833,-99.6498042,school,amenity,school,3.137113676759919
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Tecnica Numero 159 Octavio Paz 15dst0169p,19.2796675,-99.68421,school,amenity,school,3.1723474805078107
+0,O1_Conjunto,19.287,-99.655,Bachillerato Inteligente De Mexico,19.2604261,-99.6437488,school,amenity,school,3.18213627678076
+0,O1_Conjunto,19.287,-99.655,Colegio Alma Mater,19.2745803,-99.6824515,school,amenity,school,3.1951275934527996
+0,O1_Conjunto,19.287,-99.655,Instituto Agora,19.2608731,-99.668228,school,amenity,school,3.2199135260504828
+0,O1_Conjunto,19.287,-99.655,Instituto Cenca Plantel Benito Juarez,19.2705748,-99.6295301,school,amenity,school,3.237638838111846
+0,O1_Conjunto,19.287,-99.655,Telesecundaria No 249 Jose Marti,19.2795877,-99.6850638,school,amenity,school,3.2612624867021376
+0,O1_Conjunto,19.287,-99.655,Telesecundaria Benito Juarez Turno Vespertino,19.2660522,-99.676934,school,amenity,school,3.275022442229537
+0,O1_Conjunto,19.287,-99.655,Telesecundaria Oficial 040 Lic Benito Juarez,19.2660218,-99.6769877,school,amenity,school,3.281389353030509
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para La Atencion De Jovenes Y Adultos General Jose Vicente Villada,19.2916377,-99.6859525,school,amenity,school,3.2892259356194278
+0,O1_Conjunto,19.287,-99.655,kinder Ma. Dolores Lopez gomez tagle,19.2752478,-99.6840184,school,amenity,school,3.31421973986513
+0,O1_Conjunto,19.287,-99.655,Centro De Estudios Jesus Reyes Heroles,19.3166694,-99.6519136,school,amenity,school,3.3149487917759246
+0,O1_Conjunto,19.287,-99.655,school (OSM),19.2682474,-99.679627,school,amenity,school,3.32107080413152
+0,O1_Conjunto,19.287,-99.655,Escuela De Futbol Planeta 7,19.300867,-99.6265379,school,amenity,school,3.3615904678151822
+0,O1_Conjunto,19.287,-99.655,Centro De Estudios Superiores Atenea Palas,19.3147502,-99.6421231,school,amenity,school,3.3686246132999322
+0,O1_Conjunto,19.287,-99.655,Centro De Formacion Y Documentacion Electoral,19.2874926,-99.6222465,school,amenity,school,3.438049015907167
+0,O1_Conjunto,19.287,-99.655,Centro Educativo Metepec,19.260438100000002,-99.6382088,school,amenity,school,3.4394300576232126
+0,O1_Conjunto,19.287,-99.655,Escuela De Futbol Real Madrid,19.2566244,-99.6629022,school,amenity,school,3.4779660382711266
+0,O1_Conjunto,19.287,-99.655,Centro Escolar Manuel Bernal,19.257589,-99.6674937,school,amenity,school,3.523484587157345
+0,O1_Conjunto,19.287,-99.655,Primaria Karol,19.2612418,-99.6353727,school,amenity,school,3.528125351117278
+0,O1_Conjunto,19.287,-99.655,Lic. Adolfo López Mateos,19.3027465,-99.6253439,school,amenity,school,3.5710903918460595
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Oficial Profesor Agripin García Estrada,19.255143,-99.6502505,school,amenity,school,3.5772448223012763
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Urbana Federal Derechos De Los Niños,19.2589627,-99.6717684,school,amenity,school,3.5801246353669653
+0,O1_Conjunto,19.287,-99.655,Josefa Ortiz De Dominguez 15EBA1978G,19.2601409,-99.6352705,school,amenity,school,3.6343129967207184
+0,O1_Conjunto,19.287,-99.655,"CEPJA ""Josefa Ortiz De Dominguez""",19.2601211,-99.6352608,school,amenity,school,3.636702510558286
+0,O1_Conjunto,19.287,-99.655,Instituto Lavalle,19.3060306,-99.6267523,school,amenity,school,3.6423095984012055
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No 0431 Emiliano Zapata,19.3168174,-99.6698643,school,amenity,school,3.6641789275726975
+0,O1_Conjunto,19.287,-99.655,Colegio De Las Americas,19.2614839,-99.6322434,school,amenity,school,3.708826963602437
+0,O1_Conjunto,19.287,-99.655,school (OSM),19.2537993,-99.6503198,school,amenity,school,3.7242914187910894
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria 706 Mario Colin Sanchez,19.3208177,-99.6576034,school,amenity,school,3.7702686585310032
+0,O1_Conjunto,19.287,-99.655,Ceaja Profesor Carlos Hanck Gonzalez Turno Matutino,19.2693578,-99.6858625,school,amenity,school,3.7870274322560733
+0,O1_Conjunto,19.287,-99.655,Colegio De Notarios,19.3159769,-99.6359792,school,amenity,school,3.7903017557799314
+0,O1_Conjunto,19.287,-99.655,Telebachillerato,19.2825684,-99.6186952,school,amenity,school,3.8421245018977492
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Nezahualcoyotl Turno Vespertino,19.3123386,-99.6296787,school,amenity,school,3.8729914645521095
+0,O1_Conjunto,19.287,-99.655,Instituto de estudios notariales del colegio de notarios del Estado de México,19.3166497,-99.6355252,school,amenity,school,3.8789882304380683
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Nezahualcoyotl Turno Matutino,19.3124329,-99.6296361,school,amenity,school,3.8836885416915456
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Xinantecatl,19.2597874,-99.6317874,school,amenity,school,3.884898841617003
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Olga Soto De Chuayffet,19.2621275,-99.6812591,school,amenity,school,3.9045845190080573
+0,O1_Conjunto,19.287,-99.655,Telesecundaria Cuitlahuac,19.2737533,-99.6201266,school,amenity,school,3.9455188635227354
+0,O1_Conjunto,19.287,-99.655,Centro De Atencion Múltiple Número 20,19.3134063,-99.6298707,school,amenity,school,3.946699526540626
+0,O1_Conjunto,19.287,-99.655,Escuela Para Adultos Gabriela Mistral,19.2787157,-99.6183996,school,amenity,school,3.950366921527149
+0,O1_Conjunto,19.287,-99.655,Kundal Yoga & Quiropractica,19.263746,-99.6265177,school,amenity,school,3.952643410909933
+0,O1_Conjunto,19.287,-99.655,Colegio Mexiquense Universitario,19.2536844,-99.6416297,school,amenity,school,3.961448711782372
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria República Mexicana,19.3194547,-99.6393955,school,amenity,school,3.962971395866421
+0,O1_Conjunto,19.287,-99.655,Gimnasio De Tae Kwon Do,19.3059499,-99.6230026,school,amenity,school,3.9644200067952595
+0,O1_Conjunto,19.287,-99.655,Escuela De Natación Acuática Navale,19.2735504,-99.6902848,school,amenity,school,3.9940046756390393
+0,O1_Conjunto,19.287,-99.655,Instituto Jose Pages Llergo Preparatoria Y Secundaria Abierta,19.3220023,-99.6457466,school,amenity,school,4.011392258510249
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para La Atencion De Jovenes Y Adultos Lorenzo De Zavala,19.2737349,-99.6193323,school,amenity,school,4.0237299878038595
+0,O1_Conjunto,19.287,-99.655,Instituto Hubble,19.2930373,-99.6929613,school,amenity,school,4.040286874065632
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial No0011,19.2806592,-99.6170309,school,amenity,school,4.046985539132837
+0,O1_Conjunto,19.287,-99.655,Clases De Box,19.2786686,-99.6173166,school,amenity,school,4.062179860752854
+0,O1_Conjunto,19.287,-99.655,colegio Preston,19.2917019,-99.6935549,school,amenity,school,4.0800776984113805
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Técnica 140 Lázaro Cárdenas Del Río,19.2556074,-99.6347456,school,amenity,school,4.087150321536602
+0,O1_Conjunto,19.287,-99.655,Colegio Elsembrador,19.2531821,-99.6394618,school,amenity,school,4.098842001565133
+0,O1_Conjunto,19.287,-99.655,Escuela para adultos,19.2986307,-99.692219,school,amenity,school,4.114679084918152
+0,O1_Conjunto,19.287,-99.655,Centro Educativo De Formación Integral Frater,19.2522902,-99.6409307,school,amenity,school,4.132439892200317
+0,O1_Conjunto,19.287,-99.655,Escuela Maternal Y Kinder Instituto Universitario Hubble,19.2930081,-99.6938843,school,amenity,school,4.13531716801641
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial 323 Jose Vasconcelos,19.3122723,-99.6260516,school,amenity,school,4.138421092830594
+0,O1_Conjunto,19.287,-99.655,Openbook Educacion Avanzada A Libro Abierto,19.260385,-99.6272504,school,amenity,school,4.152352581913761
+0,O1_Conjunto,19.287,-99.655,Cursos De Personalidad Academia Starlet,19.2612778,-99.6263186,school,amenity,school,4.152535292970945
+0,O1_Conjunto,19.287,-99.655,Centro Holistico Shiva & Shakti,19.2966384,-99.6932711,school,amenity,school,4.157122095383351
+0,O1_Conjunto,19.287,-99.655,Escuela Telesecundaria #238 Angel Maria Garibay Kintanade Santiago Miltepc,19.3242592,-99.6595971,school,amenity,school,4.171027403008442
+0,O1_Conjunto,19.287,-99.655,Cobaem Plantel 06 Toluca Norte Turno Matutino,19.3186008,-99.6335122,school,amenity,school,4.175192889650947
+0,O1_Conjunto,19.287,-99.655,Primaria Mariano Abasolo,19.2495291,-99.6595166,school,amenity,school,4.193459242503155
+0,O1_Conjunto,19.287,-99.655,Centro educativo medio superior Cetem,19.310092,-99.6228911,school,amenity,school,4.236532622034424
+0,O1_Conjunto,19.287,-99.655,Ceaja Emiliano Zapata Unidad De Educacion Para La Atencion De Jóvenes Y Adultos,19.2492041,-99.6637129,school,amenity,school,4.301071123761507
+0,O1_Conjunto,19.287,-99.655,Escuela Para Adultos Lic Benito Juárez 15eba2412j,19.2689239,-99.6916505,school,amenity,school,4.340291946623149
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para Adultos Ceba Impulso Social,19.3128545,-99.6239639,school,amenity,school,4.344394974555842
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profra Magdalena Reyes Gómez Cct 15epr4213a,19.2917575,-99.6960917,school,amenity,school,4.345008403193345
+0,O1_Conjunto,19.287,-99.655,Superacion Personal Trinus,19.2614803,-99.6236252,school,amenity,school,4.347104282359662
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Jose Vasconcelos 15dtv0277k,19.2866505,-99.6966952,school,amenity,school,4.376264143850043
+0,O1_Conjunto,19.287,-99.655,Bikram Yoga Metepec,19.2630998,-99.6215732,school,amenity,school,4.401429965362406
+0,O1_Conjunto,19.287,-99.655,Colegio De Educacion Profesional Tecnica Del Estado De Mexico Plantel Toluca Cct 15dpt0013r,19.3247106,-99.6690765,school,amenity,school,4.445821438601566
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Carlos Ma Salcedo 15epr0671m Turno Matutino,19.2671262,-99.6922087,school,amenity,school,4.487317792420503
+0,O1_Conjunto,19.287,-99.655,Escuela secundaria Adolfo López Mateos,19.3213712,-99.6787848,school,amenity,school,4.564780669537472
+0,O1_Conjunto,19.287,-99.655,Escuela De Futbol Chivas Bufalos,19.3259179,-99.6689518,school,amenity,school,4.568444806280318
+0,O1_Conjunto,19.287,-99.655,Yoga Studio,19.2615593,-99.6203469,school,amenity,school,4.6078504920691605
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profesor Rafael Ramirez,19.2770761,-99.611979,school,amenity,school,4.648254380353073
+0,O1_Conjunto,19.287,-99.655,Centro De Educacion Para La Atencion De Jovenes Y Adultos Libertadores De America,19.3223738,-99.6794476,school,amenity,school,4.6961520351137125
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Profr Adrian Ortega Monroy,19.2495462,-99.6340234,school,amenity,school,4.710899193041613
+0,O1_Conjunto,19.287,-99.655,Centro Para La Atencion De Jovenes Y Adultos Heriberto Enriquez,19.2496522,-99.6336739,school,amenity,school,4.71777799075098
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Federalizada Gregorio Torres Quintero,19.2649335,-99.6159733,school,amenity,school,4.774952543971082
+0,O1_Conjunto,19.287,-99.655,Bussiness Kids,19.2830815,-99.609274,school,amenity,school,4.818932506578447
+0,O1_Conjunto,19.287,-99.655,Centro De Formacion Deportiva Hc,19.2731132,-99.611461,school,amenity,school,4.823629550215132
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Miguel Hidalgo Y Costilla,19.3248067,-99.6780029,school,amenity,school,4.847695223212404
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial Numero 417 Sor Juana Ines De La Cruz Turno Matutino,19.248935,-99.6323504,school,amenity,school,4.85463208962247
+0,O1_Conjunto,19.287,-99.655,Colegio Forger,19.2729276,-99.6111827,school,amenity,school,4.857922174081909
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial Numero 0417 Sor Juana Ines De La Cruz Turno Vespertino,19.2489555,-99.6322377,school,amenity,school,4.858451362234393
+0,O1_Conjunto,19.287,-99.655,Escuela De Manejo Valdez,19.2560719,-99.6221119,school,amenity,school,4.872765183964779
+0,O1_Conjunto,19.287,-99.655,Escuela Telesecundaria Federal Heriberto Enríquez,19.2624125,-99.6944858,school,amenity,school,4.965054415919225
+0,O1_Conjunto,19.287,-99.655,Telebachillerato Comunitario 478 Capultitlan,19.2468129,-99.6768528,school,amenity,school,5.022950562396798
+0,O1_Conjunto,19.287,-99.655,Preescolar Inedib,19.2929885,-99.7025475,school,amenity,school,5.034451117720325
+0,O1_Conjunto,19.287,-99.655,Telesecundaria 499 Jose María Pinosuarez,19.2468003,-99.6770834,school,amenity,school,5.03529424026102
+0,O1_Conjunto,19.287,-99.655,Cbt Numero 3 Gobierno Del Estado De Mexico Clabe 15ect0105c,19.3120834,-99.6150194,school,amenity,school,5.038270407292733
+0,O1_Conjunto,19.287,-99.655,Escuela Estatal Primaria Profesor Manuel Hinojosa Giles Turno Vespertino Con Cct 15epr1445x En La Localidad De San Cristobal Huichochitlan,19.327873,-99.6341555,school,amenity,school,5.043883460830652
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Lic Jun Fernandez Albarran,19.2431799,-99.6424048,school,amenity,school,5.048752692327972
+0,O1_Conjunto,19.287,-99.655,Ibem Escuela Primaria Cctt15ppr7097a,19.2976079,-99.701782,school,amenity,school,5.049509798413344
+0,O1_Conjunto,19.287,-99.655,Escuela Primaria Federal Manuel Savedra,19.2935322,-99.7026873,school,amenity,school,5.057315150640494
+0,O1_Conjunto,19.287,-99.655,IBEM Instituto Bilingue Educativo de Mexicano,19.2977135,-99.701875,school,amenity,school,5.061749820267031
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Ricardo Flores Magon,19.2943196,-99.7027343,school,amenity,school,5.07548738589185
+0,O1_Conjunto,19.287,-99.655,Tae Kwon Do,19.286746,-99.7035471,school,amenity,school,5.095304913510823
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Federalizada Ricardo Flores Magon,19.2940058,-99.7030057,school,amenity,school,5.098161301419847
+0,O1_Conjunto,19.287,-99.655,Escuela Secundaria Oficial Lic. Adolfo López Mateos,19.2786523,-99.6065112,school,amenity,school,5.1731899405846615
+0,O1_Conjunto,19.287,-99.655,Rivendell Preparatory School,19.2603919,-99.6956705,school,amenity,school,5.193959715567665
+0,O1_Conjunto,19.287,-99.655,Instituto Cultural Y Deportivo Simón Bolívar,19.2587264,-99.6945655,school,amenity,school,5.2087202920817095
+0,O1_Conjunto,19.287,-99.655,Escuela De Natacion Vida Aquatik,19.2879521,-99.7050447,school,amenity,school,5.253453692251521
+0,O1_Conjunto,19.287,-99.655,Escuela de Natacion Vida Aquatic,19.2880677,-99.70505,school,amenity,school,5.254282709643091
+0,O1_Conjunto,19.287,-99.655,Escuela secundaria oficial 418 Lic Adolfo López Mateos,19.2783542,-99.6055712,school,amenity,school,5.276221538246782
+0,O1_Conjunto,19.287,-99.655,Transportes De Pasajeros De Segunda Clase Flecha De Oro,19.2782153,-99.6437282,bus,amenity,bus_station,1.534204680623462
+0,O1_Conjunto,19.287,-99.655,Venta De Boletos De Autotransportes de Pasajeros Mex Toluca Flecha Roja,19.2781602,-99.6437304,bus,amenity,bus_station,1.5379353967582792
+0,O1_Conjunto,19.287,-99.655,Central de Autobuses ETN Turistar,19.2770817,-99.6437951,bus,amenity,bus_station,1.612257308788575
+0,O1_Conjunto,19.287,-99.655,Autotransportes Primero de Mayo,19.2758983,-99.6450455,bus,amenity,bus_station,1.6172461175555304
+0,O1_Conjunto,19.287,-99.655,Autotransportes Azteca Toluca Ixtlahuaca,19.3059263,-99.635738,bus,amenity,bus_station,2.9181267326395055
+0,O1_Conjunto,19.287,-99.655,Autotransporte Rapidos De Toluca,19.3021423,-99.6304532,bus,amenity,bus_station,3.0776062726737576
+0,O1_Conjunto,19.287,-99.655,Autobuses Herradura De Occidente,19.3138672,-99.6385234,bus,amenity,bus_station,3.451823061597609
+0,O1_Conjunto,19.287,-99.655,Flecha Roja,19.3170908,-99.6451535,bus,amenity,bus_station,3.5018749089539942
+0,O1_Conjunto,19.287,-99.655,Linea de transporte publico Adolfo Lopez Mateos,19.2623525,-99.6777899,bus,amenity,bus_station,3.6377654789636193
+0,O1_Conjunto,19.287,-99.655,Sistema De Transportes Tollocan,19.2608975,-99.6833373,bus,amenity,bus_station,4.155851293095538
+0,O1_Conjunto,19.287,-99.655,bus (OSM),19.3124937,-99.612694,bus,amenity,bus_station,5.267652593529501
+0,O1_Conjunto,19.287,-99.655,Turismo Y Autobuses Mexico Toluca Triangulo Flecha Sa De Cv,19.2867181,-99.5940144,bus,amenity,bus_station,6.400777915819215
+0,O1_Conjunto,19.287,-99.655,Estacionamiento de el Piojo,19.2931579,-99.5899783,bus,amenity,bus_station,6.858439219944509
+0,O1_Conjunto,19.287,-99.655,Compañia Transportista De Toluca,19.2225761,-99.6593656,bus,amenity,bus_station,7.178254596711939
+1,O2_Centro,19.292,-99.661,Prak tis,19.2902688,-99.6610022,super,shop,supermarket,0.1925007954788956
+1,O2_Centro,19.292,-99.661,Bodega Aurrera Express,19.2921475,-99.6633593,super,shop,supermarket,0.2481534004835414
+1,O2_Centro,19.292,-99.661,Super kompras Micro Lerdo,19.2919658,-99.6640843,super,shop,supermarket,0.3237227653639632
+1,O2_Centro,19.292,-99.661,Súper Compras,19.2894882,-99.6568576,super,shop,supermarket,0.5167376567173315
+1,O2_Centro,19.292,-99.661,super (OSM),19.2925124,-99.6543379,super,shop,supermarket,0.7015106345825783
+1,O2_Centro,19.292,-99.661,La Estrella,19.2923025,-99.6531097,super,shop,supermarket,0.8287770338812419
+1,O2_Centro,19.292,-99.661,Tiendas 3B,19.293487,-99.6739194,super,shop,supermarket,1.365942415074625
+1,O2_Centro,19.292,-99.661,Sanborns,19.2785176,-99.6595698,super,shop,supermarket,1.5066705889224699
+1,O2_Centro,19.292,-99.661,Super Kompras,19.2962844,-99.6472148,super,shop,supermarket,1.523171302576335
+1,O2_Centro,19.292,-99.661,Super Kompras,19.2838533,-99.67452,super,shop,supermarket,1.6834749003524532
+1,O2_Centro,19.292,-99.661,Garis,19.2756449,-99.6696896,super,shop,supermarket,2.034481701566369
+1,O2_Centro,19.292,-99.661,El Primo2,19.2749442,-99.669521,super,shop,supermarket,2.096810832608188
+1,O2_Centro,19.292,-99.661,Price Shoes,19.2850908,-99.6352395,super,shop,supermarket,2.8106841632794892
+1,O2_Centro,19.292,-99.661,Oxxo,19.26987,-99.642021,super,shop,supermarket,3.16596317019262
+1,O2_Centro,19.292,-99.661,super (OSM),19.2692464,-99.6427101,super,shop,supermarket,3.1759232582119257
+1,O2_Centro,19.292,-99.661,Coppel,19.2632865,-99.6450995,super,shop,supermarket,3.602670752755573
+1,O2_Centro,19.292,-99.661,Plaza Puerto Madero,19.3036791,-99.6283173,super,shop,supermarket,3.6675787812560134
+1,O2_Centro,19.292,-99.661,Modelorama,19.3030403,-99.6947154,super,shop,supermarket,3.7452577189948393
+1,O2_Centro,19.292,-99.661,Tienda San Miguel,19.2606786,-99.6783738,super,shop,supermarket,3.931307342704264
+1,O2_Centro,19.292,-99.661,Canasta Básica,19.2687638,-99.6905532,super,shop,supermarket,4.0369884346094524
+1,O2_Centro,19.292,-99.661,Supercito Chedraui,19.2682708,-99.6919533,super,shop,supermarket,4.185311877286394
+1,O2_Centro,19.292,-99.661,Soriana,19.2666635,-99.6046317,super,shop,supermarket,6.552902344006428
+1,O2_Centro,19.292,-99.661,Supersito,19.2977232,-99.7236625,super,shop,supermarket,6.60709728584042
+1,O2_Centro,19.292,-99.661,Super Texas,19.3232011,-99.7183035,super,shop,supermarket,6.942534458933309
+1,O2_Centro,19.292,-99.661,"Super ""Don Pablito""",19.2646134,-99.5987766,super,shop,supermarket,7.206033651109788
+1,O2_Centro,19.292,-99.661,Mini Super Palkaminio,19.2474616,-99.6103632,super,shop,supermarket,7.264781519734256
+1,O2_Centro,19.292,-99.661,Bodega Aurrera,19.2703679,-99.588793,super,shop,supermarket,7.9512586658018725
+1,O2_Centro,19.292,-99.661,Tiendas Tres B,19.2829419,-99.7365565,super,shop,supermarket,7.9936594235441065
+1,O2_Centro,19.292,-99.661,Farmacia Dermatologica,19.2901216,-99.6597842,pharma,amenity,pharmacy,0.24476085075472678
+1,O2_Centro,19.292,-99.661,Toluca 11,19.2931894,-99.663062,pharma,amenity,pharmacy,0.2536216783313328
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2919984,-99.6639747,pharma,amenity,pharmacy,0.31219781581981754
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2903265,-99.6584578,pharma,amenity,pharmacy,0.32529053189617313
+1,O2_Centro,19.292,-99.661,La Barata de México,19.2934713,-99.6638507,pharma,amenity,pharmacy,0.34099191068526385
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2877732,-99.6626912,pharma,amenity,pharmacy,0.5023976740549423
+1,O2_Centro,19.292,-99.661,San Judas Tadeo,19.2930039,-99.6659952,pharma,amenity,pharmacy,0.536002477068585
+1,O2_Centro,19.292,-99.661,Farmacia y droguería Toluca,19.2921873,-99.6556065,pharma,amenity,pharmacy,0.566435949226049
+1,O2_Centro,19.292,-99.661,Farmacias Toluca,19.2911449,-99.6677164,pharma,amenity,pharmacy,0.7112787094293933
+1,O2_Centro,19.292,-99.661,Benavides,19.2909051,-99.6542409,pharma,amenity,pharmacy,0.7197483987309762
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.292305,-99.6532438,pharma,amenity,pharmacy,0.814726431141831
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2927675,-99.6528947,pharma,amenity,pharmacy,0.8549276612550694
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2917294,-99.6528484,pharma,amenity,pharmacy,0.8560483146962206
+1,O2_Centro,19.292,-99.661,Sucursal Pstoluca,19.2899905,-99.6530074,pharma,amenity,pharmacy,0.868086981317524
+1,O2_Centro,19.292,-99.661,Farmacia Benavides,19.2892654,-99.670149,pharma,amenity,pharmacy,1.0072010854592097
+1,O2_Centro,19.292,-99.661,Equilibrio Farmacéutico Toluca,19.2902037,-99.6512234,pharma,amenity,pharmacy,1.0453299877956899
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2956477,-99.650796,pharma,amenity,pharmacy,1.1451464020600317
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2875006,-99.6725824,pharma,amenity,pharmacy,1.314532987486123
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2958702,-99.6485768,pharma,amenity,pharmacy,1.3729981046298385
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2791459,-99.6590222,pharma,amenity,pharmacy,1.4443055968210146
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2889339,-99.6474517,pharma,amenity,pharmacy,1.4622229687483106
+1,O2_Centro,19.292,-99.661,Farmacia Homeopatica Homeonam,19.2888483,-99.6748283,pharma,amenity,pharmacy,1.493021177998748
+1,O2_Centro,19.292,-99.661,Distribuidora y comercializadora opciones farmacéuticas,19.2900428,-99.6468155,pharma,amenity,pharmacy,1.5045100667079634
+1,O2_Centro,19.292,-99.661,San Pablo Farmacia,19.2782301,-99.6592617,pharma,amenity,pharmacy,1.5419743076230752
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.279959,-99.6710405,pharma,amenity,pharmacy,1.7038606795896747
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2820708,-99.6733801,pharma,amenity,pharmacy,1.7050743359601108
+1,O2_Centro,19.292,-99.661,Farmaplus,19.3034364,-99.6499771,pharma,amenity,pharmacy,1.7191234946149196
+1,O2_Centro,19.292,-99.661,Farmacia Cruz,19.306452,-99.6539414,pharma,amenity,pharmacy,1.7695086105322235
+1,O2_Centro,19.292,-99.661,Lora,19.306056,-99.6525059,pharma,amenity,pharmacy,1.7992975160683937
+1,O2_Centro,19.292,-99.661,Farmaco Darovi del Carmen,19.2892049,-99.6787301,pharma,amenity,pharmacy,1.886584935714214
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2901489,-99.6420324,pharma,amenity,pharmacy,2.0012930910929527
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2936035,-99.6418083,pharma,amenity,pharmacy,2.0220548637140263
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.287045,-99.6418226,pharma,amenity,pharmacy,2.0867683919489917
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2750355,-99.6698966,pharma,amenity,pharmacy,2.104822389709272
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2875803,-99.6830917,pharma,amenity,pharmacy,2.370089215792661
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2700728,-99.6603456,pharma,amenity,pharmacy,2.4391606342599634
+1,O2_Centro,19.292,-99.661,Sucursal Pstoluca2,19.278818,-99.6417421,pharma,amenity,pharmacy,2.496759071305283
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2882608,-99.6851788,pharma,amenity,pharmacy,2.571454895258942
+1,O2_Centro,19.292,-99.661,Farmacia Veterinaria La Granja,19.2747022,-99.6438372,pharma,amenity,pharmacy,2.6352285406322378
+1,O2_Centro,19.292,-99.661,Comercializadora De Materiales Y Servicios Para Laboratorio,19.2778825,-99.6378221,pharma,amenity,pharmacy,2.8951743943653936
+1,O2_Centro,19.292,-99.661,Farmamigo Toluca 1 F205,19.2678737,-99.6503844,pharma,amenity,pharmacy,2.904899276127937
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.2885996,-99.6892495,pharma,amenity,pharmacy,2.9888570980248974
+1,O2_Centro,19.292,-99.661,Medical Health,19.3139708,-99.63908670000001,pharma,amenity,pharmacy,3.3551344251132034
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.3139065,-99.6386988,pharma,amenity,pharmacy,3.378007022611945
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2988257,-99.6941589,pharma,amenity,pharmacy,3.5617927875216018
+1,O2_Centro,19.292,-99.661,ISSSTE,19.3098067,-99.6325157,pharma,amenity,pharmacy,3.5855728774289863
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.3023823,-99.6277854,pharma,amenity,pharmacy,3.6719945212543896
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2888518,-99.6973794,pharma,amenity,pharmacy,3.8341057268018006
+1,O2_Centro,19.292,-99.661,Farmacia Angeles,19.2707832,-99.690175,pharma,amenity,pharmacy,3.8655598712954373
+1,O2_Centro,19.292,-99.661,Tienda de Insumos para la Salud Thannax,19.3184374,-99.6366521,pharma,amenity,pharmacy,3.8949395763246697
+1,O2_Centro,19.292,-99.661,Farmacia Pro + Salud,19.2718946,-99.6916258,pharma,amenity,pharmacy,3.915404872298089
+1,O2_Centro,19.292,-99.661,Farmacia Guadalupana,19.2688784,-99.6909403,pharma,amenity,pharmacy,4.060207649236067
+1,O2_Centro,19.292,-99.661,Cemot,19.2678362,-99.6915179,pharma,amenity,pharmacy,4.180833707694878
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2682655,-99.6922142,pharma,amenity,pharmacy,4.206973406801885
+1,O2_Centro,19.292,-99.661,Farmamigo,19.2562747,-99.6764814,pharma,amenity,pharmacy,4.2919748735692504
+1,O2_Centro,19.292,-99.661,Roche,19.3317443,-99.6631363,pharma,amenity,pharmacy,4.425046811059965
+1,O2_Centro,19.292,-99.661,Farmacia Hospital Regional,19.3217264,-99.6291102,pharma,amenity,pharmacy,4.70375537679822
+1,O2_Centro,19.292,-99.661,Farmacia Similares,19.3049768,-99.6160107,pharma,amenity,pharmacy,4.937057759798407
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.2979064,-99.71025,pharma,amenity,pharmacy,5.210302204388229
+1,O2_Centro,19.292,-99.661,Farmacia Veterinaria Amatepec Sa,19.2826109,-99.6122168,pharma,amenity,pharmacy,5.2253521186225
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2571422,-99.6956054,pharma,amenity,pharmacy,5.311944678180246
+1,O2_Centro,19.292,-99.661,Labcare Diagnostika,19.295126,-99.6101315,pharma,amenity,pharmacy,5.3499532167446215
+1,O2_Centro,19.292,-99.661,Distribuidora De Medicamentos Equilibrio Farmacéutico,19.2569241,-99.69589619999999,pharma,amenity,pharmacy,5.3505165880470615
+1,O2_Centro,19.292,-99.661,Benavides,19.2754047,-99.6060699,pharma,amenity,pharmacy,6.053380941421896
+1,O2_Centro,19.292,-99.661,Especializadas,19.257549,-99.6148747,pharma,amenity,pharmacy,6.173658431262572
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2756468,-99.6039311,pharma,amenity,pharmacy,6.259673304638325
+1,O2_Centro,19.292,-99.661,pharma (OSM),19.2806719,-99.6025601,pharma,amenity,pharmacy,6.261545837396969
+1,O2_Centro,19.292,-99.661,Farmacia 75,19.2605559,-99.7107706,pharma,amenity,pharmacy,6.286088559263593
+1,O2_Centro,19.292,-99.661,Redfields De Mexico,19.2500905,-99.7089231,pharma,amenity,pharmacy,6.857104144178421
+1,O2_Centro,19.292,-99.661,Farmacia Santa Cruz 1,19.3543213,-99.657124,pharma,amenity,pharmacy,6.941737157941792
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.3077268,-99.5965176,pharma,amenity,pharmacy,6.989467128017843
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.3569797,-99.6572178,pharma,amenity,pharmacy,7.236304024161491
+1,O2_Centro,19.292,-99.661,La Botica Moderna,19.2518348,-99.6042302,pharma,amenity,pharmacy,7.446722786889308
+1,O2_Centro,19.292,-99.661,Farmacia,19.3589765,-99.6584139,pharma,amenity,pharmacy,7.452389023614136
+1,O2_Centro,19.292,-99.661,Farmacias Similares,19.3596378,-99.6645112,pharma,amenity,pharmacy,7.529998825797823
+1,O2_Centro,19.292,-99.661,pharma (OSM),19.2921022,-99.7334198,pharma,amenity,pharmacy,7.600537079432049
+1,O2_Centro,19.292,-99.661,Farmacia Guadalajara,19.2879408,-99.7343934,pharma,amenity,pharmacy,7.7160197001609925
+1,O2_Centro,19.292,-99.661,pharma (OSM),19.285561,-99.7350912,pharma,amenity,pharmacy,7.808991538500841
+1,O2_Centro,19.292,-99.661,Benavides,19.2850509,-99.7354144,pharma,amenity,pharmacy,7.848163621269924
+1,O2_Centro,19.292,-99.661,Farmacias del Ahorro,19.284823,-99.7354627,pharma,amenity,pharmacy,7.855747558874464
+1,O2_Centro,19.292,-99.661,Grupo Médico Los Angeles,19.2237978,-99.6643947,hospital,healthcare,hospital,7.5921062828898185
+1,O2_Centro,19.292,-99.661,Colegio Mexiquense,19.2919113,-99.660647,school,amenity,school,0.038338124930439275
+1,O2_Centro,19.292,-99.661,Escuela Primaria María Remedios Colón,19.2924486,-99.6609212,school,amenity,school,0.05056296413035383
+1,O2_Centro,19.292,-99.661,Instituto Nacional Para La Educacion De Adultos,19.2907876,-99.6600129,school,amenity,school,0.17002034829098858
+1,O2_Centro,19.292,-99.661,Alianza Francesa de Toluca,19.2916512,-99.6593783,school,amenity,school,0.17456241927986965
+1,O2_Centro,19.292,-99.661,Colegio de bachilleres COBAEM,19.289965,-99.6607033,school,amenity,school,0.22841419374984892
+1,O2_Centro,19.292,-99.661,"Instituto Tecnico, Administrativo y Humanistico de Toluca",19.291636,-99.658528,school,amenity,school,0.2625774364541724
+1,O2_Centro,19.292,-99.661,Academia De Estilistas Profesionales Lupita,19.2903679,-99.6586001,school,amenity,school,0.31044409983466403
+1,O2_Centro,19.292,-99.661,Escuela De Manejo Aprende,19.2938753,-99.6632409,school,amenity,school,0.3143141903613528
+1,O2_Centro,19.292,-99.661,Yoga Solar,19.2907297,-99.6637268,school,amenity,school,0.31914210469148463
+1,O2_Centro,19.292,-99.661,Colegio Cepavat,19.2934913,-99.6641054,school,amenity,school,0.36567397649586847
+1,O2_Centro,19.292,-99.661,Instituto Al Servicio Educativo Superior,19.2936005,-99.657838,school,amenity,school,0.37656227393841746
+1,O2_Centro,19.292,-99.661,Cepavat,19.2937505,-99.6642827,school,amenity,school,0.3957043704469027
+1,O2_Centro,19.292,-99.661,Centro Escolar Justo Sierra Mendez,19.2883196,-99.6614631,school,amenity,school,0.4121178761733478
+1,O2_Centro,19.292,-99.661,Niot Robotica Y Tecnologica,19.2924275,-99.6649288,school,amenity,school,0.4150620361873499
+1,O2_Centro,19.292,-99.661,Centro de Estudios para la Calidad Educativa y la Investigación Científica,19.2889085,-99.6586861,school,amenity,school,0.4208867899143913
+1,O2_Centro,19.292,-99.661,Escuela Tecnica del DIFEM,19.2945423,-99.6577173,school,amenity,school,0.44565474617142975
+1,O2_Centro,19.292,-99.661,Centro de Educación Para La Atencion de Jóvenes y Adultos Lic Ma Eugenia San Martin de Camacho,19.2946827,-99.6578183,school,amenity,school,0.44775769002018045
+1,O2_Centro,19.292,-99.661,COBAEM,19.296003,-99.6616472,school,amenity,school,0.4502659645177063
+1,O2_Centro,19.292,-99.661,Instituto Brima,19.2893398,-99.6577375,school,amenity,school,0.4524815681121389
+1,O2_Centro,19.292,-99.661,Instituto de Computo e Inglés,19.2903529,-99.6569859,school,amenity,school,0.4593750940247452
+1,O2_Centro,19.292,-99.661,Escuela Secundaria 585 Licenciado Juan Fernandez Albarran,19.2879268,-99.6593061,school,amenity,school,0.48656043209543864
+1,O2_Centro,19.292,-99.661,Colegio Vilaseca De Toluca,19.2874639,-99.6605645,school,amenity,school,0.5064579959322536
+1,O2_Centro,19.292,-99.661,Centro Universitario Liceo Mexiquense,19.2912993,-99.6663097,school,amenity,school,0.562680062853083
+1,O2_Centro,19.292,-99.661,Escuela de Enfermería y Salud  Iepetac  Toluca,19.2913601,-99.6556268,school,amenity,school,0.5683950720257744
+1,O2_Centro,19.292,-99.661,Escuelas Profesionales de Computación Epc,19.2905198,-99.655626,school,amenity,school,0.5875343071608276
+1,O2_Centro,19.292,-99.661,Escuela Española de Dibujo y Pintura clasica,19.2890786,-99.6657248,school,amenity,school,0.5928053048118568
+1,O2_Centro,19.292,-99.661,Dirección de Identidad Universitaria,19.2922061,-99.6552996,school,amenity,school,0.5987011277220786
+1,O2_Centro,19.292,-99.661,Lic. Juan Fernandez,19.2895391,-99.6663264,school,amenity,school,0.6223959182178055
+1,O2_Centro,19.292,-99.661,Escuela Primaria Adolfo Ruiz Cortines Turno Vespertino,19.2956207,-99.6559297,school,amenity,school,0.6672697525465532
+1,O2_Centro,19.292,-99.661,Escuela Primaria Adolfo Ruiz Cortines,19.2956536,-99.6558948,school,amenity,school,0.6723982901241863
+1,O2_Centro,19.292,-99.661,Centro De Atencion Para Jovenes Y Adultos Licenciado Adolfo Ruiz Cortines,19.2956359,-99.6558304,school,amenity,school,0.6766183854152636
+1,O2_Centro,19.292,-99.661,Centro de idiomas y Computación,19.2896107,-99.6550302,school,amenity,school,0.680542849783175
+1,O2_Centro,19.292,-99.661,Centro De Maestros Adolfo Ruiz Cortines Toluca 1,19.2956384,-99.6557607,school,amenity,school,0.6826626475290989
+1,O2_Centro,19.292,-99.661,Centro De Estudios Tecnologicos Del Estado De Mexico,19.2893398,-99.6550141,school,amenity,school,0.6943865647251278
+1,O2_Centro,19.292,-99.661,Escuela Primaria Ford Numero 42,19.2981374,-99.6596283,school,amenity,school,0.6974661280049926
+1,O2_Centro,19.292,-99.661,Escuela de Estilismo Oscar De Leon,19.2893423,-99.6549741,school,amenity,school,0.6980692390024428
+1,O2_Centro,19.292,-99.661,Grupo Isima,19.2865062,-99.6576689,school,amenity,school,0.7038490821667983
+1,O2_Centro,19.292,-99.661,Escuela primaria Heriberto Enríquez,19.2946912,-99.6671459,school,amenity,school,0.7110493187622879
+1,O2_Centro,19.292,-99.661,Escuela Primaria Flor De Maria Reyes De Molina,19.2945569,-99.66731,school,amenity,school,0.7206876800609984
+1,O2_Centro,19.292,-99.661,Instituto Universitario Johann Friedrich Herbart,19.2859347,-99.6585663,school,amenity,school,0.7211782294159822
+1,O2_Centro,19.292,-99.661,D4 Reality,19.2865932,-99.6653836,school,amenity,school,0.7570449860027476
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profesor Heriberto Enriquez,19.2951281,-99.6675914,school,amenity,school,0.7742913747211122
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profesor Heriberto Henriquez,19.2952367,-99.6675803,school,amenity,school,0.778757251862195
+1,O2_Centro,19.292,-99.661,Academia De Belleza Reflejos,19.2880306,-99.6548665,school,amenity,school,0.7805097151133207
+1,O2_Centro,19.292,-99.661,Escuela Primaria Flor De Maria Reyes De Molina Cct 15epr0669y,19.294931599999998,-99.667927,school,amenity,school,0.7967280103967307
+1,O2_Centro,19.292,-99.661,Colegio Panamericano Estudios Tecnicos,19.2904113,-99.6533852,school,amenity,school,0.8184763225079436
+1,O2_Centro,19.292,-99.661,Secundaria Instituto Bicentenario,19.2906834,-99.6686908,school,amenity,school,0.8203296554523081
+1,O2_Centro,19.292,-99.661,Escuela Agra Montessory,19.2894459,-99.668792,school,amenity,school,0.8656958997835259
+1,O2_Centro,19.292,-99.661,Red de Inovación Y Aprendizaje,19.293441,-99.6528775,school,amenity,school,0.8673890080902356
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Num14 Primero De Mayo,19.300122,-99.6615669,school,amenity,school,0.905082759309504
+1,O2_Centro,19.292,-99.661,Yoga Natural,19.2851481,-99.6658081,school,amenity,school,0.9138562257465829
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Tecnica No 2 Tierra Y Libertad,19.2893501,-99.6526907,school,amenity,school,0.9205102905243692
+1,O2_Centro,19.292,-99.661,Escuela Secundaria General Nocturna Tierra y Libertad,19.2893069,-99.6526949,school,amenity,school,0.9216423773516773
+1,O2_Centro,19.292,-99.661,Bodega Del Museo De Historia Universitario José María Morelos y Pavón,19.2863794,-99.6543267,school,amenity,school,0.9386890439564988
+1,O2_Centro,19.292,-99.661,Instituto Gastronomico Chatelain,19.294157,-99.6696835,school,amenity,school,0.9423694821299636
+1,O2_Centro,19.292,-99.661,Escuela De Gobierno Y Administracion Publica Mexiquense,19.2849752,-99.6557288,school,amenity,school,0.957191090325931
+1,O2_Centro,19.292,-99.661,Preparatoria Estado De México,19.2837423,-99.6652637,school,amenity,school,1.0214527346684754
+1,O2_Centro,19.292,-99.661,Instituto Al Servicio Educativo Superior,19.2830626,-99.6584254,school,amenity,school,1.0298744248535716
+1,O2_Centro,19.292,-99.661,Escuela Telesecundaria No. 0325 Cuauhtémoc,19.2953249,-99.6517589,school,amenity,school,1.0379314222046419
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No 0970 Gral Jose Vicente Villada,19.2852638,-99.6541272,school,amenity,school,1.0398814589236716
+1,O2_Centro,19.292,-99.661,"Instituto Superior de Estudios Prospectivos ""ISEP""",19.2839244,-99.6557963,school,amenity,school,1.0510085949101804
+1,O2_Centro,19.292,-99.661,Escuela Preparatoria Oficial Numero 116,19.2854063,-99.6682398,school,amenity,school,1.0558967401282893
+1,O2_Centro,19.292,-99.661,Eurek Club De Tareas,19.2826091,-99.6627038,school,amenity,school,1.0594211378505114
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No. 549 Gral. Lázaro Cárdenas Vespertino,19.2904806,-99.6507871,school,amenity,school,1.0850925952816732
+1,O2_Centro,19.292,-99.661,Escuela Montessori,19.2833549,-99.6561402,school,amenity,school,1.088226241860825
+1,O2_Centro,19.292,-99.661,Instituto Universitario Brima,19.2923031,-99.6505997,school,amenity,school,1.0920411651926232
+1,O2_Centro,19.292,-99.661,Unidad de Apoyo a la educación Básica y Normal,19.2880744,-99.6513744,school,amenity,school,1.1004998339856076
+1,O2_Centro,19.292,-99.661,Escuela Del Deporte Profesor Javier Garcia Moreno R,19.2849069,-99.6684261,school,amenity,school,1.1088410239621855
+1,O2_Centro,19.292,-99.661,Colegio Cibeles Cct15ptr3417u,19.2971126,-99.6700893,school,amenity,school,1.1104697544848738
+1,O2_Centro,19.292,-99.661,Lumiére Escuela de Fotografia,19.2894307,-99.6712448,school,amenity,school,1.1125188695182346
+1,O2_Centro,19.292,-99.661,Instituto Pedagogico De Toluca,19.2875587,-99.6705018,school,amenity,school,1.1128205227345387
+1,O2_Centro,19.292,-99.661,Colegio Cibeles Cct15pes1067l,19.2971323,-99.6701519,school,amenity,school,1.117235734032223
+1,O2_Centro,19.292,-99.661,Instituto Superior Concordia,19.2925441,-99.6503572,school,amenity,school,1.1186080661872482
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No 10 Angel Maria Garibay Kintana,19.2941447,-99.6714792,school,amenity,school,1.125354394199514
+1,O2_Centro,19.292,-99.661,Carlos Hank Gonzalez,19.2851641,-99.6689939,school,amenity,school,1.132110828341348
+1,O2_Centro,19.292,-99.661,Centro de Actividades Culturales Uaem,19.2863414,-99.6520152,school,amenity,school,1.1336285613604231
+1,O2_Centro,19.292,-99.661,Escuela Secundaria No.10 Ángel Ma. Garibay Kintana,19.2943607,-99.6716337,school,amenity,school,1.1464651328430426
+1,O2_Centro,19.292,-99.661,Colegio Integral De Bachillerato E Informática,19.2880953,-99.6508597,school,amenity,school,1.14940735038663
+1,O2_Centro,19.292,-99.661,Secundaria hidalgo,19.297694,-99.67025,school,amenity,school,1.1590016825368328
+1,O2_Centro,19.292,-99.661,school (OSM),19.2813925,-99.6601625,school,amenity,school,1.1827708885663093
+1,O2_Centro,19.292,-99.661,Estacionamiento Hidalgo,19.2981294,-99.6703385,school,amenity,school,1.1937554893584839
+1,O2_Centro,19.292,-99.661,Centro De Atencion Multiple Prof Jose Guadarrama Alvarado,19.2843828,-99.6693729,school,amenity,school,1.2205024761258703
+1,O2_Centro,19.292,-99.661,Centro De Atención Múltiple No2 Profe José Guadarrama Alvarado,19.2842942,-99.6693487,school,amenity,school,1.225542846168432
+1,O2_Centro,19.292,-99.661,Escuela Primaria Mariana R De Lazarin Turno Vespertino 15epr4762e,19.2862906,-99.6510115,school,amenity,school,1.2255693976978057
+1,O2_Centro,19.292,-99.661,Escuela Primaria Mariana R De Lazarin Turno Matutino 15epr00620f,19.2862866,-99.6509526,school,amenity,school,1.2310907331499028
+1,O2_Centro,19.292,-99.661,Escuela Primaria Gustavo Diaz Ordaz,19.2829979,-99.667844,school,amenity,school,1.2320462463959685
+1,O2_Centro,19.292,-99.661,Academia Profesional de Musica Medrano,19.2819008,-99.6658609,school,amenity,school,1.2334339057840842
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para La Atencion De Jovenes Y Adultos Margarita Maza De Juarez,19.2862874,-99.6509023,school,amenity,school,1.2355698892375155
+1,O2_Centro,19.292,-99.661,"Subdirección de educación para la atención de jovenes y adultos actividad de cocina, reposteria y decorado Mariana Rodriguez R. de Lazarin",19.2863567,-99.6508531,school,amenity,school,1.2360718509257322
+1,O2_Centro,19.292,-99.661,Unidad de Apoyo a la Educación Básica y Normal,19.2875788,-99.6500988,school,amenity,school,1.2452578092910347
+1,O2_Centro,19.292,-99.661,Escuela Primaria Cuauhtemoc Cct15epr1457b,19.2957802,-99.6722104,school,amenity,school,1.2493621852987993
+1,O2_Centro,19.292,-99.661,Darshana Center,19.2832692,-99.6689535,school,amenity,school,1.2803517076440738
+1,O2_Centro,19.292,-99.661,Instituto De Desarrollo Infantil Isima,19.2863555,-99.6503091,school,amenity,school,1.285653765148274
+1,O2_Centro,19.292,-99.661,Dirección de Aprendizaje de Lenguas,19.2840286,-99.6520948,school,amenity,school,1.2881017079133406
+1,O2_Centro,19.292,-99.661,Vigotsky´s Kids,19.2833672,-99.6526356,school,amenity,school,1.300814509802679
+1,O2_Centro,19.292,-99.661,Club Acuático,19.2802055,-99.6611495,school,amenity,school,1.3115824215111855
+1,O2_Centro,19.292,-99.661,"CEAJA ""QFB Yolanda Senties de Ballesteros"" Turno Vespertino",19.2825927,-99.6534165,school,amenity,school,1.3144180895116424
+1,O2_Centro,19.292,-99.661,Instituto Kambes,19.2881135,-99.6491016,school,amenity,school,1.3214282973155127
+1,O2_Centro,19.292,-99.661,Centro de educación Especial Richi I.A. P.,19.2885375,-99.6731487,school,amenity,school,1.3318936347226553
+1,O2_Centro,19.292,-99.661,Defensoría de los Derechos  de la UAEM,19.2803784,-99.6578307,school,amenity,school,1.334386860200654
+1,O2_Centro,19.292,-99.661,Urawa Karate Do,19.2808077,-99.656199,school,amenity,school,1.34266508082229
+1,O2_Centro,19.292,-99.661,Templo Shaolin De Mexico Suc Toluca,19.2855199,-99.6501515,school,amenity,school,1.3474312256732155
+1,O2_Centro,19.292,-99.661,Instituto Cultural Nicolás Guillen,19.2876993,-99.6488848,school,amenity,school,1.3584739688945535
+1,O2_Centro,19.292,-99.661,Berlitz Escuela de Idiomas,19.2798185,-99.6622808,school,amenity,school,1.3611750635767421
+1,O2_Centro,19.292,-99.661,Liceo Pedro De Gante,19.2868639,-99.6492,school,amenity,school,1.36378207821728
+1,O2_Centro,19.292,-99.661,Extension de la Escuela Primaria Eudoxia Calderón,19.2909398,-99.6480212,school,amenity,school,1.3672344792151379
+1,O2_Centro,19.292,-99.661,Centro de Estudios Superiores Olimpo,19.2875839,-99.6487496,school,amenity,school,1.3762907131717332
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Federalizada Ignacio Ramírez 15des0012x,19.281488,-99.6540129,school,amenity,school,1.3798735619168763
+1,O2_Centro,19.292,-99.661,Colegio Primaria Jacques Deloers,19.2907525,-99.6741365,school,amenity,school,1.3856549544514776
+1,O2_Centro,19.292,-99.661,Escuela De Manejo Valdéz Ponce,19.2796633,-99.6629133,school,amenity,school,1.3863985387972622
+1,O2_Centro,19.292,-99.661,Jardin de Niños del Poder Legislativo,19.2886948,-99.673852,school,amenity,school,1.3980172007730733
+1,O2_Centro,19.292,-99.661,Instituto Universitario Autonomo De Ciencias,19.2935271,-99.6477006,school,amenity,school,1.406069986557184
+1,O2_Centro,19.292,-99.661,Universidad Terranova,19.2800631,-99.6563188,school,amenity,school,1.415335864215427
+1,O2_Centro,19.292,-99.661,Escuela Emiliano Zapata,19.2976587,-99.6489032,school,amenity,school,1.4169233950181073
+1,O2_Centro,19.292,-99.661,Talk Ingles y Punto,19.292033,-99.6473672,school,amenity,school,1.430780663146482
+1,O2_Centro,19.292,-99.661,Instituto Carl Rogers Toluca,19.2813329,-99.6686817,school,amenity,school,1.4341905325430024
+1,O2_Centro,19.292,-99.661,Planet English,19.2792396,-99.6589392,school,amenity,school,1.435282471704581
+1,O2_Centro,19.292,-99.661,Centro De Educacion Basica Para Adultos Heroes Del 47,19.2808836,-99.6539686,school,amenity,school,1.4396258770471995
+1,O2_Centro,19.292,-99.661,Colegio De Entelechia,19.2883769,-99.6478203,school,amenity,school,1.440712383818692
+1,O2_Centro,19.292,-99.661,Escuela Judicial del Estado de Méxic,19.2929833,-99.6472213,school,amenity,school,1.4502117246872184
+1,O2_Centro,19.292,-99.661,Licenciado Adolfo Lopez Mateos Escuela Preparatoria 1,19.2792618,-99.6579856,school,amenity,school,1.4513265973431977
+1,O2_Centro,19.292,-99.661,Escuela De Manejo,19.2908821,-99.6467224,school,amenity,school,1.5036006660127632
+1,O2_Centro,19.292,-99.661,Nuestro Ser,19.2787119,-99.6641324,school,amenity,school,1.5137025543531262
+1,O2_Centro,19.292,-99.661,Didactik School,19.2811445,-99.6522204,school,amenity,school,1.5185912409296354
+1,O2_Centro,19.292,-99.661,Instituto Pedagogico y de Estudio Superior Toluca,19.2793621,-99.6554784,school,amenity,school,1.5200750156666627
+1,O2_Centro,19.292,-99.661,Escuela Secundaria No 971,19.2922316,-99.6464762,school,amenity,school,1.5245039018670303
+1,O2_Centro,19.292,-99.661,Ciberbots Escuela De Robotica,19.2932815,-99.6754758,school,amenity,school,1.5259118860995695
+1,O2_Centro,19.292,-99.661,Paideia Colón,19.2782448,-99.6596426,school,amenity,school,1.536129165316629
+1,O2_Centro,19.292,-99.661,Escuela Primaria Horacio Zuñiga Turno Vespertino,19.2785604,-99.665257,school,amenity,school,1.5597765131238182
+1,O2_Centro,19.292,-99.661,Escuela Primaria Horacio Zuñiga Turno Matutino,19.2784711,-99.6651886,school,amenity,school,1.56726392042426
+1,O2_Centro,19.292,-99.661,Centro de Estudios e Investigación en Desarrollo Sustentable Cedes Uaemex,19.2785202,-99.6561746,school,amenity,school,1.5821347673322348
+1,O2_Centro,19.292,-99.661,Centro Cultural Y Educativo Liseo De Las Artes,19.2909996,-99.6458872,school,amenity,school,1.590004462412787
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo” Turno Vespertino 15ees0388I,19.2793634,-99.6681538,school,amenity,school,1.593147975074472
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo”  Turno Matutino 15ees0138c,19.2792621,-99.668157,school,amenity,school,1.6032488749014717
+1,O2_Centro,19.292,-99.661,Unidad Deportiva De La Primaria Eudoxia Calderon,19.2909868,-99.6456935,school,amenity,school,1.6103833608030511
+1,O2_Centro,19.292,-99.661,"Escuela Primaria Profra Eudoxia Calderon Gomez, Anexa A La Normal De Profesores Turno Matutino",19.2909612,-99.6454583,school,amenity,school,1.6352070855388234
+1,O2_Centro,19.292,-99.661,Secundaria Oficial 7 Estado De México,19.2864457,-99.6463292,school,amenity,school,1.65898932265336
+1,O2_Centro,19.292,-99.661,Colegio Comenius,19.2770954,-99.6600702,school,amenity,school,1.6601865559646047
+1,O2_Centro,19.292,-99.661,Preparatoria Toluca,19.2771393,-99.6631241,school,amenity,school,1.667405261563866
+1,O2_Centro,19.292,-99.661,IBIM Instituto Bicentenario Inglés de México,19.2770083,-99.6603899,school,amenity,school,1.6682303700865417
+1,O2_Centro,19.292,-99.661,Colegio Montesori Nemi,19.2891046,-99.676911,school,amenity,school,1.7006433231433127
+1,O2_Centro,19.292,-99.661,Cam 17,19.301192,-99.6479765,school,amenity,school,1.706696789549356
+1,O2_Centro,19.292,-99.661,Theboxrx,19.2889559,-99.6769466,school,amenity,school,1.7075136330040677
+1,O2_Centro,19.292,-99.661,Pueridomus Colegio Activo,19.2809186,-99.6723847,school,amenity,school,1.7164016815740717
+1,O2_Centro,19.292,-99.661,Edu-Vita After School,19.2910336,-99.6446207,school,amenity,school,1.7223845399585958
+1,O2_Centro,19.292,-99.661,Esc. Sec.Of. No.0007 Estado de México,19.2859018,-99.6459022,school,amenity,school,1.7235519376799693
+1,O2_Centro,19.292,-99.661,Pueri Domus Colegio Activo,19.2807226,-99.6725133,school,amenity,school,1.741452825821328
+1,O2_Centro,19.292,-99.661,KiddyBot,19.2780796,-99.6686039,school,amenity,school,1.7415059615525659
+1,O2_Centro,19.292,-99.661,Escuela Primaria Dr Gustavo Baz Prada 15epr1425j,19.2831878,-99.674807,school,amenity,school,1.7492949335001815
+1,O2_Centro,19.292,-99.661,Escuela Dr Gustavo Baz Prada,19.2832638,-99.6749157,school,amenity,school,1.7540626893525406
+1,O2_Centro,19.292,-99.661,Centro Educativo Gabriela Mistral De Toluca,19.2923552,-99.6441079,school,amenity,school,1.773280906915025
+1,O2_Centro,19.292,-99.661,Colegio Imath,19.3020228,-99.6477114,school,amenity,school,1.785220072708569
+1,O2_Centro,19.292,-99.661,Centro De Formacion Virtud Marcial Y Deporte Tae Kwondo,19.2881239,-99.6444644,school,amenity,school,1.7881679329166718
+1,O2_Centro,19.292,-99.661,Centro de atención múltiple 17,19.3013582,-99.6470044,school,amenity,school,1.8000610006844264
+1,O2_Centro,19.292,-99.661,Episteme Escuela Humanistica Y De Derecho,19.3023651,-99.6476912,school,amenity,school,1.810859437012865
+1,O2_Centro,19.292,-99.661,Preparatoria Itaht,19.2882208,-99.6438088,school,amenity,school,1.8525458444104097
+1,O2_Centro,19.292,-99.661,Departamento De Desarrollo Del Recurso Humano,19.2758238,-99.6565389,school,amenity,school,1.8586534467643174
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Aguntín Melgar,19.302447,-99.6470575,school,amenity,school,1.8682849417043823
+1,O2_Centro,19.292,-99.661,Highlandenrs,19.2784746,-99.6715863,school,amenity,school,1.8698666898432992
+1,O2_Centro,19.292,-99.661,Escuela Primaria Isidro Fabela Turno Matutino,19.2768001,-99.6531241,school,amenity,school,1.8814666995665639
+1,O2_Centro,19.292,-99.661,Colegio Isbelino,19.2940638,-99.6431758,school,amenity,school,1.884679463368869
+1,O2_Centro,19.292,-99.661,Escuela de Adultos Margarita Maza de Juárez Matutino,19.2937492,-99.6430424,school,amenity,school,1.89466816011488
+1,O2_Centro,19.292,-99.661,"Escuela De Adultos Margarita Maza De Juarez, Vespertino",19.2937828,-99.643043,school,amenity,school,1.8949925314108742
+1,O2_Centro,19.292,-99.661,Escuela Primaria Isidro Fabela Turno Vespertino,19.2767141,-99.6530095,school,amenity,school,1.8953531594034034
+1,O2_Centro,19.292,-99.661,Colegio Alma Mater,19.2758566,-99.6675168,school,amenity,school,1.9209585943093366
+1,O2_Centro,19.292,-99.661,Preparatoria Abierta Tecnologico De Estudios,19.2781116,-99.6726509,school,amenity,school,1.969828784530808
+1,O2_Centro,19.292,-99.661,Instituto Highlanders Preescolar,19.2746934,-99.6660538,school,amenity,school,1.9961699053869135
+1,O2_Centro,19.292,-99.661,Unidad Pedagogica De Educacion Basica Licenciad0 Miguel Aleman,19.2921471,-99.6419708,school,amenity,school,1.9971998046367343
+1,O2_Centro,19.292,-99.661,Secundaria Lic Benito Juarez,19.2771369,-99.6498654,school,amenity,school,2.0241399000797493
+1,O2_Centro,19.292,-99.661,Linguatec,19.2737169,-99.6595468,school,amenity,school,2.0387014058337845
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Particular No 382 Jose Ma De Yermo Y Pares,19.2928757,-99.6415599,school,amenity,school,2.042574939410254
+1,O2_Centro,19.292,-99.661,Escuela Normal Núm. 1 de Toluca,19.2972143,-99.6423161,school,amenity,school,2.044787436059392
+1,O2_Centro,19.292,-99.661,Escuela Preparatoria Oficial Núm. 169,19.2779562,-99.6482658,school,amenity,school,2.0554537209594566
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial 597 Anexa A La Normal No1 De Toluca,19.2971004,-99.6421605,school,amenity,school,2.0569251689676853
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Anexa a la Normal,19.2968067,-99.6420586,school,amenity,school,2.0584886574238594
+1,O2_Centro,19.292,-99.661,Cbt 5 Vespertino,19.2778671,-99.6482617,school,amenity,school,2.0632698720183025
+1,O2_Centro,19.292,-99.661,Instituto De Desarrollo De Competencias Educativas,19.283204,-99.6436496,school,amenity,school,2.0670340738760635
+1,O2_Centro,19.292,-99.661,Cbt 5 Contador Publico Alberto Mena Flores,19.2777658,-99.6482551,school,amenity,school,2.0723094157826836
+1,O2_Centro,19.292,-99.661,Liceo Pedro De Gante,19.2802839,-99.6455522,school,amenity,school,2.07987767205952
+1,O2_Centro,19.292,-99.661,Colegio Miguel Alcobierre,19.2906296,-99.6411877,school,amenity,school,2.084905644534579
+1,O2_Centro,19.292,-99.661,Secundaria No. 9 León Gúzman Vespertino,19.2768437,-99.6487228,school,amenity,school,2.1214726080608286
+1,O2_Centro,19.292,-99.661,Centro Holístico Clases De Yoga,19.2789395,-99.6760932,school,amenity,school,2.1490618071818908
+1,O2_Centro,19.292,-99.661,Instituto Supremo De Taekwondo,19.2992925,-99.6420362,school,amenity,school,2.1490786046886967
+1,O2_Centro,19.292,-99.661,"Facultad de Química, UAEMéx",19.2727099,-99.6596781,school,amenity,school,2.149443736904278
+1,O2_Centro,19.292,-99.661,Centro Educativo Arellano,19.2898107,-99.6406169,school,amenity,school,2.1530479484991676
+1,O2_Centro,19.292,-99.661,Escuela de Karate,19.2775056,-99.6747457,school,amenity,school,2.1630858283052197
+1,O2_Centro,19.292,-99.661,Preparatoria Oficial Anexa A La Normal No 3 Toluca,19.2768822,-99.6479946,school,amenity,school,2.165419747493987
+1,O2_Centro,19.292,-99.661,Escuela Primaria Minerva Cct 1sdpro330q,19.3093259,-99.6706899,school,amenity,school,2.1784653190786405
+1,O2_Centro,19.292,-99.661,Usaer 86,19.3043577,-99.6448248,school,amenity,school,2.1839936383475758
+1,O2_Centro,19.292,-99.661,Escuela Emedyva,19.2863935,-99.6809563,school,amenity,school,2.185279991561955
+1,O2_Centro,19.292,-99.661,EMEDYVA,19.2864055,-99.6809866,school,amenity,school,2.1879482718428482
+1,O2_Centro,19.292,-99.661,school (OSM),19.3095115,-99.6705115,school,amenity,school,2.1881334995192785
+1,O2_Centro,19.292,-99.661,Escuela Primaria Prof. Noe Perez,19.2751459,-99.6718636,school,amenity,school,2.1936911970345734
+1,O2_Centro,19.292,-99.661,Rivendell College,19.2738376,-99.65259,school,amenity,school,2.2040385696337395
+1,O2_Centro,19.292,-99.661,Centro Educativo Decroly,19.2749266,-99.6498866,school,amenity,school,2.228172455310487
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No 575 José Maria Velazco,19.3049663,-99.6448041,school,amenity,school,2.2288469538783366
+1,O2_Centro,19.292,-99.661,Escuela De Educacion Para Adultos,19.273986,-99.670427,school,amenity,school,2.234107866827276
+1,O2_Centro,19.292,-99.661,Escuela Primaria Noe Perez Pioquinta,19.2746161,-99.6717829,school,amenity,school,2.239937899573084
+1,O2_Centro,19.292,-99.661,Faro De Vida Instituto De Armonía Y Formación Humana,19.277146899999998,-99.6464861,school,amenity,school,2.246829704630035
+1,O2_Centro,19.292,-99.661,Escuela De Manejo Iadsa,19.2733313,-99.669363,school,amenity,school,2.2538120505425603
+1,O2_Centro,19.292,-99.661,Instituto Ispet,19.2714751,-99.6581063,school,amenity,school,2.3023847755875324
+1,O2_Centro,19.292,-99.661,Escuela Primaria Tolotzin,19.272858,-99.652372,school,amenity,school,2.3131236679026452
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para La Atencion De Jovenes Y Adultos Matutino 15eba0878a,19.2741771,-99.6495451,school,amenity,school,2.317982957675409
+1,O2_Centro,19.292,-99.661,Universidad Internacional de Profesiones (unipro) Escuela Internacional de Turismo EIT Campus Toluca,19.2760154,-99.6466684,school,amenity,school,2.328467094388345
+1,O2_Centro,19.292,-99.661,Instituto secundaria y educacion subprofesional,19.306449399999998,-99.6448316,school,amenity,school,2.3368067558965
+1,O2_Centro,19.292,-99.661,Escuela Primaria Mtro. Protasio I. Gómez,19.2908828,-99.6387568,school,amenity,school,2.3377572324674194
+1,O2_Centro,19.292,-99.661,Instituto Nova,19.2792145,-99.6433138,school,amenity,school,2.338134262207561
+1,O2_Centro,19.292,-99.661,Colegio mexiquense de educación técnica,19.2797784,-99.6428584,school,amenity,school,2.3392806261393257
+1,O2_Centro,19.292,-99.661,Tae Kawon Do,19.2787558,-99.6436826,school,amenity,school,2.3392958601770752
+1,O2_Centro,19.292,-99.661,Estilistas Lilia,19.2800492,-99.6426522,school,amenity,school,2.339695385287868
+1,O2_Centro,19.292,-99.661,Colegio Dalton,19.2796084,-99.6429562,school,amenity,school,2.342005472371103
+1,O2_Centro,19.292,-99.661,Escuelas De Educación Primaria Del Sector Público,19.2709321,-99.6606024,school,amenity,school,2.3430152596476654
+1,O2_Centro,19.292,-99.661,Instituto De Computacion Y Estudios Técnicos,19.2779211,-99.6443891,school,amenity,school,2.3431305078139637
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profesor Fernando Aguilar Vilchis,19.270827099999998,-99.6606034,school,amenity,school,2.35468702653806
+1,O2_Centro,19.292,-99.661,Acuatica Infantil,19.2726089,-99.6518079,school,amenity,school,2.3621936625016873
+1,O2_Centro,19.292,-99.661,Owijarim Taekwondo Mexico,19.2865879,-99.6828121,school,amenity,school,2.367019099046517
+1,O2_Centro,19.292,-99.661,Aquatic Infantil,19.2724864,-99.6518453,school,amenity,school,2.3730416936387995
+1,O2_Centro,19.292,-99.661,Academia De Belleza,19.2789086,-99.6428504,school,amenity,school,2.3974318272714514
+1,O2_Centro,19.292,-99.661,Integral Education Coordination Center,19.2834815,-99.6823856,school,amenity,school,2.4361832049120746
+1,O2_Centro,19.292,-99.661,Escuela Primaria Josefa Ortiz De Dominguez,19.3085935,-99.6456017,school,amenity,school,2.452722997101171
+1,O2_Centro,19.292,-99.661,Escuela Primaria Federal Cuauhtemoc,19.3048717,-99.6415964,school,amenity,school,2.4890234273496032
+1,O2_Centro,19.292,-99.661,Escuela Preparatoria Oficial No 244 Turno Matutino,19.2718681,-99.6724279,school,amenity,school,2.5396531775939803
+1,O2_Centro,19.292,-99.661,Escuela Preparatoria Oficial No 244 Turno Vespertino,19.2718206,-99.6723729,school,amenity,school,2.5415938033905716
+1,O2_Centro,19.292,-99.661,Primaria Carmen Serdan,19.2833296,-99.6834585,school,amenity,school,2.5466526468754602
+1,O2_Centro,19.292,-99.661,Mavil Limpieza,19.2848334,-99.6379267,school,amenity,school,2.549366984760798
+1,O2_Centro,19.292,-99.661,Centro de educación para la atención de jovenes y adultos Isidro Fabela,19.3151048,-99.6576047,school,amenity,school,2.5937276157012645
+1,O2_Centro,19.292,-99.661,Grupo Escolar Simon Bolivar,19.2685387,-99.6605296,school,amenity,school,2.6092446908729143
+1,O2_Centro,19.292,-99.661,Escuela Primaria Miguel Hidalgo Y Costilla,19.3151352,-99.656564,school,amenity,school,2.614299329579227
+1,O2_Centro,19.292,-99.661,Instituto De Capacitacion Sacks,19.2746121,-99.644225,school,amenity,school,2.614974388038015
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para La Atencion De Jovenes Y Adultos General Jose Vicente Villada,19.2916377,-99.6859525,school,amenity,school,2.619102772729988
+1,O2_Centro,19.292,-99.661,Cuauhtemoc,19.2722538,-99.647358,school,amenity,school,2.62128403586032
+1,O2_Centro,19.292,-99.661,Licenciado Francisco Javier Raxiona Turno Vespertino,19.2701586,-99.6719846,school,amenity,school,2.6884164999612246
+1,O2_Centro,19.292,-99.661,Telebachillerato comunitario Núm 477 del parque Toluca,19.2686053,-99.6542962,school,amenity,school,2.6948503279744505
+1,O2_Centro,19.292,-99.661,Escuela Primaria Licenciado Francisco Javier Gaxiola Turno Matutino,19.2701008,-99.6720604,school,amenity,school,2.697638124670723
+1,O2_Centro,19.292,-99.661,Centro De Atencion Multiple 44 Toluca,19.312408,-99.6466468,school,amenity,school,2.7236876863667794
+1,O2_Centro,19.292,-99.661,Escuela Primaria Margarita Maza De Juárez,19.281322,-99.6372142,school,amenity,school,2.764401049902476
+1,O2_Centro,19.292,-99.661,Centro De Atencion Multiple Cam No 6,19.267127,-99.6631072,school,amenity,school,2.7745804796961475
+1,O2_Centro,19.292,-99.661,Escuela Primaria Cam 61,19.2670866,-99.6629345,school,amenity,school,2.777674675928384
+1,O2_Centro,19.292,-99.661,Centro De Atencion Multiple Cam 5,19.266969,-99.6627838,school,amenity,school,2.7896101750210858
+1,O2_Centro,19.292,-99.661,Colegio Springfield,19.3147833,-99.6498042,school,amenity,school,2.7925810635247066
+1,O2_Centro,19.292,-99.661,Escuela Primaria Margarita Maza de Juárez,19.2807148,-99.6372247,school,amenity,school,2.7930854588766065
+1,O2_Centro,19.292,-99.661,Escuela Primaria Alonso Gomez De Orozco S,19.3138923,-99.6479098,school,amenity,school,2.795180452436093
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Tecnica Numero 159 Octavio Paz 15dst0169p,19.2796675,-99.68421,school,amenity,school,2.795463046895325
+1,O2_Centro,19.292,-99.661,Usaer Numero 3,19.3139292,-99.6478801,school,amenity,school,2.8002856528476117
+1,O2_Centro,19.292,-99.661,Escuela Primaria Coronel Filiberto Gomez Diaz,19.3103966,-99.64241,school,amenity,school,2.82677212578296
+1,O2_Centro,19.292,-99.661,Escuela de Natacion Acuarela,19.2981396,-99.6346808,school,amenity,school,2.8452905423213526
+1,O2_Centro,19.292,-99.661,Telesecundaria No 249 Jose Marti,19.2795877,-99.6850638,school,amenity,school,2.8781322443755704
+1,O2_Centro,19.292,-99.661,Escuela De Manejo Aprom,19.2838233,-99.6349744,school,amenity,school,2.8788274929384
+1,O2_Centro,19.292,-99.661,Primaria Miguel Hidalgo y Costilla,19.2979393,-99.6342672,school,amenity,school,2.8822652231177517
+1,O2_Centro,19.292,-99.661,"Escuela secundaria oficial Dr, Gustavo Baz Prada N° 868",19.2670357,-99.6535789,school,amenity,school,2.8831134355640864
+1,O2_Centro,19.292,-99.661,Centro De Estudios Jesus Reyes Heroles,19.3166694,-99.6519136,school,amenity,school,2.904123130057519
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No 0431 Emiliano Zapata,19.3168174,-99.6698643,school,amenity,school,2.9121435004364318
+1,O2_Centro,19.292,-99.661,Artes Marciales Chinas,19.2719861,-99.6428791,school,amenity,school,2.9274412933142107
+1,O2_Centro,19.292,-99.661,Escuela Para Los Adultos Epla Juan Escutia,19.2677562,-99.6720122,school,amenity,school,2.93312235274105
+1,O2_Centro,19.292,-99.661,Preparatoria Instituto Simón Bolívar,19.2925018,-99.6329793,school,amenity,school,2.9413254942388996
+1,O2_Centro,19.292,-99.661,Unidad De Servicio De Apoyo A Escuela Regular N 23,19.2949455,-99.632878,school,amenity,school,2.9695231830497195
+1,O2_Centro,19.292,-99.661,Colegio Alma Mater,19.2745803,-99.6824515,school,amenity,school,2.9700245539828423
+1,O2_Centro,19.292,-99.661,Cecovam,19.2725352,-99.6415002,school,amenity,school,2.978813207811283
+1,O2_Centro,19.292,-99.661,Centro Olistico Vipassana,19.2675399,-99.6490583,school,amenity,school,2.9947459707144053
+1,O2_Centro,19.292,-99.661,Instituto Educativo David Paul Ausubel,19.2682639,-99.6745392,school,amenity,school,2.9975794644046765
+1,O2_Centro,19.292,-99.661,Secundaria 12,19.2998979,-99.6332419,school,amenity,school,3.0426645526878477
+1,O2_Centro,19.292,-99.661,First College Primaria,19.2646332,-99.6596695,school,amenity,school,3.0462519582940644
+1,O2_Centro,19.292,-99.661,kinder Ma. Dolores Lopez gomez tagle,19.2752478,-99.6840184,school,amenity,school,3.0506689379589673
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Heroes De La Independencia,19.2994593,-99.6329546,school,amenity,school,3.057962079981879
+1,O2_Centro,19.292,-99.661,Colegio Inglés del Estado de México,19.2645406,-99.6566686,school,amenity,school,3.087005602928317
+1,O2_Centro,19.292,-99.661,Masaru Educacion Acuatica,19.2732454,-99.6391658,school,amenity,school,3.0984887881283902
+1,O2_Centro,19.292,-99.661,Tae Kwon Do Chew Kuan,19.2810358,-99.6336807,school,amenity,school,3.1157145927628718
+1,O2_Centro,19.292,-99.661,Instituto Simon Bolivar Secundaria,19.2994448,-99.632257,school,amenity,school,3.128065748697177
+1,O2_Centro,19.292,-99.661,Telesecundaria,19.2637182,-99.6603635,school,amenity,school,3.1455022117234037
+1,O2_Centro,19.292,-99.661,Instituto Simon Bolivar,19.3006958,-99.6323784,school,amenity,school,3.1555794253722764
+1,O2_Centro,19.292,-99.661,Instituto Simon Bolivar,19.3007875,-99.6323825,school,amenity,school,3.158308780068227
+1,O2_Centro,19.292,-99.661,Secundaria Numero 006 Jose Maria Gonzalez Arratia,19.2659003,-99.673073,school,amenity,school,3.166738123961673
+1,O2_Centro,19.292,-99.661,Instituto Superior Metropolitano,19.268724,-99.6435469,school,amenity,school,3.1708542616759927
+1,O2_Centro,19.292,-99.661,Centro De Estudios Superiores Atenea Palas,19.3147502,-99.6421231,school,amenity,school,3.213070950356507
+1,O2_Centro,19.292,-99.661,Escuela Secundaria 706 Mario Colin Sanchez,19.3208177,-99.6576034,school,amenity,school,3.2241459987810566
+1,O2_Centro,19.292,-99.661,Plantel Nezahualcoyotl De La Escuela Preparatoria,19.2813766,-99.632346,school,amenity,school,3.2310418210608014
+1,O2_Centro,19.292,-99.661,Leipzig Academia de Música,19.3065534,-99.6341734,school,amenity,school,3.2473057396901077
+1,O2_Centro,19.292,-99.661,school (OSM),19.2682474,-99.679627,school,amenity,school,3.286038298805846
+1,O2_Centro,19.292,-99.661,Instituto Livigston,19.2727821,-99.6371998,school,amenity,school,3.2873232837937167
+1,O2_Centro,19.292,-99.661,Escuela Primaria Licenciado Benito Juárez Cct 15DPR1423M,19.2661146,-99.6455685,school,amenity,school,3.3027439061412602
+1,O2_Centro,19.292,-99.661,Telesecundaria Benito Juarez Turno Vespertino,19.2660522,-99.676934,school,amenity,school,3.334927518889963
+1,O2_Centro,19.292,-99.661,Telesecundaria Oficial 040 Lic Benito Juarez,19.2660218,-99.6769877,school,amenity,school,3.3406801898293503
+1,O2_Centro,19.292,-99.661,Instituto Hubble,19.2930373,-99.6929613,school,amenity,school,3.356342508207132
+1,O2_Centro,19.292,-99.661,Escuela para adultos,19.2986307,-99.692219,school,amenity,school,3.3583333570465914
+1,O2_Centro,19.292,-99.661,Instituto De Tae Tae Kwon Daehan Mexico,19.2616629,-99.6594118,school,amenity,school,3.3774479385910983
+1,O2_Centro,19.292,-99.661,Escuela Primaria Leyes De Reforma Turno Matutino,19.2676777,-99.6416536,school,amenity,school,3.381958524733397
+1,O2_Centro,19.292,-99.661,colegio Preston,19.2917019,-99.6935549,school,amenity,school,3.416833464449004
+1,O2_Centro,19.292,-99.661,Centro Holistico Shiva & Shakti,19.2966384,-99.6932711,school,amenity,school,3.425883311612987
+1,O2_Centro,19.292,-99.661,Colegio Niños De Mexico,19.3017628,-99.6300064,school,amenity,school,3.4290828774215365
+1,O2_Centro,19.292,-99.661,Escuela Primaria Oficial 15 De Septiembre,19.2693269,-99.6388507,school,amenity,school,3.4293714162683027
+1,O2_Centro,19.292,-99.661,Colegio Niños De Mexico,19.302299,-99.6300129,school,amenity,school,3.447773489698299
+1,O2_Centro,19.292,-99.661,Escuela Maternal Y Kinder Instituto Universitario Hubble,19.2930081,-99.6938843,school,amenity,school,3.453049747715484
+1,O2_Centro,19.292,-99.661,Fut 7 Millan,19.2800088,-99.6303146,school,amenity,school,3.485684482124168
+1,O2_Centro,19.292,-99.661,Adansonia Instituto De Educacion Inicial,19.2676387,-99.6393583,school,amenity,school,3.5351857636155377
+1,O2_Centro,19.292,-99.661,Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734818,-99.6335908,school,amenity,school,3.5377835768076658
+1,O2_Centro,19.292,-99.661,Secundaria Oficial Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734407,-99.6335795,school,amenity,school,3.541409567784836
+1,O2_Centro,19.292,-99.661,Instituto Agora,19.2608731,-99.668228,school,amenity,school,3.543323936196958
+1,O2_Centro,19.292,-99.661,Secundaria Oficial Numero 03 Heroes De Chapultepec,19.2731112,-99.633662,school,amenity,school,3.5558962190671237
+1,O2_Centro,19.292,-99.661,Escuela Telesecundaria #238 Angel Maria Garibay Kintanade Santiago Miltepc,19.3242592,-99.6595971,school,amenity,school,3.590079257556204
+1,O2_Centro,19.292,-99.661,Ceaja Profesor Carlos Hanck Gonzalez Turno Matutino,19.2693578,-99.6858625,school,amenity,school,3.6260752766165707
+1,O2_Centro,19.292,-99.661,Instituto Nacional Tae Kwon Do,19.2841208,-99.6274488,school,amenity,school,3.6286735872086635
+1,O2_Centro,19.292,-99.661,Escuela De Futbol Toros Fc,19.2611563,-99.6493532,school,amenity,school,3.6410153527953697
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profra Magdalena Reyes Gómez Cct 15epr4213a,19.2917575,-99.6960917,school,amenity,school,3.683010721702558
+1,O2_Centro,19.292,-99.661,Escuela De Natación Acuática Navale,19.2735504,-99.6902848,school,amenity,school,3.6953941487380586
+1,O2_Centro,19.292,-99.661,Instituto Jose Pages Llergo Preparatoria Y Secundaria Abierta,19.3220023,-99.6457466,school,amenity,school,3.7002525193466305
+1,O2_Centro,19.292,-99.661,Colegio De Educacion Profesional Tecnica Del Estado De Mexico Plantel Toluca Cct 15dpt0013r,19.3247106,-99.6690765,school,amenity,school,3.7346957314712603
+1,O2_Centro,19.292,-99.661,Colegio De Notarios,19.3159769,-99.6359792,school,amenity,school,3.7420297245886642
+1,O2_Centro,19.292,-99.661,Escuela De Futbol Planeta 7,19.300867,-99.6265379,school,amenity,school,3.7487189406467025
+1,O2_Centro,19.292,-99.661,Escuela secundaria Adolfo López Mateos,19.3213712,-99.6787848,school,amenity,school,3.7615963792283176
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Jose Vasconcelos 15dtv0277k,19.2866505,-99.6966952,school,amenity,school,3.7932384835303425
+1,O2_Centro,19.292,-99.661,Escuela Primaria República Mexicana,19.3194547,-99.6393955,school,amenity,school,3.8026351631984725
+1,O2_Centro,19.292,-99.661,Instituto de estudios notariales del colegio de notarios del Estado de México,19.3166497,-99.6355252,school,amenity,school,3.828804373198718
+1,O2_Centro,19.292,-99.661,Escuela Primaria Urbana Federal Derechos De Los Niños,19.2589627,-99.6717684,school,amenity,school,3.843526742161313
+1,O2_Centro,19.292,-99.661,Escuela De Futbol Chivas Bufalos,19.3259179,-99.6689518,school,amenity,school,3.862709999757195
+1,O2_Centro,19.292,-99.661,Casa Pura Capoeria,19.263905,-99.6391296,school,amenity,school,3.876713851760746
+1,O2_Centro,19.292,-99.661,Escuela Primaria Adolfo Lopez Mateos,19.269457,-99.6327285,school,amenity,school,3.8843800142144125
+1,O2_Centro,19.292,-99.661,Centro Escolar Manuel Bernal,19.257589,-99.6674937,school,amenity,school,3.8865612442121886
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para La Atencion De Jovenes Y Adultos Libertadores De America,19.3223738,-99.6794476,school,amenity,school,3.892901209373596
+1,O2_Centro,19.292,-99.661,Uaem Plantel Doctor Ángel Ma Garibay Kintana,19.2608514,-99.6440528,school,amenity,school,3.8936361688056227
+1,O2_Centro,19.292,-99.661,Instituto Lavalle,19.3060306,-99.6267523,school,amenity,school,3.918177567168194
+1,O2_Centro,19.292,-99.661,Lic. Adolfo López Mateos,19.3027465,-99.6253439,school,amenity,school,3.928185319967717
+1,O2_Centro,19.292,-99.661,Escuela De Futbol Real Madrid,19.2566244,-99.6629022,school,amenity,school,3.938651100628928
+1,O2_Centro,19.292,-99.661,Escuela Primaria Olga Soto De Chuayffet,19.2621275,-99.6812591,school,amenity,school,3.9439955330417154
+1,O2_Centro,19.292,-99.661,Bachillerato Inteligente De Mexico,19.2604261,-99.6437488,school,amenity,school,3.950287864370295
+1,O2_Centro,19.292,-99.661,Escuela Primaria Nezahualcoyotl Turno Vespertino,19.3123386,-99.6296787,school,amenity,school,3.989856938067533
+1,O2_Centro,19.292,-99.661,Escuela Primaria Nezahualcoyotl Turno Matutino,19.3124329,-99.6296361,school,amenity,school,3.9994874394655904
+1,O2_Centro,19.292,-99.661,Centro De Atencion Múltiple Número 20,19.3134063,-99.6298707,school,amenity,school,4.042019685725982
+1,O2_Centro,19.292,-99.661,Escuela Primaria Miguel Hidalgo Y Costilla,19.3248067,-99.6780029,school,amenity,school,4.060930431192375
+1,O2_Centro,19.292,-99.661,Instituto Cenca Plantel Benito Juarez,19.2705748,-99.6295301,school,amenity,school,4.0725426744087185
+1,O2_Centro,19.292,-99.661,Centro De Formacion Y Documentacion Electoral,19.2874926,-99.6222465,school,amenity,school,4.098039333021259
+1,O2_Centro,19.292,-99.661,Escuela Para Adultos Lic Benito Juárez 15eba2412j,19.2689239,-99.6916505,school,amenity,school,4.115014106700037
+1,O2_Centro,19.292,-99.661,Cobaem Plantel 06 Toluca Norte Turno Matutino,19.3186008,-99.6335122,school,amenity,school,4.13160426425267
+1,O2_Centro,19.292,-99.661,Centro Educativo Metepec,19.260438100000002,-99.6382088,school,amenity,school,4.247272684227455
+1,O2_Centro,19.292,-99.661,Escuela Primaria Oficial Profesor Agripin García Estrada,19.255143,-99.6502505,school,amenity,school,4.250789612619673
+1,O2_Centro,19.292,-99.661,Gimnasio De Tae Kwon Do,19.3059499,-99.6230026,school,amenity,school,4.278762259760437
+1,O2_Centro,19.292,-99.661,Escuela Primaria Carlos Ma Salcedo 15epr0671m Turno Matutino,19.2671262,-99.6922087,school,amenity,school,4.287148969071337
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial 323 Jose Vasconcelos,19.3122723,-99.6260516,school,amenity,school,4.304987304459072
+1,O2_Centro,19.292,-99.661,Ibem Escuela Primaria Cctt15ppr7097a,19.2976079,-99.701782,school,amenity,school,4.325224921836491
+1,O2_Centro,19.292,-99.661,IBEM Instituto Bilingue Educativo de Mexicano,19.2977135,-99.701875,school,amenity,school,4.336586763959516
+1,O2_Centro,19.292,-99.661,Primaria Karol,19.2612418,-99.6353727,school,amenity,school,4.3511873613396865
+1,O2_Centro,19.292,-99.661,Preescolar Inedib,19.2929885,-99.7025475,school,amenity,school,4.361823970639534
+1,O2_Centro,19.292,-99.661,Escuela Primaria Federal Manuel Savedra,19.2935322,-99.7026873,school,amenity,school,4.378419695382574
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Ricardo Flores Magon,19.2943196,-99.7027343,school,amenity,school,4.387613565447049
+1,O2_Centro,19.292,-99.661,school (OSM),19.2537993,-99.6503198,school,amenity,school,4.393161081272001
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Federalizada Ricardo Flores Magon,19.2940058,-99.7030057,school,amenity,school,4.414151799035379
+1,O2_Centro,19.292,-99.661,Josefa Ortiz De Dominguez 15EBA1978G,19.2601409,-99.6352705,school,amenity,school,4.454553001403352
+1,O2_Centro,19.292,-99.661,"CEPJA ""Josefa Ortiz De Dominguez""",19.2601211,-99.6352608,school,amenity,school,4.45692128770248
+1,O2_Centro,19.292,-99.661,Centro educativo medio superior Cetem,19.310092,-99.6228911,school,amenity,school,4.476813990311605
+1,O2_Centro,19.292,-99.661,Tae Kwon Do,19.286746,-99.7035471,school,amenity,school,4.503487523294825
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para Adultos Ceba Impulso Social,19.3128545,-99.6239639,school,amenity,school,4.525927738945364
+1,O2_Centro,19.292,-99.661,Colegio De Las Americas,19.2614839,-99.6322434,school,amenity,school,4.541395665128706
+1,O2_Centro,19.292,-99.661,Telebachillerato,19.2825684,-99.6186952,school,amenity,school,4.562235723695712
+1,O2_Centro,19.292,-99.661,Escuela de Natacion Vida Aquatic,19.2880677,-99.70505,school,amenity,school,4.643778763818977
+1,O2_Centro,19.292,-99.661,Escuela De Natacion Vida Aquatik,19.2879521,-99.7050447,school,amenity,school,4.644454714665322
+1,O2_Centro,19.292,-99.661,Escuela Para Adultos Gabriela Mistral,19.2787157,-99.6183996,school,amenity,school,4.708823879560498
+1,O2_Centro,19.292,-99.661,Escuela Primaria Xinantecatl,19.2597874,-99.6317874,school,amenity,school,4.715017419943731
+1,O2_Centro,19.292,-99.661,Colegio Mexiquense Universitario,19.2536844,-99.6416297,school,amenity,school,4.7207673598465885
+1,O2_Centro,19.292,-99.661,Primaria Mariano Abasolo,19.2495291,-99.6595166,school,amenity,school,4.725114735928206
+1,O2_Centro,19.292,-99.661,Telesecundaria Cuitlahuac,19.2737533,-99.6201266,school,amenity,school,4.745546859897886
+1,O2_Centro,19.292,-99.661,Primaria Lic. adolfo Lopez Mateos,19.2928726,-99.706239,school,amenity,school,4.748857332438529
+1,O2_Centro,19.292,-99.661,Centro De Estudios Marco Tulio Ciceron,19.287112,-99.7060038,school,amenity,school,4.7544341501040615
+1,O2_Centro,19.292,-99.661,Ceaja Emiliano Zapata Unidad De Educacion Para La Atencion De Jóvenes Y Adultos,19.2492041,-99.6637129,school,amenity,school,4.76719929919703
+1,O2_Centro,19.292,-99.661,Instituto Albert Einstein,19.2865311,-99.7061967,school,amenity,school,4.782339365044961
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Oficial No0011,19.2806592,-99.6170309,school,amenity,school,4.783956647073059
+1,O2_Centro,19.292,-99.661,Kundal Yoga & Quiropractica,19.263746,-99.6265177,school,amenity,school,4.792636251936958
+1,O2_Centro,19.292,-99.661,Instituto Pedagogico Albert Einstein Cct: 15ppr3315,19.2866188,-99.7063266,school,amenity,school,4.794634341020374
+1,O2_Centro,19.292,-99.661,Escuela Telesecundaria Federal Heriberto Enríquez,19.2624125,-99.6944858,school,amenity,school,4.814248101557227
+1,O2_Centro,19.292,-99.661,Clases De Box,19.2786686,-99.6173166,school,amenity,school,4.818494126398582
+1,O2_Centro,19.292,-99.661,Centro De Educacion Para La Atencion De Jovenes Y Adultos Lorenzo De Zavala,19.2737349,-99.6193323,school,amenity,school,4.821903692380724
+1,O2_Centro,19.292,-99.661,Colegio Elsembrador,19.2531821,-99.6394618,school,amenity,school,4.872553674447504
+1,O2_Centro,19.292,-99.661,Escuela Estatal Primaria Profesor Manuel Hinojosa Giles Turno Vespertino Con Cct 15epr1445x En La Localidad De San Cristobal Huichochitlan,19.327873,-99.6341555,school,amenity,school,4.883344126397134
+1,O2_Centro,19.292,-99.661,Centro Educativo De Formación Integral Frater,19.2522902,-99.6409307,school,amenity,school,4.892283418187137
+1,O2_Centro,19.292,-99.661,Escuela Secundaria Técnica 140 Lázaro Cárdenas Del Río,19.2556074,-99.6347456,school,amenity,school,4.895877476589836
+1,O2_Centro,19.292,-99.661,Centro De Educacion Integral Federico Froebel,19.2839018,-99.707762,school,amenity,school,4.989765471835945
+1,O2_Centro,19.292,-99.661,Openbook Educacion Avanzada A Libro Abierto,19.260385,-99.6272504,school,amenity,school,4.9906716532162605
+1,O2_Centro,19.292,-99.661,Cursos De Personalidad Academia Starlet,19.2612778,-99.6263186,school,amenity,school,4.992101538114913
+1,O2_Centro,19.292,-99.661,Escuela Primaria Lic Adolfo Lopez Mateos Cct 15epr2012q,19.2930608,-99.7086927,school,amenity,school,5.006770368723363
+1,O2_Centro,19.292,-99.661,Escuela Secundaria No. 175 Hermanos Flores Magón,19.3321693,-99.6830098,school,amenity,school,5.028446802616416
+1,O2_Centro,19.292,-99.661,Rivendell Preparatory School,19.2603919,-99.6956705,school,amenity,school,5.059205376510501
+1,O2_Centro,19.292,-99.661,Instituto Cultural Y Deportivo Simón Bolívar,19.2587264,-99.6945655,school,amenity,school,5.108923585808153
+1,O2_Centro,19.292,-99.661,Olegol,19.2989699,-99.709307,school,amenity,school,5.128656978893165
+1,O2_Centro,19.292,-99.661,Colegio Lumina,19.293079,-99.7103316,school,amenity,school,5.178774063596799
+1,O2_Centro,19.292,-99.661,Superacion Personal Trinus,19.2614803,-99.6236252,school,amenity,school,5.187081785469541
+1,O2_Centro,19.292,-99.661,Bikram Yoga Metepec,19.2630998,-99.6215732,school,amenity,school,5.2394686810677555
+1,O2_Centro,19.292,-99.661,Telebachillerato Comunitario 478 Capultitlan,19.2468129,-99.6768528,school,amenity,school,5.292943609358344
+1,O2_Centro,19.292,-99.661,Telesecundaria 499 Jose María Pinosuarez,19.2468003,-99.6770834,school,amenity,school,5.301931135283364
+1,O2_Centro,19.292,-99.661,Estudio Fenix,19.3342584,-99.6847098,school,amenity,school,5.316974599297739
+1,O2_Centro,19.292,-99.661,Cbt Numero 3 Gobierno Del Estado De Mexico Clabe 15ect0105c,19.3120834,-99.6150194,school,amenity,school,5.317111974890515
+1,O2_Centro,19.292,-99.661,Instituto Cultural Paideia,19.2564519,-99.6956166,school,amenity,school,5.369010480074147
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profesor Heriberto Enriquez,19.3344443,-99.6855738,school,amenity,school,5.378130259928557
+1,O2_Centro,19.292,-99.661,Escuela Primaria Profesor Rafael Ramirez,19.2770761,-99.611979,school,amenity,school,5.406036275605992
+1,O2_Centro,19.292,-99.661,Yoga Studio,19.2615593,-99.6203469,school,amenity,school,5.446497970907444
+1,O2_Centro,19.292,-99.661,Transportes De Pasajeros De Segunda Clase Flecha De Oro,19.2782153,-99.6437282,bus,amenity,bus_station,2.3739362101112613
+1,O2_Centro,19.292,-99.661,Venta De Boletos De Autotransportes de Pasajeros Mex Toluca Flecha Roja,19.2781602,-99.6437304,bus,amenity,bus_station,2.377720964784319
+1,O2_Centro,19.292,-99.661,Autotransportes Primero de Mayo,19.2758983,-99.6450455,bus,amenity,bus_station,2.4514603838187448
+1,O2_Centro,19.292,-99.661,Central de Autobuses ETN Turistar,19.2770817,-99.6437951,bus,amenity,bus_station,2.4520388947073477
+1,O2_Centro,19.292,-99.661,Autotransportes Azteca Toluca Ixtlahuaca,19.3059263,-99.635738,bus,amenity,bus_station,3.0702775466907526
+1,O2_Centro,19.292,-99.661,Flecha Roja,19.3170908,-99.6451535,bus,amenity,bus_station,3.2479883983473616
+1,O2_Centro,19.292,-99.661,Autobuses Herradura De Occidente,19.3138672,-99.6385234,bus,amenity,bus_station,3.38764824721913
+1,O2_Centro,19.292,-99.661,Autotransporte Rapidos De Toluca,19.3021423,-99.6304532,bus,amenity,bus_station,3.398402580958994
+1,O2_Centro,19.292,-99.661,Linea de transporte publico Adolfo Lopez Mateos,19.2623525,-99.6777899,bus,amenity,bus_station,3.7381184962631933
+1,O2_Centro,19.292,-99.661,Sistema De Transportes Tollocan,19.2608975,-99.6833373,bus,amenity,bus_station,4.17824110796093
+1,O2_Centro,19.292,-99.661,bus (OSM),19.3124937,-99.612694,bus,amenity,bus_station,5.558074340722323
+1,O2_Centro,19.292,-99.661,Turismo Y Autobuses Mexico Toluca Triangulo Flecha Sa De Cv,19.2867181,-99.5940144,bus,amenity,bus_station,7.054809655472723
+1,O2_Centro,19.292,-99.661,Estacionamiento de el Piojo,19.2931579,-99.5899783,bus,amenity,bus_station,7.4548845107345505
+1,O2_Centro,19.292,-99.661,Compañia Transportista De Toluca,19.2225761,-99.6593656,bus,amenity,bus_station,7.721491789997755
+2,O3_ZonaSur,19.28,-99.645,Oxxo,19.26987,-99.642021,super,shop,supermarket,1.1689983501493442
+2,O3_ZonaSur,19.28,-99.645,Price Shoes,19.2850908,-99.6352395,super,shop,supermarket,1.1704274682477063
+2,O3_ZonaSur,19.28,-99.645,super (OSM),19.2692464,-99.6427101,super,shop,supermarket,1.2196628246421053
+2,O3_ZonaSur,19.28,-99.645,Sanborns,19.2785176,-99.6595698,super,shop,supermarket,1.5380922886024595
+2,O3_ZonaSur,19.28,-99.645,La Estrella,19.2923025,-99.6531097,super,shop,supermarket,1.6111536982683117
+2,O3_ZonaSur,19.28,-99.645,Súper Compras,19.2894882,-99.6568576,super,shop,supermarket,1.63154661179517
+2,O3_ZonaSur,19.28,-99.645,super (OSM),19.2925124,-99.6543379,super,shop,supermarket,1.7018428510552923
+2,O3_ZonaSur,19.28,-99.645,Super Kompras,19.2962844,-99.6472148,super,shop,supermarket,1.8256019408446111
+2,O3_ZonaSur,19.28,-99.645,Coppel,19.2632865,-99.6450995,super,shop,supermarket,1.858485751976088
+2,O3_ZonaSur,19.28,-99.645,Prak tis,19.2902688,-99.6610022,super,shop,supermarket,2.0309047080700395
+2,O3_ZonaSur,19.28,-99.645,Bodega Aurrera Express,19.2921475,-99.6633593,super,shop,supermarket,2.353174617267216
+2,O3_ZonaSur,19.28,-99.645,Super kompras Micro Lerdo,19.2919658,-99.6640843,super,shop,supermarket,2.4046405545541307
+2,O3_ZonaSur,19.28,-99.645,El Primo2,19.2749442,-99.669521,super,shop,supermarket,2.634414917639139
+2,O3_ZonaSur,19.28,-99.645,Garis,19.2756449,-99.6696896,super,shop,supermarket,2.6362823350345437
+2,O3_ZonaSur,19.28,-99.645,Super Kompras,19.2838533,-99.67452,super,shop,supermarket,3.1278302627954053
+2,O3_ZonaSur,19.28,-99.645,Plaza Puerto Madero,19.3036791,-99.6283173,super,shop,supermarket,3.1619938569426527
+2,O3_ZonaSur,19.28,-99.645,Tiendas 3B,19.293487,-99.6739194,super,shop,supermarket,3.3854990850449567
+2,O3_ZonaSur,19.28,-99.645,Tienda San Miguel,19.2606786,-99.6783738,super,shop,supermarket,4.109422257609362
+2,O3_ZonaSur,19.28,-99.645,Soriana,19.2666635,-99.6046317,super,shop,supermarket,4.489188199733755
+2,O3_ZonaSur,19.28,-99.645,Canasta Básica,19.2687638,-99.6905532,super,shop,supermarket,4.941913300844428
+2,O3_ZonaSur,19.28,-99.645,Supercito Chedraui,19.2682708,-99.6919533,super,shop,supermarket,5.097988106340659
+2,O3_ZonaSur,19.28,-99.645,Mini Super Palkaminio,19.2474616,-99.6103632,super,shop,supermarket,5.1292966892377985
+2,O3_ZonaSur,19.28,-99.645,"Super ""Don Pablito""",19.2646134,-99.5987766,super,shop,supermarket,5.144603721470591
+2,O3_ZonaSur,19.28,-99.645,Modelorama,19.3030403,-99.6947154,super,shop,supermarket,5.812746294401688
+2,O3_ZonaSur,19.28,-99.645,Bodega Aurrera,19.2703679,-99.588793,super,shop,supermarket,5.996019965735123
+2,O3_ZonaSur,19.28,-99.645,Mercado Mario Ramón,19.2600282,-99.5897858,super,shop,supermarket,6.206476246926906
+2,O3_ZonaSur,19.28,-99.645,Superama,19.2498081,-99.5897286,super,shop,supermarket,6.703057938233395
+2,O3_ZonaSur,19.28,-99.645,Oxxo,19.2939584,-99.5789107,super,shop,supermarket,7.107882538425166
+2,O3_ZonaSur,19.28,-99.645,Oxxo,19.257637,-99.5769615,super,shop,supermarket,7.562248342533019
+2,O3_ZonaSur,19.28,-99.645,Sucursal Pstoluca2,19.278818,-99.6417421,pharma,amenity,pharmacy,0.3663354584355902
+2,O3_ZonaSur,19.28,-99.645,Farmacia Veterinaria La Granja,19.2747022,-99.6438372,pharma,amenity,pharmacy,0.6015986553469619
+2,O3_ZonaSur,19.28,-99.645,Comercializadora De Materiales Y Servicios Para Laboratorio,19.2778825,-99.6378221,pharma,amenity,pharmacy,0.7893241022155207
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.287045,-99.6418226,pharma,amenity,pharmacy,0.8513991275202007
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2889339,-99.6474517,pharma,amenity,pharmacy,1.0261899976824107
+2,O3_ZonaSur,19.28,-99.645,Distribuidora y comercializadora opciones farmacéuticas,19.2900428,-99.6468155,pharma,amenity,pharmacy,1.132848492727992
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2901489,-99.6420324,pharma,amenity,pharmacy,1.1706994316262913
+2,O3_ZonaSur,19.28,-99.645,Equilibrio Farmacéutico Toluca,19.2902037,-99.6512234,pharma,amenity,pharmacy,1.309182965906131
+2,O3_ZonaSur,19.28,-99.645,Sucursal Pstoluca,19.2899905,-99.6530074,pharma,amenity,pharmacy,1.3929788043946778
+2,O3_ZonaSur,19.28,-99.645,Farmamigo Toluca 1 F205,19.2678737,-99.6503844,pharma,amenity,pharmacy,1.4620339443106154
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2791459,-99.6590222,pharma,amenity,pharmacy,1.4748167671325298
+2,O3_ZonaSur,19.28,-99.645,San Pablo Farmacia,19.2782301,-99.6592617,pharma,amenity,pharmacy,1.509779497492604
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2917294,-99.6528484,pharma,amenity,pharmacy,1.5425938800112577
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2936035,-99.6418083,pharma,amenity,pharmacy,1.549288153590871
+2,O3_ZonaSur,19.28,-99.645,Benavides,19.2909051,-99.6542409,pharma,amenity,pharmacy,1.552754698208782
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.292305,-99.6532438,pharma,amenity,pharmacy,1.6188680943157643
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2927675,-99.6528947,pharma,amenity,pharmacy,1.643790779577309
+2,O3_ZonaSur,19.28,-99.645,Farmacia y droguería Toluca,19.2921873,-99.6556065,pharma,amenity,pharmacy,1.753766139235052
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.2958702,-99.6485768,pharma,amenity,pharmacy,1.8041727827068477
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2903265,-99.6584578,pharma,amenity,pharmacy,1.8203175259056903
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2956477,-99.650796,pharma,amenity,pharmacy,1.8432175795190238
+2,O3_ZonaSur,19.28,-99.645,Farmacia Dermatologica,19.2901216,-99.6597842,pharma,amenity,pharmacy,1.9168730921033663
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2700728,-99.6603456,pharma,amenity,pharmacy,1.9526542182149218
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2877732,-99.6626912,pharma,amenity,pharmacy,2.0481199531666427
+2,O3_ZonaSur,19.28,-99.645,Toluca 11,19.2931894,-99.663062,pharma,amenity,pharmacy,2.3967750945729387
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2919984,-99.6639747,pharma,amenity,pharmacy,2.3970828375899735
+2,O3_ZonaSur,19.28,-99.645,La Barata de México,19.2934713,-99.6638507,pharma,amenity,pharmacy,2.481560603043702
+2,O3_ZonaSur,19.28,-99.645,San Judas Tadeo,19.2930039,-99.6659952,pharma,amenity,pharmacy,2.635605680979795
+2,O3_ZonaSur,19.28,-99.645,Farmaplus,19.3034364,-99.6499771,pharma,amenity,pharmacy,2.6578438532765576
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2750355,-99.6698966,pharma,amenity,pharmacy,2.6708256714885956
+2,O3_ZonaSur,19.28,-99.645,Farmacias Toluca,19.2911449,-99.6677164,pharma,amenity,pharmacy,2.6870390158016315
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.279959,-99.6710405,pharma,amenity,pharmacy,2.7331811661411622
+2,O3_ZonaSur,19.28,-99.645,Farmacia Benavides,19.2892654,-99.670149,pharma,amenity,pharmacy,2.833473907974846
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.2820708,-99.6733801,pharma,amenity,pharmacy,2.9876062398892365
+2,O3_ZonaSur,19.28,-99.645,Lora,19.306056,-99.6525059,pharma,amenity,pharmacy,3.002476213177004
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2875006,-99.6725824,pharma,amenity,pharmacy,3.0126930349741894
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.3023823,-99.6277854,pharma,amenity,pharmacy,3.0754310440164114
+2,O3_ZonaSur,19.28,-99.645,Farmacia Cruz,19.306452,-99.6539414,pharma,amenity,pharmacy,3.0873952952295705
+2,O3_ZonaSur,19.28,-99.645,Farmacia Homeopatica Homeonam,19.2888483,-99.6748283,pharma,amenity,pharmacy,3.2816204192167135
+2,O3_ZonaSur,19.28,-99.645,Farmacia Veterinaria Amatepec Sa,19.2826109,-99.6122168,pharma,amenity,pharmacy,3.453080586819848
+2,O3_ZonaSur,19.28,-99.645,ISSSTE,19.3098067,-99.6325157,pharma,amenity,pharmacy,3.5639316494175883
+2,O3_ZonaSur,19.28,-99.645,Farmaco Darovi del Carmen,19.2892049,-99.6787301,pharma,amenity,pharmacy,3.6851620685053006
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.3139065,-99.6386988,pharma,amenity,pharmacy,3.827787116326579
+2,O3_ZonaSur,19.28,-99.645,Medical Health,19.3139708,-99.63908670000001,pharma,amenity,pharmacy,3.8280195426527084
+2,O3_ZonaSur,19.28,-99.645,Labcare Diagnostika,19.295126,-99.6101315,pharma,amenity,pharmacy,4.027586636765764
+2,O3_ZonaSur,19.28,-99.645,Especializadas,19.257549,-99.6148747,pharma,amenity,pharmacy,4.028803611775235
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2875803,-99.6830917,pharma,amenity,pharmacy,4.085850145954147
+2,O3_ZonaSur,19.28,-99.645,Benavides,19.2754047,-99.6060699,pharma,amenity,pharmacy,4.117935077258306
+2,O3_ZonaSur,19.28,-99.645,Farmacia Similares,19.3049768,-99.6160107,pharma,amenity,pharmacy,4.11944698820155
+2,O3_ZonaSur,19.28,-99.645,Farmamigo,19.2562747,-99.6764814,pharma,amenity,pharmacy,4.228400821325586
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2882608,-99.6851788,pharma,amenity,pharmacy,4.3158903191812055
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.2756468,-99.6039311,pharma,amenity,pharmacy,4.337688624643908
+2,O3_ZonaSur,19.28,-99.645,Tienda de Insumos para la Salud Thannax,19.3184374,-99.6366521,pharma,amenity,pharmacy,4.362908484471301
+2,O3_ZonaSur,19.28,-99.645,pharma (OSM),19.2806719,-99.6025601,pharma,amenity,pharmacy,4.4550540880691285
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2885996,-99.6892495,pharma,amenity,pharmacy,4.741668406175269
+2,O3_ZonaSur,19.28,-99.645,Farmacia Angeles,19.2707832,-99.690175,pharma,amenity,pharmacy,4.8511355135168905
+2,O3_ZonaSur,19.28,-99.645,Farmacia Hospital Regional,19.3217264,-99.6291102,pharma,amenity,pharmacy,4.930331300384435
+2,O3_ZonaSur,19.28,-99.645,Farmacia Pro + Salud,19.2718946,-99.6916258,pharma,amenity,pharmacy,4.976203851742849
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalupana,19.2688784,-99.6909403,pharma,amenity,pharmacy,4.978052276516141
+2,O3_ZonaSur,19.28,-99.645,Cemot,19.2678362,-99.6915179,pharma,amenity,pharmacy,5.066514394992763
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2682655,-99.6922142,pharma,amenity,pharmacy,5.124616373281963
+2,O3_ZonaSur,19.28,-99.645,La Botica Moderna,19.2518348,-99.6042302,pharma,amenity,pharmacy,5.303072064348196
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2988257,-99.6941589,pharma,amenity,pharmacy,5.567851401790693
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.2888518,-99.6973794,pharma,amenity,pharmacy,5.584942281955157
+2,O3_ZonaSur,19.28,-99.645,Farmacia Guadalajara,19.2571422,-99.6956054,pharma,amenity,pharmacy,5.888617547027516
+2,O3_ZonaSur,19.28,-99.645,Distribuidora De Medicamentos Equilibrio Farmacéutico,19.2569241,-99.69589619999999,pharma,amenity,pharmacy,5.926629112037279
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.3077268,-99.5965176,pharma,amenity,pharmacy,5.949399053184449
+2,O3_ZonaSur,19.28,-99.645,Roche,19.3317443,-99.6631363,pharma,amenity,pharmacy,6.060322596728905
+2,O3_ZonaSur,19.28,-99.645,Farmacia Tollocan,19.2876021,-99.5844665,pharma,amenity,pharmacy,6.409357790728507
+2,O3_ZonaSur,19.28,-99.645,Phicsa,19.3051031,-99.5856767,pharma,amenity,pharmacy,6.823113480882715
+2,O3_ZonaSur,19.28,-99.645,Venta De Medicamento,19.2957979,-99.5795591,pharma,amenity,pharmacy,7.08934463892014
+2,O3_ZonaSur,19.28,-99.645,Farmacias Similares,19.2979064,-99.71025,pharma,amenity,pharmacy,7.131764214878834
+2,O3_ZonaSur,19.28,-99.645,Farmacia 75,19.2605559,-99.7107706,pharma,amenity,pharmacy,7.2342512806585795
+2,O3_ZonaSur,19.28,-99.645,Farmacias Guadalajara,19.2692708,-99.5764926,pharma,amenity,pharmacy,7.288981373851895
+2,O3_ZonaSur,19.28,-99.645,Farmacias del Ahorro,19.2770712,-99.574725,pharma,amenity,pharmacy,7.383224483848894
+2,O3_ZonaSur,19.28,-99.645,Redfields De Mexico,19.2500905,-99.7089231,pharma,amenity,pharmacy,7.4888964692913715
+2,O3_ZonaSur,19.28,-99.645,Pihcsa Para Hospitales,19.3052884,-99.5784205,pharma,amenity,pharmacy,7.532130086976211
+2,O3_ZonaSur,19.28,-99.645,Farmacia,19.212268,-99.6303921,pharma,amenity,pharmacy,7.6859979525684015
+2,O3_ZonaSur,19.28,-99.645,Farmacia GI,19.2117665,-99.6300837,pharma,amenity,pharmacy,7.747128604272278
+2,O3_ZonaSur,19.28,-99.645,Grupo Médico Los Angeles,19.2237978,-99.6643947,hospital,healthcare,hospital,6.572690095532341
+2,O3_ZonaSur,19.28,-99.645,Liceo Pedro De Gante,19.2802839,-99.6455522,school,amenity,school,0.06599772870706445
+2,O3_ZonaSur,19.28,-99.645,Tae Kawon Do,19.2787558,-99.6436826,school,amenity,school,0.1956011891054111
+2,O3_ZonaSur,19.28,-99.645,Instituto Nova,19.2792145,-99.6433138,school,amenity,school,0.19736123977974096
+2,O3_ZonaSur,19.28,-99.645,Colegio Dalton,19.2796084,-99.6429562,school,amenity,school,0.21888968412850723
+2,O3_ZonaSur,19.28,-99.645,Colegio mexiquense de educación técnica,19.2797784,-99.6428584,school,amenity,school,0.2261262568195392
+2,O3_ZonaSur,19.28,-99.645,Instituto De Computacion Y Estudios Técnicos,19.2779211,-99.6443891,school,amenity,school,0.2398910731827615
+2,O3_ZonaSur,19.28,-99.645,Estilistas Lilia,19.2800492,-99.6426522,school,amenity,school,0.24648271933772076
+2,O3_ZonaSur,19.28,-99.645,Academia De Belleza,19.2789086,-99.6428504,school,amenity,school,0.2561877652139036
+2,O3_ZonaSur,19.28,-99.645,Faro De Vida Instituto De Armonía Y Formación Humana,19.277146899999998,-99.6464861,school,amenity,school,0.35352175173397843
+2,O3_ZonaSur,19.28,-99.645,Instituto De Desarrollo De Competencias Educativas,19.283204,-99.6436496,school,amenity,school,0.3834267095117871
+2,O3_ZonaSur,19.28,-99.645,Escuela Preparatoria Oficial Núm. 169,19.2779562,-99.6482658,school,amenity,school,0.41126969161611354
+2,O3_ZonaSur,19.28,-99.645,Cbt 5 Vespertino,19.2778671,-99.6482617,school,amenity,school,0.41647244339637096
+2,O3_ZonaSur,19.28,-99.645,Cbt 5 Contador Publico Alberto Mena Flores,19.2777658,-99.6482551,school,amenity,school,0.42242792727387635
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Oficial Anexa A La Normal No 3 Toluca,19.2768822,-99.6479946,school,amenity,school,0.46795481531827643
+2,O3_ZonaSur,19.28,-99.645,Universidad Internacional de Profesiones (unipro) Escuela Internacional de Turismo EIT Campus Toluca,19.2760154,-99.6466684,school,amenity,school,0.4764178611542283
+2,O3_ZonaSur,19.28,-99.645,Secundaria No. 9 León Gúzman Vespertino,19.2768437,-99.6487228,school,amenity,school,0.5252209025874417
+2,O3_ZonaSur,19.28,-99.645,Secundaria Lic Benito Juarez,19.2771369,-99.6498654,school,amenity,school,0.6017797506218076
+2,O3_ZonaSur,19.28,-99.645,Instituto De Capacitacion Sacks,19.2746121,-99.644225,school,amenity,school,0.604604227207952
+2,O3_ZonaSur,19.28,-99.645,Esc. Sec.Of. No.0007 Estado de México,19.2859018,-99.6459022,school,amenity,school,0.6630467025826674
+2,O3_ZonaSur,19.28,-99.645,Secundaria Oficial 7 Estado De México,19.2864457,-99.6463292,school,amenity,school,0.7301802793279277
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo Decroly,19.2749266,-99.6498866,school,amenity,school,0.7624403739340015
+2,O3_ZonaSur,19.28,-99.645,Didactik School,19.2811445,-99.6522204,school,amenity,school,0.7684523242374643
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Para La Atencion De Jovenes Y Adultos Matutino 15eba0878a,19.2741771,-99.6495451,school,amenity,school,0.8042444069711987
+2,O3_ZonaSur,19.28,-99.645,Templo Shaolin De Mexico Suc Toluca,19.2855199,-99.6501515,school,amenity,school,0.8179687187315301
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Margarita Maza de Juárez,19.2807148,-99.6372247,school,amenity,school,0.8199450281481786
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Margarita Maza De Juárez,19.281322,-99.6372142,school,amenity,school,0.8303004521745149
+2,O3_ZonaSur,19.28,-99.645,Dirección de Aprendizaje de Lenguas,19.2840286,-99.6520948,school,amenity,school,0.8690077081147672
+2,O3_ZonaSur,19.28,-99.645,Liceo Pedro De Gante,19.2868639,-99.6492,school,amenity,school,0.881385973705367
+2,O3_ZonaSur,19.28,-99.645,Vigotsky´s Kids,19.2833672,-99.6526356,school,amenity,school,0.8845632068673831
+2,O3_ZonaSur,19.28,-99.645,Cuauhtemoc,19.2722538,-99.647358,school,amenity,school,0.8961913207005175
+2,O3_ZonaSur,19.28,-99.645,Instituto De Desarrollo Infantil Isima,19.2863555,-99.6503091,school,amenity,school,0.899957860389412
+2,O3_ZonaSur,19.28,-99.645,Centro De Formacion Virtud Marcial Y Deporte Tae Kwondo,19.2881239,-99.6444644,school,amenity,school,0.9050838837259223
+2,O3_ZonaSur,19.28,-99.645,Cecovam,19.2725352,-99.6415002,school,amenity,school,0.9077005286820258
+2,O3_ZonaSur,19.28,-99.645,Mavil Limpieza,19.2848334,-99.6379267,school,amenity,school,0.9165151464268099
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Isidro Fabela Turno Vespertino,19.2767141,-99.6530095,school,amenity,school,0.9166427212243897
+2,O3_ZonaSur,19.28,-99.645,Artes Marciales Chinas,19.2719861,-99.6428791,school,amenity,school,0.9184902941276512
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Itaht,19.2882208,-99.6438088,school,amenity,school,0.9226214281453198
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Isidro Fabela Turno Matutino,19.2768001,-99.6531241,school,amenity,school,0.9239618827208876
+2,O3_ZonaSur,19.28,-99.645,"CEAJA ""QFB Yolanda Senties de Ballesteros"" Turno Vespertino",19.2825927,-99.6534165,school,amenity,school,0.9292311773427264
+2,O3_ZonaSur,19.28,-99.645,Centro de Estudios Superiores Olimpo,19.2875839,-99.6487496,school,amenity,school,0.9306003211144608
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Para La Atencion De Jovenes Y Adultos Margarita Maza De Juarez,19.2862874,-99.6509023,school,amenity,school,0.9340991629766943
+2,O3_ZonaSur,19.28,-99.645,"Subdirección de educación para la atención de jovenes y adultos actividad de cocina, reposteria y decorado Mariana Rodriguez R. de Lazarin",19.2863567,-99.6508531,school,amenity,school,0.9364848751477123
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Mariana R De Lazarin Turno Matutino 15epr00620f,19.2862866,-99.6509526,school,amenity,school,0.9375423584544265
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Mariana R De Lazarin Turno Vespertino 15epr4762e,19.2862906,-99.6510115,school,amenity,school,0.9420034218863311
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Basica Para Adultos Heroes Del 47,19.2808836,-99.6539686,school,amenity,school,0.9464437114758175
+2,O3_ZonaSur,19.28,-99.645,Instituto Cultural Nicolás Guillen,19.2876993,-99.6488848,school,amenity,school,0.9482582732161067
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Federalizada Ignacio Ramírez 15des0012x,19.281488,-99.6540129,school,amenity,school,0.9603388384034999
+2,O3_ZonaSur,19.28,-99.645,Masaru Educacion Acuatica,19.2732454,-99.6391658,school,amenity,school,0.9690743413743395
+2,O3_ZonaSur,19.28,-99.645,Colegio De Entelechia,19.2883769,-99.6478203,school,amenity,school,0.9773712195552471
+2,O3_ZonaSur,19.28,-99.645,Unidad de Apoyo a la Educación Básica y Normal,19.2875788,-99.6500988,school,amenity,school,0.9982838059403217
+2,O3_ZonaSur,19.28,-99.645,Instituto Kambes,19.2881135,-99.6491016,school,amenity,school,0.9996242723496213
+2,O3_ZonaSur,19.28,-99.645,Centro de Actividades Culturales Uaem,19.2863414,-99.6520152,school,amenity,school,1.019478482777187
+2,O3_ZonaSur,19.28,-99.645,Rivendell College,19.2738376,-99.65259,school,amenity,school,1.0508047030721557
+2,O3_ZonaSur,19.28,-99.645,Acuatica Infantil,19.2726089,-99.6518079,school,amenity,school,1.0890566644175128
+2,O3_ZonaSur,19.28,-99.645,Colegio Integral De Bachillerato E Informática,19.2880953,-99.6508597,school,amenity,school,1.0901927519545824
+2,O3_ZonaSur,19.28,-99.645,Aquatic Infantil,19.2724864,-99.6518453,school,amenity,school,1.101928038112874
+2,O3_ZonaSur,19.28,-99.645,Instituto Pedagogico y de Estudio Superior Toluca,19.2793621,-99.6554784,school,amenity,school,1.1020863495320217
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Tolotzin,19.272858,-99.652372,school,amenity,school,1.1087851777685196
+2,O3_ZonaSur,19.28,-99.645,Unidad de Apoyo a la educación Básica y Normal,19.2880744,-99.6513744,school,amenity,school,1.1196905866433144
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No 0970 Gral Jose Vicente Villada,19.2852638,-99.6541272,school,amenity,school,1.122621771315167
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo Aprom,19.2838233,-99.6349744,school,amenity,school,1.1348971080416967
+2,O3_ZonaSur,19.28,-99.645,Instituto Livigston,19.2727821,-99.6371998,school,amenity,school,1.1464965098411601
+2,O3_ZonaSur,19.28,-99.645,Urawa Karate Do,19.2808077,-99.656199,school,amenity,school,1.178855768233941
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo Arellano,19.2898107,-99.6406169,school,amenity,school,1.1839304027029398
+2,O3_ZonaSur,19.28,-99.645,Centro de Estudios e Investigación en Desarrollo Sustentable Cedes Uaemex,19.2785202,-99.6561746,school,amenity,school,1.1843628765281446
+2,O3_ZonaSur,19.28,-99.645,Universidad Terranova,19.2800631,-99.6563188,school,amenity,school,1.1880270225789475
+2,O3_ZonaSur,19.28,-99.645,Tae Kwon Do Chew Kuan,19.2810358,-99.6336807,school,amenity,school,1.1936250380869615
+2,O3_ZonaSur,19.28,-99.645,Bodega Del Museo De Historia Universitario José María Morelos y Pavón,19.2863794,-99.6543267,school,amenity,school,1.208896586239111
+2,O3_ZonaSur,19.28,-99.645,"Instituto Superior de Estudios Prospectivos ""ISEP""",19.2839244,-99.6557963,school,amenity,school,1.2142714909378376
+2,O3_ZonaSur,19.28,-99.645,"Escuela Primaria Profra Eudoxia Calderon Gomez, Anexa A La Normal De Profesores Turno Matutino",19.2909612,-99.6454583,school,amenity,school,1.2197786097969998
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo,19.2908821,-99.6467224,school,amenity,school,1.2234633561015422
+2,O3_ZonaSur,19.28,-99.645,Unidad Deportiva De La Primaria Eudoxia Calderon,19.2909868,-99.6456935,school,amenity,school,1.223842774941557
+2,O3_ZonaSur,19.28,-99.645,Centro Cultural Y Educativo Liseo De Las Artes,19.2909996,-99.6458872,school,amenity,school,1.2266391260832188
+2,O3_ZonaSur,19.28,-99.645,Escuela Montessori,19.2833549,-99.6561402,school,amenity,school,1.2273173071856849
+2,O3_ZonaSur,19.28,-99.645,Edu-Vita After School,19.2910336,-99.6446207,school,amenity,school,1.2275260367544334
+2,O3_ZonaSur,19.28,-99.645,Colegio Miguel Alcobierre,19.2906296,-99.6411877,school,amenity,school,1.247846391574767
+2,O3_ZonaSur,19.28,-99.645,Escuela De Gobierno Y Administracion Publica Mexiquense,19.2849752,-99.6557288,school,amenity,school,1.2546189538818475
+2,O3_ZonaSur,19.28,-99.645,Extension de la Escuela Primaria Eudoxia Calderón,19.2909398,-99.6480212,school,amenity,school,1.2570989223548885
+2,O3_ZonaSur,19.28,-99.645,Instituto Superior Metropolitano,19.268724,-99.6435469,school,amenity,school,1.263076504558798
+2,O3_ZonaSur,19.28,-99.645,Departamento De Desarrollo Del Recurso Humano,19.2758238,-99.6565389,school,amenity,school,1.2970973098951466
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria General Nocturna Tierra y Libertad,19.2893069,-99.6526949,school,amenity,school,1.3127196450179748
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No. 549 Gral. Lázaro Cárdenas Vespertino,19.2904806,-99.6507871,school,amenity,school,1.3141734414654211
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Tecnica No 2 Tierra Y Libertad,19.2893501,-99.6526907,school,amenity,school,1.316239447335325
+2,O3_ZonaSur,19.28,-99.645,Plantel Nezahualcoyotl De La Escuela Preparatoria,19.2813766,-99.632346,school,amenity,school,1.3369335698949651
+2,O3_ZonaSur,19.28,-99.645,Defensoría de los Derechos  de la UAEM,19.2803784,-99.6578307,school,amenity,school,1.3473491899617336
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Oficial 15 De Septiembre,19.2693269,-99.6388507,school,amenity,school,1.3509547516492666
+2,O3_ZonaSur,19.28,-99.645,Talk Ingles y Punto,19.292033,-99.6473672,school,amenity,school,1.3608798052495517
+2,O3_ZonaSur,19.28,-99.645,Licenciado Adolfo Lopez Mateos Escuela Preparatoria 1,19.2792618,-99.6579856,school,amenity,school,1.3654242886031747
+2,O3_ZonaSur,19.28,-99.645,Academia De Belleza Reflejos,19.2880306,-99.6548665,school,amenity,school,1.3673858687501785
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria No 971,19.2922316,-99.6464762,school,amenity,school,1.3688880528446419
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Mtro. Protasio I. Gómez,19.2908828,-99.6387568,school,amenity,school,1.3761294764395777
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo Gabriela Mistral De Toluca,19.2923552,-99.6441079,school,amenity,school,1.3770224179906885
+2,O3_ZonaSur,19.28,-99.645,Unidad Pedagogica De Educacion Basica Licenciad0 Miguel Aleman,19.2921471,-99.6419708,school,amenity,school,1.387608846287712
+2,O3_ZonaSur,19.28,-99.645,Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734818,-99.6335908,school,amenity,school,1.3997758797942201
+2,O3_ZonaSur,19.28,-99.645,Secundaria Oficial Numero 13 Heroes De Chapultepec Turno Vespertino,19.2734407,-99.6335795,school,amenity,school,1.4031609196652233
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Leyes De Reforma Turno Matutino,19.2676777,-99.6416536,school,amenity,school,1.414482286227088
+2,O3_ZonaSur,19.28,-99.645,Secundaria Oficial Numero 03 Heroes De Chapultepec,19.2731112,-99.633662,school,amenity,school,1.4152620592044187
+2,O3_ZonaSur,19.28,-99.645,Centro Olistico Vipassana,19.2675399,-99.6490583,school,amenity,school,1.4495035375287726
+2,O3_ZonaSur,19.28,-99.645,Instituto Al Servicio Educativo Superior,19.2830626,-99.6584254,school,amenity,school,1.4496662667800966
+2,O3_ZonaSur,19.28,-99.645,Colegio Panamericano Estudios Tecnicos,19.2904113,-99.6533852,school,amenity,school,1.4542207064166415
+2,O3_ZonaSur,19.28,-99.645,Escuela Judicial del Estado de Méxic,19.2929833,-99.6472213,school,amenity,school,1.4623801533720546
+2,O3_ZonaSur,19.28,-99.645,Planet English,19.2792396,-99.6589392,school,amenity,school,1.46548491249596
+2,O3_ZonaSur,19.28,-99.645,Escuela de Estilismo Oscar De Leon,19.2893423,-99.6549741,school,amenity,school,1.4747917540055464
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Particular No 382 Jose Ma De Yermo Y Pares,19.2928757,-99.6415599,school,amenity,school,1.4765367883259342
+2,O3_ZonaSur,19.28,-99.645,Centro De Estudios Tecnologicos Del Estado De Mexico,19.2893398,-99.6550141,school,amenity,school,1.477579309906218
+2,O3_ZonaSur,19.28,-99.645,Instituto Universitario Brima,19.2923031,-99.6505997,school,amenity,school,1.488942188809147
+2,O3_ZonaSur,19.28,-99.645,Adansonia Instituto De Educacion Inicial,19.2676387,-99.6393583,school,amenity,school,1.4966466052970533
+2,O3_ZonaSur,19.28,-99.645,Centro de idiomas y Computación,19.2896107,-99.6550302,school,amenity,school,1.5000894122294486
+2,O3_ZonaSur,19.28,-99.645,Instituto Superior Concordia,19.2925441,-99.6503572,school,amenity,school,1.5039013675196071
+2,O3_ZonaSur,19.28,-99.645,Grupo Isima,19.2865062,-99.6576689,school,amenity,school,1.5137539550477248
+2,O3_ZonaSur,19.28,-99.645,Instituto Universitario Autonomo De Ciencias,19.2935271,-99.6477006,school,amenity,school,1.530617507052984
+2,O3_ZonaSur,19.28,-99.645,Fut 7 Millan,19.2800088,-99.6303146,school,amenity,school,1.5413607600433559
+2,O3_ZonaSur,19.28,-99.645,Escuela de Adultos Margarita Maza de Juárez Matutino,19.2937492,-99.6430424,school,amenity,school,1.5425851294315331
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Licenciado Benito Juárez Cct 15DPR1423M,19.2661146,-99.6455685,school,amenity,school,1.5451386890263294
+2,O3_ZonaSur,19.28,-99.645,"Escuela De Adultos Margarita Maza De Juarez, Vespertino",19.2937828,-99.643043,school,amenity,school,1.5462797025355077
+2,O3_ZonaSur,19.28,-99.645,Paideia Colón,19.2782448,-99.6596426,school,amenity,school,1.5492192947359529
+2,O3_ZonaSur,19.28,-99.645,Instituto Universitario Johann Friedrich Herbart,19.2859347,-99.6585663,school,amenity,school,1.5693630734605433
+2,O3_ZonaSur,19.28,-99.645,Colegio Isbelino,19.2940638,-99.6431758,school,amenity,school,1.575499597203326
+2,O3_ZonaSur,19.28,-99.645,school (OSM),19.2813925,-99.6601625,school,amenity,school,1.598944344849508
+2,O3_ZonaSur,19.28,-99.645,Telebachillerato comunitario Núm 477 del parque Toluca,19.2686053,-99.6542962,school,amenity,school,1.5992067419018463
+2,O3_ZonaSur,19.28,-99.645,Colegio Comenius,19.2770954,-99.6600702,school,amenity,school,1.6143998875762646
+2,O3_ZonaSur,19.28,-99.645,Escuelas Profesionales de Computación Epc,19.2905198,-99.655626,school,amenity,school,1.6162010176268227
+2,O3_ZonaSur,19.28,-99.645,IBIM Instituto Bicentenario Inglés de México,19.2770083,-99.6603899,school,amenity,school,1.649217463499721
+2,O3_ZonaSur,19.28,-99.645,Instituto Ispet,19.2714751,-99.6581063,school,amenity,school,1.670626359162662
+2,O3_ZonaSur,19.28,-99.645,Linguatec,19.2737169,-99.6595468,school,amenity,school,1.6790944623592308
+2,O3_ZonaSur,19.28,-99.645,Escuela de Enfermería y Salud  Iepetac  Toluca,19.2913601,-99.6556268,school,amenity,school,1.6851151038313874
+2,O3_ZonaSur,19.28,-99.645,Instituto Brima,19.2893398,-99.6577375,school,amenity,school,1.692865092977641
+2,O3_ZonaSur,19.28,-99.645,Club Acuático,19.2802055,-99.6611495,school,amenity,school,1.6951834761632238
+2,O3_ZonaSur,19.28,-99.645,"Escuela secundaria oficial Dr, Gustavo Baz Prada N° 868",19.2670357,-99.6535789,school,amenity,school,1.6996901393732238
+2,O3_ZonaSur,19.28,-99.645,Instituto de Computo e Inglés,19.2903529,-99.6569859,school,amenity,school,1.705216660497274
+2,O3_ZonaSur,19.28,-99.645,Red de Inovación Y Aprendizaje,19.293441,-99.6528775,school,amenity,school,1.7080119249291261
+2,O3_ZonaSur,19.28,-99.645,Dirección de Identidad Universitaria,19.2922061,-99.6552996,school,amenity,school,1.7351338135572625
+2,O3_ZonaSur,19.28,-99.645,"Facultad de Química, UAEMéx",19.2727099,-99.6596781,school,amenity,school,1.7408746772587727
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria 585 Licenciado Juan Fernandez Albarran,19.2879268,-99.6593061,school,amenity,school,1.741104063582397
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Adolfo Lopez Mateos,19.269457,-99.6327285,school,amenity,school,1.7416675141896676
+2,O3_ZonaSur,19.28,-99.645,Centro de Estudios para la Calidad Educativa y la Investigación Científica,19.2889085,-99.6586861,school,amenity,school,1.7448775539446346
+2,O3_ZonaSur,19.28,-99.645,Berlitz Escuela de Idiomas,19.2798185,-99.6622808,school,amenity,school,1.8138835838246745
+2,O3_ZonaSur,19.28,-99.645,Colegio Vilaseca De Toluca,19.2874639,-99.6605645,school,amenity,school,1.832331217250001
+2,O3_ZonaSur,19.28,-99.645,Academia De Estilistas Profesionales Lupita,19.2903679,-99.6586001,school,amenity,school,1.834819448444093
+2,O3_ZonaSur,19.28,-99.645,Escuela Telesecundaria No. 0325 Cuauhtémoc,19.2953249,-99.6517589,school,amenity,school,1.8458058187805024
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Instituto Simón Bolívar,19.2925018,-99.6329793,school,amenity,school,1.877281965368076
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo Valdéz Ponce,19.2796633,-99.6629133,school,amenity,school,1.880531335384859
+2,O3_ZonaSur,19.28,-99.645,Eurek Club De Tareas,19.2826091,-99.6627038,school,amenity,school,1.8806651837494208
+2,O3_ZonaSur,19.28,-99.645,Casa Pura Capoeria,19.263905,-99.6391296,school,amenity,school,1.8927864270976364
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Anexa a la Normal,19.2968067,-99.6420586,school,amenity,school,1.8941459844570425
+2,O3_ZonaSur,19.28,-99.645,Instituto Nacional Tae Kwon Do,19.2841208,-99.6274488,school,amenity,school,1.8982607040104698
+2,O3_ZonaSur,19.28,-99.645,"Instituto Tecnico, Administrativo y Humanistico de Toluca",19.291636,-99.658528,school,amenity,school,1.9209383421299566
+2,O3_ZonaSur,19.28,-99.645,Escuelas De Educación Primaria Del Sector Público,19.2709321,-99.6606024,school,amenity,school,1.9231705777436376
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial 597 Anexa A La Normal No1 De Toluca,19.2971004,-99.6421605,school,amenity,school,1.9246896566745462
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Toluca,19.2771393,-99.6631241,school,amenity,school,1.928710588645961
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profesor Fernando Aguilar Vilchis,19.270827099999998,-99.6606034,school,amenity,school,1.9294070982306228
+2,O3_ZonaSur,19.28,-99.645,Instituto Cenca Plantel Benito Juarez,19.2705748,-99.6295301,school,amenity,school,1.9325970718611365
+2,O3_ZonaSur,19.28,-99.645,Escuela Normal Núm. 1 de Toluca,19.2972143,-99.6423161,school,amenity,school,1.9347580073654405
+2,O3_ZonaSur,19.28,-99.645,Centro Escolar Justo Sierra Mendez,19.2883196,-99.6614631,school,amenity,school,1.9599615444226262
+2,O3_ZonaSur,19.28,-99.645,Instituto Nacional Para La Educacion De Adultos,19.2907876,-99.6600129,school,amenity,school,1.9803128815660467
+2,O3_ZonaSur,19.28,-99.645,Colegio de bachilleres COBAEM,19.289965,-99.6607033,school,amenity,school,1.98599659806191
+2,O3_ZonaSur,19.28,-99.645,Alianza Francesa de Toluca,19.2916512,-99.6593783,school,amenity,school,1.988910586837175
+2,O3_ZonaSur,19.28,-99.645,Escuela Emiliano Zapata,19.2976587,-99.6489032,school,amenity,school,2.0058351813920448
+2,O3_ZonaSur,19.28,-99.645,Nuestro Ser,19.2787119,-99.6641324,school,amenity,school,2.0132212282668838
+2,O3_ZonaSur,19.28,-99.645,Instituto Al Servicio Educativo Superior,19.2936005,-99.657838,school,amenity,school,2.025479780146543
+2,O3_ZonaSur,19.28,-99.645,Grupo Escolar Simon Bolivar,19.2685387,-99.6605296,school,amenity,school,2.069098919179263
+2,O3_ZonaSur,19.28,-99.645,Centro De Maestros Adolfo Ruiz Cortines Toluca 1,19.2956384,-99.6557607,school,amenity,school,2.0734750525512666
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Para Jovenes Y Adultos Licenciado Adolfo Ruiz Cortines,19.2956359,-99.6558304,school,amenity,school,2.077235900525619
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Adolfo Ruiz Cortines Turno Vespertino,19.2956207,-99.6559297,school,amenity,school,2.0815466334242068
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Adolfo Ruiz Cortines,19.2956536,-99.6558948,school,amenity,school,2.082586854117269
+2,O3_ZonaSur,19.28,-99.645,Unidad De Servicio De Apoyo A Escuela Regular N 23,19.2949455,-99.632878,school,amenity,school,2.09294399713239
+2,O3_ZonaSur,19.28,-99.645,Escuela Tecnica del DIFEM,19.2945423,-99.6577173,school,amenity,school,2.096734481211312
+2,O3_ZonaSur,19.28,-99.645,Colegio Mexiquense,19.2919113,-99.660647,school,amenity,school,2.1097756440218314
+2,O3_ZonaSur,19.28,-99.645,Colegio Inglés del Estado de México,19.2645406,-99.6566686,school,amenity,school,2.1107031567917818
+2,O3_ZonaSur,19.28,-99.645,Centro de Educación Para La Atencion de Jóvenes y Adultos Lic Ma Eugenia San Martin de Camacho,19.2946827,-99.6578183,school,amenity,school,2.115522794540343
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Horacio Zuñiga Turno Matutino,19.2784711,-99.6651886,school,amenity,school,2.125787954067769
+2,O3_ZonaSur,19.28,-99.645,Uaem Plantel Doctor Ángel Ma Garibay Kintana,19.2608514,-99.6440528,school,amenity,school,2.131547142967562
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Horacio Zuñiga Turno Vespertino,19.2785604,-99.665257,school,amenity,school,2.132175196624121
+2,O3_ZonaSur,19.28,-99.645,Escuela De Futbol Toros Fc,19.2611563,-99.6493532,school,amenity,school,2.14456738939604
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Estado De México,19.2837423,-99.6652637,school,amenity,school,2.1671534839036344
+2,O3_ZonaSur,19.28,-99.645,Instituto Supremo De Taekwondo,19.2992925,-99.6420362,school,amenity,school,2.167662552820877
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria María Remedios Colón,19.2924486,-99.6609212,school,amenity,school,2.1698676748188275
+2,O3_ZonaSur,19.28,-99.645,Bachillerato Inteligente De Mexico,19.2604261,-99.6437488,school,amenity,school,2.18047709776578
+2,O3_ZonaSur,19.28,-99.645,Academia Profesional de Musica Medrano,19.2819008,-99.6658609,school,amenity,school,2.199698075928752
+2,O3_ZonaSur,19.28,-99.645,Yoga Natural,19.2851481,-99.6658081,school,amenity,school,2.2577328945268182
+2,O3_ZonaSur,19.28,-99.645,D4 Reality,19.2865932,-99.6653836,school,amenity,school,2.2615222660806715
+2,O3_ZonaSur,19.28,-99.645,Instituto Highlanders Preescolar,19.2746934,-99.6660538,school,amenity,school,2.2872390728066083
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo Metepec,19.260438100000002,-99.6382088,school,amenity,school,2.2890093283468618
+2,O3_ZonaSur,19.28,-99.645,Escuela de Natacion Acuarela,19.2981396,-99.6346808,school,amenity,school,2.289403772227346
+2,O3_ZonaSur,19.28,-99.645,Primaria Miguel Hidalgo y Costilla,19.2979393,-99.6342672,school,amenity,school,2.290835859106205
+2,O3_ZonaSur,19.28,-99.645,Yoga Solar,19.2907297,-99.6637268,school,amenity,school,2.299251207078141
+2,O3_ZonaSur,19.28,-99.645,First College Primaria,19.2646332,-99.6596695,school,amenity,school,2.300122445616559
+2,O3_ZonaSur,19.28,-99.645,Primaria Karol,19.2612418,-99.6353727,school,amenity,school,2.317713414201381
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Multiple Cam 5,19.266969,-99.6627838,school,amenity,school,2.3630248515371317
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Cam 61,19.2670866,-99.6629345,school,amenity,school,2.367585788708105
+2,O3_ZonaSur,19.28,-99.645,Cam 17,19.301192,-99.6479765,school,amenity,school,2.377059145220095
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Multiple Cam No 6,19.267127,-99.6631072,school,amenity,school,2.379318444204537
+2,O3_ZonaSur,19.28,-99.645,Centro de atención múltiple 17,19.3013582,-99.6470044,school,amenity,school,2.384222134922629
+2,O3_ZonaSur,19.28,-99.645,Escuela Española de Dibujo y Pintura clasica,19.2890786,-99.6657248,school,amenity,school,2.398024289250237
+2,O3_ZonaSur,19.28,-99.645,Colegio Alma Mater,19.2758566,-99.6675168,school,amenity,school,2.4078531309733386
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Gustavo Diaz Ordaz,19.2829979,-99.667844,school,amenity,school,2.420716965530927
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria,19.2637182,-99.6603635,school,amenity,school,2.4245129645707157
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo” Turno Vespertino 15ees0388I,19.2793634,-99.6681538,school,amenity,school,2.431228183442042
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No. 0005 “Prof. Camerino Lara Castillo”  Turno Matutino 15ees0138c,19.2792621,-99.668157,school,amenity,school,2.431918639169217
+2,O3_ZonaSur,19.28,-99.645,Josefa Ortiz De Dominguez 15EBA1978G,19.2601409,-99.6352705,school,amenity,school,2.432951270354102
+2,O3_ZonaSur,19.28,-99.645,"CEPJA ""Josefa Ortiz De Dominguez""",19.2601211,-99.6352608,school,amenity,school,2.435376983133238
+2,O3_ZonaSur,19.28,-99.645,Colegio De Las Americas,19.2614839,-99.6322434,school,amenity,school,2.4560035341694446
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo Aprende,19.2938753,-99.6632409,school,amenity,school,2.45877680117435
+2,O3_ZonaSur,19.28,-99.645,Colegio Imath,19.3020228,-99.6477114,school,amenity,school,2.465302195079725
+2,O3_ZonaSur,19.28,-99.645,Lic. Juan Fernandez,19.2895391,-99.6663264,school,amenity,school,2.476930938459836
+2,O3_ZonaSur,19.28,-99.645,KiddyBot,19.2780796,-99.6686039,school,amenity,school,2.486634918413007
+2,O3_ZonaSur,19.28,-99.645,Instituto Carl Rogers Toluca,19.2813329,-99.6686817,school,amenity,school,2.4900052187129864
+2,O3_ZonaSur,19.28,-99.645,COBAEM,19.296003,-99.6616472,school,amenity,school,2.4938122674092797
+2,O3_ZonaSur,19.28,-99.645,Episteme Escuela Humanistica Y De Derecho,19.3023651,-99.6476912,school,amenity,school,2.5028734986868013
+2,O3_ZonaSur,19.28,-99.645,Colegio Cepavat,19.2934913,-99.6641054,school,amenity,school,2.504256519509467
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Aguntín Melgar,19.302447,-99.6470575,school,amenity,school,2.5053158985304314
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Heroes De La Independencia,19.2994593,-99.6329546,school,amenity,school,2.5060150860388077
+2,O3_ZonaSur,19.28,-99.645,Niot Robotica Y Tecnologica,19.2924275,-99.6649288,school,amenity,school,2.506882359219291
+2,O3_ZonaSur,19.28,-99.645,Escuela Preparatoria Oficial Numero 116,19.2854063,-99.6682398,school,amenity,school,2.5121661874574213
+2,O3_ZonaSur,19.28,-99.645,Escuela Del Deporte Profesor Javier Garcia Moreno R,19.2849069,-99.6684261,school,amenity,school,2.518548652518679
+2,O3_ZonaSur,19.28,-99.645,Centro De Formacion Y Documentacion Electoral,19.2874926,-99.6222465,school,amenity,school,2.5292791333672606
+2,O3_ZonaSur,19.28,-99.645,Secundaria 12,19.2998979,-99.6332419,school,amenity,school,2.533419073822509
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Ford Numero 42,19.2981374,-99.6596283,school,amenity,school,2.534663889067057
+2,O3_ZonaSur,19.28,-99.645,Cepavat,19.2937505,-99.6642827,school,amenity,school,2.536448861682148
+2,O3_ZonaSur,19.28,-99.645,Instituto De Tae Tae Kwon Daehan Mexico,19.2616629,-99.6594118,school,amenity,school,2.538865433053978
+2,O3_ZonaSur,19.28,-99.645,Darshana Center,19.2832692,-99.6689535,school,amenity,school,2.540248056003237
+2,O3_ZonaSur,19.28,-99.645,Instituto Simon Bolivar Secundaria,19.2994448,-99.632257,school,amenity,school,2.542363650943016
+2,O3_ZonaSur,19.28,-99.645,Centro Universitario Liceo Mexiquense,19.2912993,-99.6663097,school,amenity,school,2.565308862114191
+2,O3_ZonaSur,19.28,-99.645,Carlos Hank Gonzalez,19.2851641,-99.6689939,school,amenity,school,2.5829654954871546
+2,O3_ZonaSur,19.28,-99.645,Centro De Atención Múltiple No2 Profe José Guadarrama Alvarado,19.2842942,-99.6693487,school,amenity,school,2.5998000452960706
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Multiple Prof Jose Guadarrama Alvarado,19.2843828,-99.6693729,school,amenity,school,2.604121886504093
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Xinantecatl,19.2597874,-99.6317874,school,amenity,school,2.6409881131158426
+2,O3_ZonaSur,19.28,-99.645,Kundal Yoga & Quiropractica,19.263746,-99.6265177,school,amenity,school,2.6514258984775116
+2,O3_ZonaSur,19.28,-99.645,Instituto Simon Bolivar,19.3006958,-99.6323784,school,amenity,school,2.6552902490143353
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo Iadsa,19.2733313,-99.669363,school,amenity,school,2.6625048072015427
+2,O3_ZonaSur,19.28,-99.645,Instituto Simon Bolivar,19.3007875,-99.6323825,school,amenity,school,2.66391808560084
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria Cuitlahuac,19.2737533,-99.6201266,school,amenity,school,2.701551324023517
+2,O3_ZonaSur,19.28,-99.645,Usaer 86,19.3043577,-99.6448248,school,amenity,school,2.708515079047437
+2,O3_ZonaSur,19.28,-99.645,Escuela Agra Montessory,19.2894459,-99.668792,school,amenity,school,2.7090111228563685
+2,O3_ZonaSur,19.28,-99.645,Escuela De Educacion Para Adultos,19.273986,-99.670427,school,amenity,school,2.7513394850912203
+2,O3_ZonaSur,19.28,-99.645,Secundaria Instituto Bicentenario,19.2906834,-99.6686908,school,amenity,school,2.755677119047522
+2,O3_ZonaSur,19.28,-99.645,Telebachillerato,19.2825684,-99.6186952,school,amenity,school,2.775627836074338
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No 575 José Maria Velazco,19.3049663,-99.6448041,school,amenity,school,2.7762020285916464
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Para La Atencion De Jovenes Y Adultos Lorenzo De Zavala,19.2737349,-99.6193323,school,amenity,school,2.782713060173805
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Federal Cuauhtemoc,19.3048717,-99.6415964,school,amenity,school,2.788580370573609
+2,O3_ZonaSur,19.28,-99.645,Escuela Para Adultos Gabriela Mistral,19.2787157,-99.6183996,school,amenity,school,2.795604241964033
+2,O3_ZonaSur,19.28,-99.645,Highlandenrs,19.2784746,-99.6715863,school,amenity,school,2.795626725295126
+2,O3_ZonaSur,19.28,-99.645,Instituto Pedagogico De Toluca,19.2875587,-99.6705018,school,amenity,school,2.805435848694889
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Oficial Profesor Agripin García Estrada,19.255143,-99.6502505,school,amenity,school,2.8183832768932064
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Num14 Primero De Mayo,19.300122,-99.6615669,school,amenity,school,2.833626743987517
+2,O3_ZonaSur,19.28,-99.645,Escuela primaria Heriberto Enríquez,19.2946912,-99.6671459,school,amenity,school,2.8409469309499795
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Flor De Maria Reyes De Molina,19.2945569,-99.66731,school,amenity,school,2.8465375383012814
+2,O3_ZonaSur,19.28,-99.645,Cursos De Personalidad Academia Starlet,19.2612778,-99.6263186,school,amenity,school,2.8598999632138504
+2,O3_ZonaSur,19.28,-99.645,Openbook Educacion Avanzada A Libro Abierto,19.260385,-99.6272504,school,amenity,school,2.8684905608486235
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Prof. Noe Perez,19.2751459,-99.6718636,school,amenity,school,2.8708071549055645
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Noe Perez Pioquinta,19.2746161,-99.6717829,school,amenity,school,2.8741834219996187
+2,O3_ZonaSur,19.28,-99.645,Pueridomus Colegio Activo,19.2809186,-99.6723847,school,amenity,school,2.8760688355401918
+2,O3_ZonaSur,19.28,-99.645,Colegio Niños De Mexico,19.3017628,-99.6300064,school,amenity,school,2.8865565610875152
+2,O3_ZonaSur,19.28,-99.645,Pueri Domus Colegio Activo,19.2807226,-99.6725133,school,amenity,school,2.88887143817458
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profesor Heriberto Enriquez,19.2951281,-99.6675914,school,amenity,school,2.907161542887481
+2,O3_ZonaSur,19.28,-99.645,Clases De Box,19.2786686,-99.6173166,school,amenity,school,2.9093945623451147
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Abierta Tecnologico De Estudios,19.2781116,-99.6726509,school,amenity,school,2.909805548922686
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profesor Heriberto Henriquez,19.2952367,-99.6675803,school,amenity,school,2.91321714549511
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Técnica 140 Lázaro Cárdenas Del Río,19.2556074,-99.6347456,school,amenity,school,2.9181024067439307
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Flor De Maria Reyes De Molina Cct 15epr0669y,19.294931599999998,-99.667927,school,amenity,school,2.92349656023226
+2,O3_ZonaSur,19.28,-99.645,Colegio Niños De Mexico,19.302299,-99.6300129,school,amenity,school,2.936353624636399
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No0011,19.2806592,-99.6170309,school,amenity,school,2.9365094404057057
+2,O3_ZonaSur,19.28,-99.645,Instituto secundaria y educacion subprofesional,19.306449399999998,-99.6448316,school,amenity,school,2.9410921954404503
+2,O3_ZonaSur,19.28,-99.645,Lumiére Escuela de Fotografia,19.2894307,-99.6712448,school,amenity,school,2.947397712445178
+2,O3_ZonaSur,19.28,-99.645,Colegio Mexiquense Universitario,19.2536844,-99.6416297,school,amenity,school,2.9474689397860616
+2,O3_ZonaSur,19.28,-99.645,school (OSM),19.2537993,-99.6503198,school,amenity,school,2.9664164588468642
+2,O3_ZonaSur,19.28,-99.645,Escuela Preparatoria Oficial No 244 Turno Vespertino,19.2718206,-99.6723729,school,amenity,school,3.0136163342189204
+2,O3_ZonaSur,19.28,-99.645,Escuela Preparatoria Oficial No 244 Turno Matutino,19.2718681,-99.6724279,school,amenity,school,3.017533207669098
+2,O3_ZonaSur,19.28,-99.645,Escuela De Futbol Planeta 7,19.300867,-99.6265379,school,amenity,school,3.0229523175155744
+2,O3_ZonaSur,19.28,-99.645,Instituto Gastronomico Chatelain,19.294157,-99.6696835,school,amenity,school,3.0314119908680923
+2,O3_ZonaSur,19.28,-99.645,Licenciado Francisco Javier Raxiona Turno Vespertino,19.2701586,-99.6719846,school,amenity,school,3.0364040427996546
+2,O3_ZonaSur,19.28,-99.645,Colegio Elsembrador,19.2531821,-99.6394618,school,amenity,school,3.0381498313145103
+2,O3_ZonaSur,19.28,-99.645,Superacion Personal Trinus,19.2614803,-99.6236252,school,amenity,school,3.045395678393925
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Licenciado Francisco Javier Gaxiola Turno Matutino,19.2701008,-99.6720604,school,amenity,school,3.0461438645112278
+2,O3_ZonaSur,19.28,-99.645,Bikram Yoga Metepec,19.2630998,-99.6215732,school,amenity,school,3.094835092069422
+2,O3_ZonaSur,19.28,-99.645,Centro de educación Especial Richi I.A. P.,19.2885375,-99.6731487,school,amenity,school,3.1031510677111545
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo De Formación Integral Frater,19.2522902,-99.6409307,school,amenity,school,3.1106557535121544
+2,O3_ZonaSur,19.28,-99.645,Escuela de Karate,19.2775056,-99.6747457,school,amenity,school,3.1343899925950818
+2,O3_ZonaSur,19.28,-99.645,Escuela Para Los Adultos Epla Juan Escutia,19.2677562,-99.6720122,school,amenity,school,3.1452035532248908
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Dr Gustavo Baz Prada 15epr1425j,19.2831878,-99.674807,school,amenity,school,3.1484906765326115
+2,O3_ZonaSur,19.28,-99.645,Escuela Dr Gustavo Baz Prada,19.2832638,-99.6749157,school,amenity,school,3.1607857405755926
+2,O3_ZonaSur,19.28,-99.645,Leipzig Academia de Música,19.3065534,-99.6341734,school,amenity,school,3.1636907430778525
+2,O3_ZonaSur,19.28,-99.645,Jardin de Niños del Poder Legislativo,19.2886948,-99.673852,school,amenity,school,3.17878263368644
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Josefa Ortiz De Dominguez,19.3085935,-99.6456017,school,amenity,school,3.18007917601413
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No 10 Angel Maria Garibay Kintana,19.2941447,-99.6714792,school,amenity,school,3.193300676741444
+2,O3_ZonaSur,19.28,-99.645,Escuela De Futbol Real Madrid,19.2566244,-99.6629022,school,amenity,school,3.207367154651522
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria No.10 Ángel Ma. Garibay Kintana,19.2943607,-99.6716337,school,amenity,school,3.219266932655194
+2,O3_ZonaSur,19.28,-99.645,Instituto Agora,19.2608731,-99.668228,school,amenity,school,3.23539525678934
+2,O3_ZonaSur,19.28,-99.645,Colegio Cibeles Cct15ptr3417u,19.2971126,-99.6700893,school,amenity,school,3.2487743622606495
+2,O3_ZonaSur,19.28,-99.645,Colegio Cibeles Cct15pes1067l,19.2971323,-99.6701519,school,amenity,school,3.2553830974007303
+2,O3_ZonaSur,19.28,-99.645,Lic. Adolfo López Mateos,19.3027465,-99.6253439,school,amenity,school,3.2638991453851594
+2,O3_ZonaSur,19.28,-99.645,Centro Holístico Clases De Yoga,19.2789395,-99.6760932,school,amenity,school,3.265642185656004
+2,O3_ZonaSur,19.28,-99.645,Colegio Primaria Jacques Deloers,19.2907525,-99.6741365,school,amenity,school,3.2834517385242807
+2,O3_ZonaSur,19.28,-99.645,Secundaria hidalgo,19.297694,-99.67025,school,amenity,school,3.3005800356454924
+2,O3_ZonaSur,19.28,-99.645,Yoga Studio,19.2615593,-99.6203469,school,amenity,school,3.301637032355611
+2,O3_ZonaSur,19.28,-99.645,Estacionamiento Hidalgo,19.2981294,-99.6703385,school,amenity,school,3.3370612662030865
+2,O3_ZonaSur,19.28,-99.645,Secundaria Numero 006 Jose Maria Gonzalez Arratia,19.2659003,-99.673073,school,amenity,school,3.3377666954164567
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Cuauhtemoc Cct15epr1457b,19.2957802,-99.6722104,school,amenity,school,3.3518150133819575
+2,O3_ZonaSur,19.28,-99.645,Instituto Educativo David Paul Ausubel,19.2682639,-99.6745392,school,amenity,school,3.3639493886333964
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Coronel Filiberto Gomez Diaz,19.3103966,-99.64241,school,amenity,school,3.390859981958813
+2,O3_ZonaSur,19.28,-99.645,Centro Escolar Manuel Bernal,19.257589,-99.6674937,school,amenity,school,3.4328803834407564
+2,O3_ZonaSur,19.28,-99.645,Instituto Lavalle,19.3060306,-99.6267523,school,amenity,school,3.4706740528176696
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Federalizada Gregorio Torres Quintero,19.2649335,-99.6159733,school,amenity,school,3.4769735863833278
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profesor Rafael Ramirez,19.2770761,-99.611979,school,amenity,school,3.4810881445786963
+2,O3_ZonaSur,19.28,-99.645,Theboxrx,19.2889559,-99.6769466,school,amenity,school,3.497743016963403
+2,O3_ZonaSur,19.28,-99.645,Colegio Montesori Nemi,19.2891046,-99.676911,school,amenity,school,3.4989082852839006
+2,O3_ZonaSur,19.28,-99.645,Ciberbots Escuela De Robotica,19.2932815,-99.6754758,school,amenity,school,3.523052213003334
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profr Adrian Ortega Monroy,19.2495462,-99.6340234,school,amenity,school,3.576959534487182
+2,O3_ZonaSur,19.28,-99.645,Centro Para La Atencion De Jovenes Y Adultos Heriberto Enriquez,19.2496522,-99.6336739,school,amenity,school,3.5778257295323352
+2,O3_ZonaSur,19.28,-99.645,Escuela De Manejo Valdez,19.2560719,-99.6221119,school,amenity,school,3.584849905740902
+2,O3_ZonaSur,19.28,-99.645,Centro De Formacion Deportiva Hc,19.2731132,-99.611461,school,amenity,school,3.602611963715585
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Multiple 44 Toluca,19.312408,-99.6466468,school,amenity,school,3.6077472380470854
+2,O3_ZonaSur,19.28,-99.645,Colegio Forger,19.2729276,-99.6111827,school,amenity,school,3.6355706071025624
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Urbana Federal Derechos De Los Niños,19.2589627,-99.6717684,school,amenity,school,3.6560609912177346
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria Benito Juarez Turno Vespertino,19.2660522,-99.676934,school,amenity,school,3.6933127519396436
+2,O3_ZonaSur,19.28,-99.645,Gimnasio De Tae Kwon Do,19.3059499,-99.6230026,school,amenity,school,3.6953879675722696
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria Oficial 040 Lic Benito Juarez,19.2660218,-99.6769877,school,amenity,school,3.6998480616341864
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial Numero 417 Sor Juana Ines De La Cruz Turno Matutino,19.248935,-99.6323504,school,amenity,school,3.700684678558116
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial Numero 0417 Sor Juana Ines De La Cruz Turno Vespertino,19.2489555,-99.6322377,school,amenity,school,3.7028205395183584
+2,O3_ZonaSur,19.28,-99.645,Primaria Mariano Abasolo,19.2495291,-99.6595166,school,amenity,school,3.7150887743945216
+2,O3_ZonaSur,19.28,-99.645,Bussiness Kids,19.2830815,-99.609274,school,amenity,school,3.7653421348354907
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Alonso Gomez De Orozco S,19.3138923,-99.6479098,school,amenity,school,3.781004062623082
+2,O3_ZonaSur,19.28,-99.645,Usaer Numero 3,19.3139292,-99.6478801,school,amenity,school,3.7848435656588806
+2,O3_ZonaSur,19.28,-99.645,Escuela Emedyva,19.2863935,-99.6809563,school,amenity,school,3.8402316601624076
+2,O3_ZonaSur,19.28,-99.645,EMEDYVA,19.2864055,-99.6809866,school,amenity,school,3.8436038288989174
+2,O3_ZonaSur,19.28,-99.645,school (OSM),19.2682474,-99.679627,school,amenity,school,3.8623373559354723
+2,O3_ZonaSur,19.28,-99.645,Centro De Estudios Superiores Atenea Palas,19.3147502,-99.6421231,school,amenity,school,3.875823642186429
+2,O3_ZonaSur,19.28,-99.645,Colegio Springfield,19.3147833,-99.6498042,school,amenity,school,3.9004505863006442
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Nezahualcoyotl Turno Vespertino,19.3123386,-99.6296787,school,amenity,school,3.939022607467234
+2,O3_ZonaSur,19.28,-99.645,Integral Education Coordination Center,19.2834815,-99.6823856,school,amenity,school,3.94295254871602
+2,O3_ZonaSur,19.28,-99.645,Ceaja Emiliano Zapata Unidad De Educacion Para La Atencion De Jóvenes Y Adultos,19.2492041,-99.6637129,school,amenity,school,3.947720836677894
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Nezahualcoyotl Turno Matutino,19.3124329,-99.6296361,school,amenity,school,3.950419701265552
+2,O3_ZonaSur,19.28,-99.645,Colegio Alma Mater,19.2745803,-99.6824515,school,amenity,school,3.976852543270099
+2,O3_ZonaSur,19.28,-99.645,Owijarim Taekwondo Mexico,19.2865879,-99.6828121,school,amenity,school,4.035670049974874
+2,O3_ZonaSur,19.28,-99.645,Centro De Atencion Múltiple Número 20,19.3134063,-99.6298707,school,amenity,school,4.039729119224363
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial Lic. Adolfo López Mateos,19.2786523,-99.6065112,school,amenity,school,4.0425295962263705
+2,O3_ZonaSur,19.28,-99.645,Primaria Carmen Serdan,19.2833296,-99.6834585,school,amenity,school,4.053456778985685
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Profr Jose Carranza Gutierrez,19.2727066,-99.607001,school,amenity,school,4.070031058091654
+2,O3_ZonaSur,19.28,-99.645,Centro educativo medio superior Cetem,19.310092,-99.6228911,school,amenity,school,4.071862714802347
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Miguel Hidalgo Y Costilla,19.3151352,-99.656564,school,amenity,school,4.09101187178544
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial 323 Jose Vasconcelos,19.3122723,-99.6260516,school,amenity,school,4.102680920704222
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Lic Jun Fernandez Albarran,19.2431799,-99.6424048,school,amenity,school,4.103261397031184
+2,O3_ZonaSur,19.28,-99.645,Colegio De Notarios,19.3159769,-99.6359792,school,amenity,school,4.110942122500747
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Tecnica Numero 159 Octavio Paz 15dst0169p,19.2796675,-99.68421,school,amenity,school,4.115600863788672
+2,O3_ZonaSur,19.28,-99.645,Centro de educación para la atención de jovenes y adultos Isidro Fabela,19.3151048,-99.6576047,school,amenity,school,4.121529358703686
+2,O3_ZonaSur,19.28,-99.645,kinder Ma. Dolores Lopez gomez tagle,19.2752478,-99.6840184,school,amenity,school,4.129329853255788
+2,O3_ZonaSur,19.28,-99.645,Centro De Estudios Jesus Reyes Heroles,19.3166694,-99.6519136,school,amenity,school,4.141503069637152
+2,O3_ZonaSur,19.28,-99.645,Escuela secundaria oficial 418 Lic Adolfo López Mateos,19.2783542,-99.6055712,school,amenity,school,4.142460708385994
+2,O3_ZonaSur,19.28,-99.645,Instituto de estudios notariales del colegio de notarios del Estado de México,19.3166497,-99.6355252,school,amenity,school,4.194816375071708
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria No 249 Jose Marti,19.2795877,-99.6850638,school,amenity,school,4.205299552951476
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Minerva Cct 1sdpro330q,19.3093259,-99.6706899,school,amenity,school,4.231142487042752
+2,O3_ZonaSur,19.28,-99.645,school (OSM),19.3095115,-99.6705115,school,amenity,school,4.2352061203394795
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Para Adultos Ceba Impulso Social,19.3128545,-99.6239639,school,amenity,school,4.268512928009973
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Olga Soto De Chuayffet,19.2621275,-99.6812591,school,amenity,school,4.293539214580587
+2,O3_ZonaSur,19.28,-99.645,Centro De Yoga El Rincon De Los Angeles,19.2787606,-99.6040297,school,amenity,school,4.302413493668512
+2,O3_ZonaSur,19.28,-99.645,Cbt Dr Ezequiel Capistran Rodriguez,19.2564278,-99.6124886,school,amenity,school,4.303027935373149
+2,O3_ZonaSur,19.28,-99.645,"CBT Dr. Ezequiel Capistrán Rodríguez, Metepec",19.256528,-99.6119649,school,amenity,school,4.340042332154028
+2,O3_ZonaSur,19.28,-99.645,Educare,19.2613687,-99.6077871,school,amenity,school,4.421437744588157
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria República Mexicana,19.3194547,-99.6393955,school,amenity,school,4.426413747725034
+2,O3_ZonaSur,19.28,-99.645,Ceaja Profesor Carlos Hanck Gonzalez Turno Matutino,19.2693578,-99.6858625,school,amenity,school,4.4492673802838185
+2,O3_ZonaSur,19.28,-99.645,Cobaem Plantel 06 Toluca Norte Turno Matutino,19.3186008,-99.6335122,school,amenity,school,4.458314770700367
+2,O3_ZonaSur,19.28,-99.645,Jardín de niños Lic. Adolfo López Mateos,19.2820334,-99.6024262,school,amenity,school,4.4741797049529675
+2,O3_ZonaSur,19.28,-99.645,Primaria Metepec instituto educativo para el desarrollo integral del saber,19.2564674,-99.6104161,school,amenity,school,4.4749389390215315
+2,O3_ZonaSur,19.28,-99.645,Centro De Educacion Para La Atencion De Jovenes Y Adultos General Jose Vicente Villada,19.2916377,-99.6859525,school,amenity,school,4.488744301784202
+2,O3_ZonaSur,19.28,-99.645,Preparatoria Ignacio Manuel Altamirano,19.2749544,-99.6017705,school,amenity,school,4.571936886256294
+2,O3_ZonaSur,19.28,-99.645,Centro Educativo Pedagogico Educare Plantel Primaria,19.2641434,-99.6047766,school,amenity,school,4.575375956380952
+2,O3_ZonaSur,19.28,-99.645,Colegio De Estudios Cientificos Y Tecnologicos Del Estado Demexico,19.2709779,-99.6017606,school,amenity,school,4.6480318115380514
+2,O3_ZonaSur,19.28,-99.645,Instituto Jose Pages Llergo Preparatoria Y Secundaria Abierta,19.3220023,-99.6457466,school,amenity,school,4.671099845078369
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria 706 Mario Colin Sanchez,19.3208177,-99.6576034,school,amenity,school,4.727520462041713
+2,O3_ZonaSur,19.28,-99.645,Escuela De Educacion Para Los Adultos Jose Maria Morelos Y Pavon,19.2599115,-99.6050486,school,amenity,school,4.75132269119143
+2,O3_ZonaSur,19.28,-99.645,Colegio Suizo Edelwelss,19.2372811,-99.6436884,school,amenity,school,4.752119877224296
+2,O3_ZonaSur,19.28,-99.645,Cbt Numero 3 Gobierno Del Estado De Mexico Clabe 15ect0105c,19.3120834,-99.6150194,school,amenity,school,4.7567923326179
+2,O3_ZonaSur,19.28,-99.645,Taekwondo Panamericano,19.2525155,-99.610221,school,amenity,school,4.76102153728535
+2,O3_ZonaSur,19.28,-99.645,Corporativo Unidad De Verificacion Maritima,19.2855524,-99.5996059,school,amenity,school,4.804261253641167
+2,O3_ZonaSur,19.28,-99.645,Escuela De Natación Acuática Navale,19.2735504,-99.6902848,school,amenity,school,4.806926406842677
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Oficial Lic Adolfo Lopez Mateos,19.2824755,-99.599141,school,amenity,school,4.8211291350005965
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Juan Escutia,19.2456506,-99.6167868,school,amenity,school,4.833123871349019
+2,O3_ZonaSur,19.28,-99.645,Escuela Secundaria Oficial No 0431 Emiliano Zapata,19.3168174,-99.6698643,school,amenity,school,4.85481350064869
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Niños Héroes De 1847 15epr1446w Vespertino,19.2363147,-99.6473559,school,amenity,school,4.863874949129808
+2,O3_ZonaSur,19.28,-99.645,Clases De Equitacion,19.267608,-99.6003344,school,amenity,school,4.886521932591461
+2,O3_ZonaSur,19.28,-99.645,Centro De Apoyo Integral De Aprendizaje,19.2639639,-99.6016518,school,amenity,school,4.886921599606326
+2,O3_ZonaSur,19.28,-99.645,Escuela Primaria Niños Héroes De 1847 Turno Matutino 15epr096v,19.2360681,-99.6474592,school,amenity,school,4.89182061043463
+2,O3_ZonaSur,19.28,-99.645,Escuela Von Glumer School,19.2774204,-99.5981951,school,amenity,school,4.920986966832065
+2,O3_ZonaSur,19.28,-99.645,Liceo Holandes,19.2621996,-99.6020602,school,amenity,school,4.922609997682559
+2,O3_ZonaSur,19.28,-99.645,Telebachillerato Comunitario 478 Capultitlan,19.2468129,-99.6768528,school,amenity,school,4.979687765401052
+2,O3_ZonaSur,19.28,-99.645,Telesecundaria 499 Jose María Pinosuarez,19.2468003,-99.6770834,school,amenity,school,4.997007878047815
+2,O3_ZonaSur,19.28,-99.645,Escuela De Gimnasia Mukyah,19.2792712,-99.5973019,school,amenity,school,5.006997539792297
+2,O3_ZonaSur,19.28,-99.645,Quetzalli Centro De Educacion Formacion Y Desarrollo,19.243445,-99.6166742,school,amenity,school,5.036165957723987
+2,O3_ZonaSur,19.28,-99.645,Escuela Para Adultos Lic Benito Juárez 15eba2412j,19.2689239,-99.6916505,school,amenity,school,5.0490564139981045
+2,O3_ZonaSur,19.28,-99.645,Instituto Nevadi,19.2390758,-99.6234433,school,amenity,school,5.082135164607038
+2,O3_ZonaSur,19.28,-99.645,Instituto Baluarte,19.2441838,-99.6141962,school,amenity,school,5.129944889426874
+2,O3_ZonaSur,19.28,-99.645,Escuela Telesecundaria #238 Angel Maria Garibay Kintanade Santiago Miltepc,19.3242592,-99.6595971,school,amenity,school,5.1543026960319445
+2,O3_ZonaSur,19.28,-99.645,Transportes De Pasajeros De Segunda Clase Flecha De Oro,19.2782153,-99.6437282,bus,amenity,bus_station,0.23916745397767777
+2,O3_ZonaSur,19.28,-99.645,Venta De Boletos De Autotransportes de Pasajeros Mex Toluca Flecha Roja,19.2781602,-99.6437304,bus,amenity,bus_station,0.24414905128418887
+2,O3_ZonaSur,19.28,-99.645,Central de Autobuses ETN Turistar,19.2770817,-99.6437951,bus,amenity,bus_station,0.348272831253004
+2,O3_ZonaSur,19.28,-99.645,Autotransportes Primero de Mayo,19.2758983,-99.6450455,bus,amenity,bus_station,0.4561132329079484
+2,O3_ZonaSur,19.28,-99.645,Autotransporte Rapidos De Toluca,19.3021423,-99.6304532,bus,amenity,bus_station,2.897039179696078
+2,O3_ZonaSur,19.28,-99.645,Autotransportes Azteca Toluca Ixtlahuaca,19.3059263,-99.635738,bus,amenity,bus_station,3.0423410512755322
+2,O3_ZonaSur,19.28,-99.645,Autobuses Herradura De Occidente,19.3138672,-99.6385234,bus,amenity,bus_station,3.8267096656403883
+2,O3_ZonaSur,19.28,-99.645,Linea de transporte publico Adolfo Lopez Mateos,19.2623525,-99.6777899,bus,amenity,bus_station,3.9618752069277425
+2,O3_ZonaSur,19.28,-99.645,Flecha Roja,19.3170908,-99.6451535,bus,amenity,bus_station,4.124340246179064
+2,O3_ZonaSur,19.28,-99.645,Sistema De Transportes Tollocan,19.2608975,-99.6833373,bus,amenity,bus_station,4.550266629660444
+2,O3_ZonaSur,19.28,-99.645,bus (OSM),19.3124937,-99.612694,bus,amenity,bus_station,4.954791143384795
+2,O3_ZonaSur,19.28,-99.645,Turismo Y Autobuses Mexico Toluca Triangulo Flecha Sa De Cv,19.2867181,-99.5940144,bus,amenity,bus_station,5.403161513101637
+2,O3_ZonaSur,19.28,-99.645,Estacionamiento de el Piojo,19.2931579,-99.5899783,bus,amenity,bus_station,5.957235334830198
+2,O3_ZonaSur,19.28,-99.645,Compañia Transportista De Toluca,19.2225761,-99.6593656,bus,amenity,bus_station,6.560915489102908
